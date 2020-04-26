@@ -1,4 +1,4 @@
 ---
 layout: home
-entries:
+entries: null
 ---
