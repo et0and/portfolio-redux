@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: Blog
+title: Projects
 eleventyNavigation:
-  key: News
+  key: Projects
   order: 2
 ---
