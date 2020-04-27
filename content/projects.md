@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: project
 title: Projects
 eleventyNavigation:
   key: Projects
