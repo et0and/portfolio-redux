@@ -6,10 +6,40 @@ eleventyNavigation:
   order: 1
 ---
 
+Kia ora, tēnā koutou katoa
+Ko Hakodate-yama rāua ko Ōwairaka ōku maunga
+Ko Matsukura te awa
+Ko Waitangi tōku waka
+Ko Ngāti Japanese rāua ko Pākeha ōku iwi
+Ko Te Aka Matua o Te Pou Hawaiki tōku marae
+Ko Iwāo Yufu rāua ko Desmond Hackshaw ōku tipuna
+Ko Ross Hackshaw rāua ko Chiaki Yufu ōku mātua
+No Hakodate rāua ko Tāmaki Makaurau ōku ahau
+Ko Hackshaw rāua ko Yufu ōku whānau
+Ko Tom tōku ingoa
 
+This is my humble website of projects and resources.
+This site is always under construction. It was last updated on Monday 27 April, 2020 in Tāmaki Makaurau, Aotearoa.
 
-This is a lightweight portfolio starter kit by [Sam Baldwin](https://sambaldwin.info) and [Piper Haywood](https://piperhaywood.com). The thinking behind it comes from a decade of experience designing and building portfolios for designers, illustrators, architects, and other people that want to share their work and activity online.
+Prior to working in education I came from an art and design background. This is important.
 
-Portfolio Starter is lightweight and open source. The intended user may not know how to code but is interested in the tech behind their website, is willing to write in Markdown, and is happy to follow a few instructions. The codebase is deliberately basic to encourage tinkering and customisation for everyone, including a beginner that is just beginning to learn why `alt` text is important (hint: it’s really important). Since it uses the static site generator [Eleventy](https://www.11ty.dev/), Portfolio Starter can be hooked up to free static hosting providers such as Netlify or ZEIT Now.
+I’ve had a fascination with the Web and technology from a young age, and got to know all kinds of different people through IRC and Usenet channels. I feel as though I grew up on the Internet, and that it has taught me a lot of what I know.
 
-[Check out the documentation](https://github.com/sb-ph/portfolio-starter) to start experimenting, you can get a website online with the click of a few buttons. If you give it a try, [let us know](mailto:mail@sb-ph.com)! We’d love to see how people use it and where they take it.
+I am of the belief that the World Wide Web is a genuine social accomplishment and that we, as custodians of the Internet, should take care of it. I am reluctant to use monolithic platforms, particularly social media, as I feel these are walled gardens or closed silos.
+
+This site is a labour of love. While it isn’t the most flash or professional looking, it is something that I tend to often. I can continually add to it, change things, and watch it grow. I consider it to be akin to a house or garden, one I will upkeep to make it beautiful.
+
+If what I see in or express of myself reminds you of your own actions, then together we’ve made something and that’s awesome!
+
+Sincerely,
+Tom Hackshaw
+
+If you ever want to contact me, use the email link on the frontpage! Otherwise, chat with me on the following:
+
+Urbit ~falsef-nostyp
+
+Delta (tom at firstnamelastname dot com)
+
+SSB @7Ulofc/0mv0X057xiu2Lr/IsAYKDhZoB2nBN6QF4wnQ=.ed25519
+
+[About this site](/siteinfo)[Manifesto](/manifesto)[Accessibility](/accessibility)[License](/license)[CV](https://docs.google.com/spreadsheets/d/1IzqlF6SldK-GU2XB0Mdm1Un5rmUE6OPokQoP381YRYA/edit?usp=sharing)
