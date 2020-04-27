@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
-  key: GitHub &nearr;
+  key: Contact &nearr;
   order: 3
-  url: http://github.com/sb-ph/portfolio-starter
+  url: "mailto:tom@tomhackshaw.com"
 permalink: false
 ---
