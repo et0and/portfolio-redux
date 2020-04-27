@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   key: Contact &nearr;
-  order: 4
+  order: 6
   url: "mailto:tom@tomhackshaw.com"
 permalink: false
 ---
