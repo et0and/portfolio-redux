@@ -34,11 +34,13 @@ If what I see in or express of myself reminds you of your own actions, then toge
 Sincerely,
 Tom Hackshaw
 
-If you ever want to contact me, use the email link on the frontpage! Otherwise, chat with me on the following:
+If you ever want to contact me, chat with me on the following:
+
+Email `tom@tomhackshaw.com`
 
 Urbit `~falsef-nostyp`
 
-Delta `tom at firstnamelastname dot com`
+Delta `tom@tomhackshaw.com`
 
 SSB `@7Ulofc/0mv0X057xiu2Lr/IsAYKDhZoB2nBN6QF4wnQ=.ed25519`
 
