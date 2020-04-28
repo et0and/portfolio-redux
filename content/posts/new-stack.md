@@ -9,7 +9,7 @@ Over the past few days I've completely rewritten my website and have switched to
 My previous site was a fork of [Hunor Karamán's website](https://hex22.org), built with [Choo](https://choo.io) and [Enoki](https://enoki.site). I really liked the flat-file structure of the site, but began feeling like things were too abstracted and limited. For example, posts on the site didn't always play well with screen readers which created an accessibility issue. The site also didn't scale well to desktop screens, with a massive amount of unused whitespace squishing all content to the lefthand side.
 
 <figure>
-    <img src="/content/media/old-site.jpg" alt="Screenshot of my old site, with massive whitespace on the righthand side" />
+    <img src="/media/old-site.jpg" alt="Screenshot of my old site, with massive whitespace on the righthand side" />
     <figcaption>My old website - look at all that unused space!</figcaption>
 </figure>
 
