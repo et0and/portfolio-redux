@@ -25,5 +25,5 @@ Always strive towards working with others so together we can achieve more, and d
 Understand the importance of tikanga Māori, taonga, and the principles of partnership, participation and protection that make up the Treaty.
 
 *Contributing to the establishment of a One Asia*
-Work on and support the efforts of others to promote the formation of an Asian Community of the future (see [here](/projects/new-asia-group))
+Work on and support the efforts of others to promote the formation of an Asian Community of the future (see [here](/projects/future-asian-community))
 
