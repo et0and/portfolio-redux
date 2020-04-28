@@ -66,8 +66,5 @@ eleventyNavigation:
 [The Museum Without Walls](/projects/museum-without-walls)
 ↳ A Macintosh Hypercard project
 
-[Webring Wiki](/projects/webring-wiki)
-↳ A decentralised, collaborative wiki
-
 [Whitecub.es](/projects/whitecubes)
 ↳ An interactive art map
