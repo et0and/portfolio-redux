@@ -7,7 +7,7 @@ media:
     filename: microme.jpg
     size: sm
     alt: Image of small saplings growing inside a box
-    caption: "[Merveilles poster by Devine Du Linvega &nearr;](https://wiki.xxiivv.com)"
+    caption: "Marigold and watercress saplings growing"
 ---
 
 Microme is a small scale indoor garden experiment ("micro-biome") for growing seedlings to be ready for the Summer. As a response to the declining population of bees, Microme has focused on growing Marigold flowers through the Winter for transplanting in the Summer.
