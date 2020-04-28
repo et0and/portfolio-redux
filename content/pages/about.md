@@ -42,6 +42,7 @@ Urbit `~falsef-nostyp`
 
 Delta `tom@tomhackshaw.com`
 
-SSB `@7Ulofc/0mv0X057xiu2Lr/IsAYKDhZoB2nBN6QF4wnQ=.ed25519`
+SSB @7Ulofc/0mv0X057xiu2Lr/Is
+AYKDhZoB2nBN6QF4wnQ=.ed25519
 
 [About this site](/siteinfo) [Manifesto](/manifesto) [Accessibility](/accessibility) [License](/license) [CV](https://docs.google.com/spreadsheets/d/1IzqlF6SldK-GU2XB0Mdm1Un5rmUE6OPokQoP381YRYA/edit?usp=sharing)
