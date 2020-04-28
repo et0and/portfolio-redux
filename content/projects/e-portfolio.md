@@ -5,7 +5,7 @@ dateEnd: 2019-09-20
 media:
   - type: image
     filename: e-portfolio.png
-    size: sm
+    size: md
     alt: Screenshot of my e-portfolio wiki which shows evidence of my teaching knowledge
     caption: "Screenshot of e-Portfolio"
 ---
