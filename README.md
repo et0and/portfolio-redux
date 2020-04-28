@@ -1,4 +1,4 @@
-# Tom Hackshaw's personal site
+# Portfolio Redux
 
 ![Screenshot of website](shot.png)
 
