@@ -1,9 +1,6 @@
 ---
 layout: page
 title: About
-eleventyNavigation:
-  key: About
-  order: 1
 ---
 
 Kia ora, tēnā koutou katoa
