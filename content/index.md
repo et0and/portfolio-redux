@@ -1,8 +1,10 @@
 ---
+title: TOM HACKSHAW
 layout: home
 media:
-  - type: image
-    filename: data.jpg
-    size: md
-    alt: Big data no thanks
+  - type: video
+    filename: diary3.mp4
+    caption: "Untitled"
+    controls: true
+    size: sm
 ---
