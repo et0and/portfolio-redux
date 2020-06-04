@@ -1,6 +1,6 @@
 ---
 title: TOM HACKSHAW
-layout: home
+layout: project
 media:
   - type: video
     filename: diary3.mp4
@@ -8,3 +8,4 @@ media:
     controls: true
     size: sm
 ---
+
