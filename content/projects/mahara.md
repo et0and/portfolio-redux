@@ -5,37 +5,37 @@ dateEnd: 2020-06-09
 media:
   - type: image
     filename: mahara1.png
-    size: md
+    size: sm
     alt: Loading screen of Mahara app
     caption: "Loading screen upon opening app"
   - type: image
     filename: mahara2.png
-    size: md
+    size: sm
     alt: Sign up screen for Mahara
     caption: "Sign up screen upon first opening app"
   - type: image
     filename: mahara3.png
-    size: md
+    size: sm
     alt: NFC popup prompt for app
     caption: "NFC prompt"
   - type: image
     filename: mahara4.png
-    size: md
+    size: sm
     alt: QR camera popup prompt for app
     caption: "QR prompt"
   - type: image
     filename: mahara5.png
-    size: md
+    size: sm
     alt: Calendar view showing places the user has checked in
     caption: "Calendar/location view showing visited places"
   - type: image
     filename: mahara6.png
-    size: md
+    size: sm
     alt: A menu screen showing the different options of the app
     caption: "Menu screen"
   - type: image
     filename: mahara7.png
-    size: md
+    size: sm
     alt: An about screen showing the development information of the app
     caption: "About screen"
 ---
