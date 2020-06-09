@@ -39,6 +39,9 @@ eleventyNavigation:
 [Mahara](/projects/mahara)
 ↳ An offline and open source contact tracing app
 
+[Maia](/projects/maia)
+↳ A decentralised payments app built on Stellar
+
 [Markono](/projects/markono)
 ↳ A program for generating performance instructions
 
