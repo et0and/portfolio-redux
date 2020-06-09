@@ -31,7 +31,12 @@ media:
   - type: image
     filename: mahara6.png
     size: md
-    alt: A credits screen showing the development information of the app
+    alt: A menu screen showing the different options of the app
+    caption: "Menu screen"
+  - type: image
+    filename: mahara7.png
+    size: md
+    alt: An about screen showing the development information of the app
     caption: "About screen"
 ---
 
