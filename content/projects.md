@@ -36,6 +36,9 @@ eleventyNavigation:
 [Hyperjam](/projects/hyperjam)
 ↳ An interactive art festival hosted by Merveilles
 
+[Mahara](/projects/mahara)
+↳ An offline and open source contact tracing app
+
 [Markono](/projects/markono)
 ↳ A program for generating performance instructions
 
