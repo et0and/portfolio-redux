@@ -63,6 +63,9 @@ eleventyNavigation:
 [Praise of Shadows](/projects/praise-of-shadows)
 ↳ A research archive on shadows
 
+[Rohm](/projects/rohm)
+↳ A tool for networked thought
+
 [Some Quiet Tips](/projects/some-quiet-tips)
 ↳ A mental health resource
 
