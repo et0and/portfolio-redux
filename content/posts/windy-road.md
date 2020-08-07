@@ -12,7 +12,6 @@ Quite a bit had happened in the last few weeks but I haven't had the time to pro
 
 - developing a greater understanding and practice of [UDL](http://www.cast.org/our-work/about-udl.html) with how I approach design
 
-Looking forward to processing this all once everything settles down. Until then, I'll be [spinning in the air like an omelette](https://
-www.are.na/block/7993243)
+Looking forward to processing this all once everything settles down. Until then, I'll be [spinning in the air like an omelette](https://www.are.na/block/7993243)
 
 T.
