@@ -16,9 +16,7 @@ Ko Hackshaw rāua ko Yufu ōku whānau
 Ko Tom tōku ingoa
 
 This is my humble website of projects and resources.
-This site is always under construction. It was last updated on Monday 27 April, 2020 in Tāmaki Makaurau, Aotearoa.
-
-Prior to working in education I came from an art and design background. This is important.
+This site is always under construction. It was last updated on Friday 7 August, 2020 in Tāmaki Makaurau, Aotearoa.
 
 I’ve had a fascination with the Web and technology from a young age, and got to know all kinds of different people through IRC and Usenet channels. I feel as though I grew up on the Internet, and that it has taught me a lot of what I know.
 
