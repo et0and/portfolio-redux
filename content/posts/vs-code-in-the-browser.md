@@ -14,4 +14,6 @@ Development on a phone using this method would still be a bit cumbersome, as typ
 
 I am going to try testing out deploying my own code-server instance and will update this post after giving it a go!
 
+(UPDATE 9/8/2020) - After having used code-server for a few weeks now, I think this would be excellent for any developing working from machine to machine. I personally don't really need this as I normally am just using my own machine, but I'm still glad this exists!
+
 T.
