@@ -1,0 +1,16 @@
+---
+layout: post
+title: Using a fully Office 365 stack - my thoughts
+date: 2020-08-09 11:55:00
+---
+
+The school that I work at is considered a "Microsoft school." Depending on the type of infrasture stack that the respective school decides to use it will be dubbed this or "Google school", "Schoology school" and so on. Having avoid Microsoft products for the past few years, going back to it for work has been an interesting experience.
+
+I think that Microsoft has come a long way as far as building collaboration and communication tools over the past few years since Satya Nadella became CEO. It's clear that their new focus is on the cloud and cloud product offerings, and Office 365 is no exception. I really appreciate some of the accessibility features built in by default with tools like OneNote having a dictation mode, or being able to navigate something like Teams entirely via the keyboard. For teaching students who are all unique and different, these types of design choices make it much easier for someone like me to implement UDL into my teaching practice.
+
+There are a few rough spots though. OneNote frequently likes to crash, and has a very weird way of rendering text where the top half of letters get cut off by the sentence above. Teams can be buggy as well, with window resizing sometimes causing the app to freeze up completely as well as files occasionally refusing to sync with my filesystem on OneDrive. These bugs don't happen often and are still miles better than some of the monstrous legacy software tools used by some schools in Aotearoa, but there's definitely room for improvement. 
+
+Still, I would always advocate for a stack that is libre, open and transparent by default over something proprietary. If I had the choice, I would use and recommend software such as Standard Notes for note-taking, Matrix for communication and Syncthing for cross-system file synchronisation. Keep the user in control of their data!
+
+Stay safe,
+T.
