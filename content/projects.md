@@ -54,6 +54,9 @@ eleventyNavigation:
 [Microme](/projects/microme)
 ↳ An indoor garden
 
+[Models](/projects/models)
+↳ An STL repository
+
 [Performa](/projects/performa)
 ↳ A performance art archive
 
