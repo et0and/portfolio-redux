@@ -10,7 +10,7 @@ Currently reading
 Carl Gustav Jung - "The Red Book"
 Garry Kasparov - "Deep Thinking"
 
-*2020*
+**2020**
 
 Fyodor Dostoevsky - "Crime and Punishment"
 Jorge Luis Borges - "Labyrinths"
