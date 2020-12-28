@@ -1,9 +1,13 @@
 ---
 layout: page
 title: Bookshelf
+media:
+  - type: image
+    filename: libernovus.jpg
+    size: md
+    alt: A spread from Carl Gustav Jung's "The Red Book"
+    caption: "A spread from Carl Gustav Jung, 'The Red Book' (1915-30)"
 ---
-
-(Page in progress)
 
 **Currently reading**
 
