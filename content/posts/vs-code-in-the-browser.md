@@ -10,8 +10,6 @@ Last night a stumbled upon [code-server](https://github.com/cdr/code-server), a 
 
 Development on a phone using this method would still be a bit cumbersome, as typing on a touchscreen would be much harder compared to a physical keyboard for longer dev sessions. However, on a device like an iPad which has more screen realestate and supports Bluetooth keyboards it would make for a nifty portable dev environment!
 
-![VS Code running inside macOS Safari](https://raw.githubusercontent.com/cdr/code-server/master/doc/assets/screenshot.png)
-
 I am going to try testing out deploying my own code-server instance and will update this post after giving it a go!
 
 (UPDATE 9/8/2020) - After having used code-server for a few weeks now, I think this would be excellent for any developing working from machine to machine. I personally don't really need this as I normally am just using my own machine, but I'm still glad this exists!

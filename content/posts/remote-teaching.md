@@ -4,8 +4,6 @@ title: Remote teaching - one week update
 date: 2020-08-19 16:58:00
 ---
 
-![Man with headphones on works on a computer](https://images.unsplash.com/photo-1497493292307-31c376b6e479?ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80)
-
 It has been approximately a week since Auckland, New Zealand went back into Level 3 lock-down over the Covid-19 pandemic. Since Thursday last week I have been teaching my students remotely through live conferencing software such as Microsoft Teams in place of physical lessons. This is my first time teaching remotely, and there are a few things that have arised which I didn't expect.
 
 I (foolishly) assumed that most of my students had some grasp of how to navigate different systems and services. Given that they are young and part of what is considered Generation Z, I thought that nearly all of them would have at least some level of digital literacy (and if not that they knew where to look). However, this stint in remote teaching has highlighted to me just how wrong I was - there is a vast difference in abilities around using computers among my students, right down to the most basic and fundamental functions like copy and paste.
