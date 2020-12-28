@@ -5,7 +5,7 @@ title: Bookshelf
 
 (Page in progress)
 
-Currently reading
+**Currently reading**
 
 Carl Gustav Jung - "The Red Book"
 Garry Kasparov - "Deep Thinking"
