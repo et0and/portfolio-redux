@@ -15,8 +15,19 @@ No Hakodate rāua ko Tāmaki Makaurau ōku ahau
 Ko Hackshaw rāua ko Yufu ōku whānau
 Ko Tom tōku ingoa
 
+これは私のプロジェクトとリソースのウェブサイトです。
+このサイトは常に建設中です。
+
+私は若い頃からウェブとテクノロジーに魅了されていて、IRCやユーズネットのチャンネルを通して様々な人々と知り合いになりました。インターネットで育ったような気がしますし、それが私の知っていることの多くを教えてくれたような気がします。
+
+WWWは真の社会的成果であり、インターネットの管理者である私たちはそれを大切にすべきだと信じています。私は、モノリシックなプラットフォーム、特にソーシャルメディアを使うことに消極的ですが、これらは壁に囲まれた庭や閉鎖されたサイロのようなものだと感じています。
+
+このサイトは愛の労作です。それは最もフラッシュやプロの外観ではありませんが、それは私が頻繁に傾向があるものです。私はそれに継続的に追加し、物事を変更し、それが成長するのを見ることができます。私はそれを家や庭に似ていると考えています。
+
+自分の中にあるものを見たり、表現したりすることで、自分の行動を思い出すことができれば、一緒に何かを作っていくことができます。
+
 This is my humble website of projects and resources.
-This site is always under construction. It was last updated on Friday 7 August, 2020 in Tāmaki Makaurau, Aotearoa.
+This site is always under construction. 
 
 I’ve had a fascination with the Web and technology from a young age, and got to know all kinds of different people through IRC and Usenet channels. I feel as though I grew up on the Internet, and that it has taught me a lot of what I know.
 
