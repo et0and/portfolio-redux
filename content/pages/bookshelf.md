@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: Bookshelf
 media:
   - type: image
