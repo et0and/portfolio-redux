@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Wiki
 eleventyNavigation:
-  key: Projects
+  key: Wiki
   order: 2
 ---
 
