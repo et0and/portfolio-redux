@@ -47,7 +47,9 @@ eleventyNavigation:
 [Whitecub.es](/projects/whitecubes)
 ↳ An interactive art map
 
-**Research** (Things that I am currently researching, usually on are.na)
+<br><br>
+
+**Research** (Things that I am interested in)
 
 [Aotearoa Artist Ephemera](/projects/aotearoa-artist-ephemera)
 ↳ An artist and gallery ephemera archive
@@ -72,6 +74,8 @@ eleventyNavigation:
 
 [Praise of Shadows](/projects/praise-of-shadows)
 ↳ A research archive on shadows
+
+<br><br>
 
 **Programming** (A collection of notes on programming languages)
 
