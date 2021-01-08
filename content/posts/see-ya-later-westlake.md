@@ -24,3 +24,5 @@ It is the people, it is the people, it is the people.
 
 [Perhaps in time,](https://www.are.na/block/9360647)
 T.
+
+=> This post is also available [on gemini](gemini://gemlog.blue/users/tom/1610084390.gmi)
