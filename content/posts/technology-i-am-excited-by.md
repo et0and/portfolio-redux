@@ -19,3 +19,5 @@ This is a recent neural network developed by [OpenAI](https://openai.com) that c
 
 [Seen,](https://www.are.na/block/10065820)
 T.
+
+=> This post is also available [on gemini](https://proxy.vulpes.one/gemini/gemlog.blue/users/tom/1610084113.gmi)
