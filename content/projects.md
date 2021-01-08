@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 2
 ---
 
-**Personal projects and tools** (Things that I have made)
+**Personal projects and tools** 
 
 [An Idea for a Performance](/projects/an-idea-for-a-performance)
 ↳ A tool for generating ideas
@@ -49,7 +49,7 @@ eleventyNavigation:
 
 <br><br>
 
-**Research** (Things that I am interested in)
+**Research**
 
 [Aotearoa Artist Ephemera](/projects/aotearoa-artist-ephemera)
 ↳ An artist and gallery ephemera archive
@@ -77,7 +77,7 @@ eleventyNavigation:
 
 <br><br>
 
-**Programming** (A collection of notes on programming languages)
+**Programming**
 
 [Assembly](/notes/asm)
 
