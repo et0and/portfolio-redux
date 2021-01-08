@@ -27,12 +27,6 @@ eleventyNavigation:
 [e-Portfolio](/projects/e-portfolio)
 ↳ A portfolio of my teaching
 
-[Eda](/projects/eda)
-↳ An SRI fund for investing in community projects
-
-[Future Asian Community](/projects/future-asian-community)
-↳ A vision for a united global Asian community
-
 [Hyperjam](/projects/hyperjam)
 ↳ An interactive art festival hosted by Merveilles
 
@@ -65,9 +59,6 @@ eleventyNavigation:
 
 [Praise of Shadows](/projects/praise-of-shadows)
 ↳ A research archive on shadows
-
-[Rohm](/projects/rohm)
-↳ A tool for networked thought
 
 [Some Quiet Tips](/projects/some-quiet-tips)
 ↳ A mental health resource
