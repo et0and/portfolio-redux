@@ -1,7 +1,6 @@
 ---
-layout: project
+layout: page
 title: Assembly
-dateEnd: 2021-01-09
 ---
 
 Assembly (asm) is any low-level programming language in which there is a very strong correspondence between the instructions in the language and the architecture's machine code instructions. It is often referred to as _machine code_ for this reason. An assembler translates the assembly language syntax into their numerical equivalents.

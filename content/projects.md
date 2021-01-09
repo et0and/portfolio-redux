@@ -79,13 +79,13 @@ eleventyNavigation:
 
 **Programming**
 
-[Assembly](/notes/asm)
+[Assembly](/asm)
 
-[C](/notes/c)
+[C](/c)
 
-[C++](/notes/cpp)
+[C++](/cpp)
 
-[Python](/notes/py)
+[Python](/py)
 
 
 

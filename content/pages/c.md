@@ -1,7 +1,6 @@
 ---
-layout: project
+layout: page
 title: C
-dateEnd: 2021-01-09
 ---
 
 C is the native language of Unix. It has come to dominate systems programming in the computer industry. It is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. 
