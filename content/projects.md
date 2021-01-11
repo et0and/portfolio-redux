@@ -45,7 +45,7 @@ eleventyNavigation:
 ↳ An art history resource
 
 [This Building Does Not Exist](/projects/this-building-does-not-exist)
-↳ A experiment generating buildings with StyleGAN
+↳ An experiment generating buildings with StyleGAN
 
 [Whitecub.es](/projects/whitecubes)
 ↳ An interactive art map
@@ -90,6 +90,6 @@ eleventyNavigation:
 
 [Python](/py)
 
-
+[Vim](/vim)
 
 
