@@ -1,7 +1,7 @@
 {
   "title": "Tom Hackshaw",
   "lang": "en-gb",
-  "footer": "© Nothing Market 2020 <a href='/about' alt='Link to About page' />About</a> <a href='/manifesto' alt='Manifesto for making and being' />Manifesto</a> <a href='/accessibility' alt='Accessibility information of this site' />Accessibility</a> <a href='/projects/bookshelf' alt='Link to books I am currently reading, and have previously read' />Bookshelf</a> <a href='https://git.sr.ht/~tomupom/portfolio-redux/tree/master/LICENSE' alt='Sourcehut link to license of site' />License</a> <a href='https://webring.xxiivv.com/#random' target='_blank' alt='Link to the XXIIVV webring' />Webring</a>",
+  "footer": "© Nothing Market 2020 <a href='/about' alt='Link to About page' />About</a> <a href='/manifesto' alt='Manifesto for making and being' />Manifesto</a> <a href='/accessibility' alt='Accessibility information of this site' />Accessibility</a> <a href='/projects/bookshelf' alt='Link to books I am currently reading, and have previously read' />Bookshelf</a> <a href='https://git.sr.ht/~tomupom/portfolio-redux.git/tree/master/LICENSE' alt='Sourcehut link to license of site' />License</a> <a href='https://webring.xxiivv.com/#random' target='_blank' alt='Link to the XXIIVV webring' />Webring</a>",
   "url": "https://portfolio-starter.sb-ph.com",
   "author": {
     "name": "Tom Hackshaw",
