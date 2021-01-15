@@ -139,8 +139,20 @@ pre {
   overflow-x: auto;
 }
 
-img,
-video,
+img {
+  display: inline-block;
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+video {
+  display: inline-block;
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
 iframe {
   display: inline-block;
   height: 590px;
