@@ -143,7 +143,7 @@ img,
 video,
 iframe {
   display: inline-block;
-  height: auto;
+  height: 590px;
   max-width: 100%;
   vertical-align: middle;
 }
