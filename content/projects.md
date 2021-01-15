@@ -78,6 +78,9 @@ eleventyNavigation:
 [Praise of Shadows](/projects/praise-of-shadows)
 ↳ A research archive on shadows
 
+[WWW](/projects/www)
+↳ A collection of site on the World Wide Web
+
 <br><br>
 
 **Programming**
