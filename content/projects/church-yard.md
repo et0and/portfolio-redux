@@ -11,3 +11,5 @@ media:
 ---
 
 Church Yard is a private archive containing documentaries and papers relating to or about the Danish philosopher and theologian Søren Kierkegaard. I created the archive as a personal resource to further my understanding and research of Kierkegaard's work.
+
+

@@ -11,3 +11,5 @@ media:
 ---
 
 [Derridata](https://are.na/tom-y/derridata) is a growing research archive dedicated to the work of French postmodernist and deconstructionist Jacques Derrida.
+
+<iframe style="border:none;" width="100%" height="590" src="https://www.are.na/tom-y/derridata/embed" title="Tom Hackshaw’s Are.na channel “Derridata”"></iframe>

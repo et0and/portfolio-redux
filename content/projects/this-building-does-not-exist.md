@@ -16,4 +16,4 @@ These images are a starting point. I am hoping to use them to create further wor
 
 For the meantime generated buildings are being curated and saved [here on are.na.](https://www.are.na/tom-y/this-building-does-not-exist)
 
-
+<iframe style="border:none;" width="100%" height="590" src="https://www.are.na/tom-y/this-building-does-not-exist/embed" title="Tom Hackshaw’s Are.na channel “This Building Does Not Exist”"></iframe>

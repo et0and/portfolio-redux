@@ -12,3 +12,4 @@ media:
 
 [Philemon](https://are.na/tom-y/philemon) is an are.na research archive containing documentaries and papers relating to or about the Swiss psychoanalyst Carl Gustav Jung. I created the archive as a personal resource to further my understanding and research of Jungian psychology.
 
+<iframe style="border:none;" width="100%" height="590" src="https://www.are.na/tom-y/philemon/embed" title="Tom Hackshaw’s Are.na channel “Philemon”"></iframe>

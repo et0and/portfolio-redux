@@ -60,14 +60,14 @@ eleventyNavigation:
 [Artists from Asia](/projects/artists-from-asia)
 ↳ A database of artists from Asia
 
-[Atlas](/projects/atlas)
-↳ A growing hybrid archive of reference material
-
 [Church Yard](/projects/church-yard)
 ↳ A research archive on Søren Kierkegaard
 
 [Derridata](/projects/derridata)
 ↳ A research archive dedicated to the work of Jacques Derrida
+
+[Imaginary Museum](/projects/imaginary-museum)
+↳ A growing archive of reference material
 
 [Performa](/projects/performa)
 ↳ A performance art archive
