@@ -1,7 +1,6 @@
 ---
 layout: project
 title: Notes on chess
-dateEnd: 2020-04-20
 ---
 
 _Chess has no social purpose. That, above all, is important_ - Marcel Duchamp
