@@ -60,6 +60,9 @@ eleventyNavigation:
 [Artists from Asia](/projects/artists-from-asia)
 ↳ A database of artists from Asia
 
+[Chess](/projects/chess)
+↳ Study into the game of chess, including different openings and strategies of play
+
 [Church Yard](/projects/church-yard)
 ↳ A research archive on Søren Kierkegaard
 
