@@ -12,6 +12,8 @@ Chess is a recreational and competitive board game played between two players. S
 
 It is an abstract strategy game and involves no hidden information. It is played on a square chessboard with 64 squares arranged in an eight-by-eight grid. At the start, each player (one controlling the white pieces, the other controlling the black pieces) controls sixteen pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns. The object of the game is to checkmate the opponent's king, whereby the king is under immediate attack (in "check") and there is no way to remove it from attack on the next move. There are also several ways a game can end in a draw.
 
+===
+
 ## Openings
 
 __The Sicilian Defense__
@@ -38,4 +40,4 @@ __Caro-Kann Defense__
 
 A solid, quiet opening. White moves e4 and Black responds c5, ready to support the move d5 to challenge e4.
 
-[Caro-Kann](/media/carokann.png)
+![Caro-Kann](/media/carokann.png)
