@@ -69,6 +69,9 @@ eleventyNavigation:
 [Derridata](/projects/derridata)
 ↳ A research archive dedicated to the work of Jacques Derrida
 
+[He Papa Tikanga](/projects/hepapatikanga)
+↳ Study into tikanga Māori, taken through Te Wānanga o Aotearoa
+
 [Imaginary Museum](/projects/imaginary-museum)
 ↳ A growing archive of reference material
 
