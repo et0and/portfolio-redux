@@ -95,7 +95,7 @@ body {
   }
 
   body a {
-    color: #809fff;
+    color: #2fd5ff;
   }
 }
 
@@ -224,7 +224,7 @@ Layout / global includes
 }
 
 .site-footer {
-  font-size: var(--font-size-small);
+  font-size: var(--font-size-medium);
   margin-top: auto;
   margin-bottom: 1rem;
   margin-left: auto;
