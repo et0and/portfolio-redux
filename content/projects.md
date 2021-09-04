@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Wiki
+title: Research
 eleventyNavigation:
-  key: Wiki
+  key: Research
   order: 2
 ---
 
