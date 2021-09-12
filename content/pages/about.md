@@ -18,12 +18,12 @@ Aside from design, I enjoy 3D printing, coffee runs, and binging episodes of Dan
 
 #### Select clients ####
 
-##### Education #####
+**Education**
 Google UX Design certificate, 2021
 Grad Dip Teaching Secondary, The University of Auckland, 2019
 BFA Hons, The University of Auckland, 2014-2017 
 
-##### Awards #####
+**Awards**
 Google Certified Educator Level 1, 2021
 Elam First in Course Award 2014-2016
 First Class Honours, The University of Auckland 2017
