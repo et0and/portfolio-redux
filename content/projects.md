@@ -1,39 +1,21 @@
 ---
 layout: page
-title: Research
+title: Experiments
 eleventyNavigation:
-  key: Research
+  key: Experiments
   order: 2
 ---
 
-**Personal projects and tools** 
+**Personal projects and experiments** 
 
 [An Idea for a Performance](/projects/an-idea-for-a-performance)
 ↳ A tool for generating ideas
 
-[e-Portfolio](/projects/e-portfolio)
-↳ A portfolio of my teaching
-
 [Hyperjam](/projects/hyperjam)
 ↳ An interactive art festival hosted by Merveilles
 
-[Mahara](/projects/mahara)
-↳ An offline and open source contact tracing app
-
-[Maia](/projects/maia)
-↳ A decentralised payments app built on Stellar
-
 [Markono](/projects/markono)
 ↳ A program for generating performance instructions
-
-[Mera](/projects/mera)
-↳ A modified Canon 600D
-
-[Microme](/projects/microme)
-↳ An indoor garden
-
-[Models](/projects/models)
-↳ An STL repository
 
 [Some Quiet Tips](/projects/some-quiet-tips)
 ↳ A mental health resource
@@ -54,12 +36,6 @@ eleventyNavigation:
 
 **Research**
 
-[Aotearoa Artist Ephemera](/projects/aotearoa-artist-ephemera)
-↳ An artist and gallery ephemera archive
-
-[Artists from Asia](/projects/artists-from-asia)
-↳ A database of artists from Asia
-
 [Chess](/projects/chess)
 ↳ Some notes on the game of chess
 
@@ -68,9 +44,6 @@ eleventyNavigation:
 
 [Derridata](/projects/derridata)
 ↳ A research archive dedicated to the work of Jacques Derrida
-
-[He Papa Tikanga](/projects/hepapatikanga)
-↳ Study into tikanga Māori, taken through Te Wānanga o Aotearoa
 
 [Imaginary Museum](/projects/imaginary-museum)
 ↳ A growing archive of reference material
@@ -81,24 +54,10 @@ eleventyNavigation:
 [Philemon](/projects/philemon)
 ↳ A Jungian research archive
 
-[Praise of Shadows](/projects/praise-of-shadows)
-↳ A research archive on shadows
+[Poetics of Space](/projects/poetics-of-space)
+↳ A research archive on spaces
 
 [WWW](/projects/www)
 ↳ A collection of site on the World Wide Web
-
-<br><br>
-
-**Programming**
-
-[Assembly](/asm)
-
-[C](/c)
-
-[C++](/cpp)
-
-[Python](/py)
-
-[Vim](/vim)
 
 
