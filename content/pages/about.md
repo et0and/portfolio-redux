@@ -6,6 +6,8 @@ eleventyNavigation:
   order: 3
 ---
 
+![Black and white portrait of my face](/media/face.png)
+
 ## Hi! I'm Tom, ##
 
 I specialize in bridging brand identity with UX/UI to create beautiful and meaningful design solutions for the future.
