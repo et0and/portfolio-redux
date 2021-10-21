@@ -18,3 +18,8 @@ Output directory: `_site`
 From the Vercel dashboard you can set things like redirects, custom domains, and so on.
 
 The source of my site is hosted both on GitHub and Sourcehut. Any future projects that I embark on will do the same, with the hope that eventually I can migrate all of my development onto Sourcehut.
+
+Deploy using Vercel below
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/sb-ph/portfolio-starter)
+
