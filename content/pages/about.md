@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 3
 ---
 
-![Black and white portrait of my face](/media/face.png)
+![Black and white portrait of my face](/media/tom.gif)
 
 ## Hi! I'm Tom, ##
 
