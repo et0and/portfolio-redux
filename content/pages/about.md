@@ -14,7 +14,7 @@ I’ve always admired how good design has the power to shape our world. Whether 
 
 Aside from design, I enjoy 3D printing, coffee runs, and binging episodes of Danish crime dramas.
 
-Find me on [are.na](https://are.na/tom-y), [LinkedIn](https://linkedin.com/in/tom-hackshaw), or say hi: [mailto:tom@tomhackshaw.com](tom@tomhackshaw.com) / ~falsef-nostyp
+Find me on [are.na](https://are.na/tom-y), [LinkedIn](https://linkedin.com/in/tom-hackshaw), or say hi: [tom@tomhackshaw.com](mailto:tom@tomhackshaw.com) / ~falsef-nostyp
 
 **Education**
 Grad Dip Teaching Secondary, The University of Auckland, 2019
