@@ -16,7 +16,7 @@ Aside from design, I enjoy 3D printing, coffee runs, and binging episodes of Dan
 
 Find me on [are.na](https://are.na/tom-y), [LinkedIn](https://linkedin.com/in/tom-hackshaw), 
 
-or say hi: [tom@tomhackshaw.com](mailto:tom@tomhackshaw.com)([PGP](/media/pubkey.txt) / ~falsef-nostyp
+or say hi: [tom@tomhackshaw.com](mailto:tom@tomhackshaw.com) ([PGP](/media/pubkey.txt)) / ~falsef-nostyp
 
 **Education**
 Grad Dip Teaching Secondary, The University of Auckland, 2019
