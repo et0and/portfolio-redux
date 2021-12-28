@@ -10,3 +10,13 @@ I am actively working to increase accessibility and usability of my website to e
 If you have difficulty using or accessing any element of this website, please feel free to email me at the above email and I will work with you to provide the information, item, or element you seek through a communication method that is accessible for you consistent with applicable law. If you would like to ask a question about my work and projects please send queries to [tom@tomhackshaw.com](mailto:tom@tomhackshaw.com).
 
 I am currently taking a variety of steps and devoting resources to further enhance the accessibility of my website. Using tools such as WAVE and Lighthouse I am working towards greater accessibility of this website, and hope to work with an independent experienced accessibility consultant sometime in the future to conduct a deeper audit.
+
+<form id="contactform" action="https://formsubmit.io/send/7078d347-1e36-4e2f-9e0d-ab9e17eed096 " method="POST">
+        <input name="_formsubmit_id" type="text" style="display:none">
+        <input name="entry" type="hidden" value="${state.page().v('title')}">
+        <textarea name="message" placeholder="How has your experience been so far? (include your email for a reply)..." class="input-clean w-1 mb0-5" required></textarea>
+    <input name="_formsubmit_id" type="text" style="display:none">
+
+    <input value="Submit" type="submit">
+</form>
+
