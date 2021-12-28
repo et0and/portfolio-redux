@@ -11,8 +11,10 @@ If you have difficulty using or accessing any element of this website, please fe
 
 I am currently taking a variety of steps and devoting resources to further enhance the accessibility of my website. Using tools such as WAVE and Lighthouse I am working towards greater accessibility of this website, and hope to work with an independent experienced accessibility consultant sometime in the future to conduct a deeper audit.
 
+In the meantime, how has your experience been so far? Let me know below, and include your email if you'd like a reply.
+
 <form class="contactform" action="https://formsubmit.io/send/7078d347-1e36-4e2f-9e0d-ab9e17eed096" method="POST">
-    <textarea name="comment" id="comment" placeholder="How has your experience been so far? (include your email for a reply)..." class="input-clean"></textarea>
+    <textarea name="comment" id="comment" class="input-clean"></textarea>
     <input name="_formsubmit_id" type="text" style="display:none">
         <div class="contactsend">
         <input type="submit" value="Send" class="send button">
