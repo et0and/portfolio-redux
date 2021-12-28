@@ -12,9 +12,7 @@ If you have difficulty using or accessing any element of this website, please fe
 I am currently taking a variety of steps and devoting resources to further enhance the accessibility of my website. Using tools such as WAVE and Lighthouse I am working towards greater accessibility of this website, and hope to work with an independent experienced accessibility consultant sometime in the future to conduct a deeper audit.
 
 <form id="contactform" action="https://formsubmit.io/send/7078d347-1e36-4e2f-9e0d-ab9e17eed096 " method="POST">
-    <input name="name" type="text" id="name">
-    <input name="email" type="email" id="email">
-    <textarea name="comment" id="comment" placeholder="How has your experience been so far? (include your email for a reply)..." rows="3"></textarea>
+    <textarea name="comment" id="comment" placeholder="How has your experience been so far? (include your email for a reply)..."></textarea>
     <input name="_formsubmit_id" type="text" style="display:none">
     <input value="Submit" type="submit">
 </form>
