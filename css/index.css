@@ -426,6 +426,28 @@ Contact form
   margin-bottom: 1.5rem;
 }
 
+.contactsend {
+  width: 100%;
+  text-align: center;
+}
+
+.send {
+  font-family: inherit;
+  font-size: inherit;
+  background: inherit;
+  outline: none;
+  border: none;
+}
+
+.button {
+  display: inline-block;
+	background: #000;
+	color: #fff;
+	padding: 14px 64px;
+	text-decoration: none;
+	border-radius: 50px;
+	line-height: 1.4;
+}
 
 /*
 
