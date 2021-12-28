@@ -405,7 +405,9 @@ Project page
 }
 
 /*
+
 Contact form
+
 */
 
 .contactform {
@@ -413,6 +415,18 @@ Contact form
   display: block;
   margin-bottom: 1.5rem;
 }
+
+.input-clean {
+  font-family: inherit;
+  font-size: inherit;
+  background: inherit;
+  outline: none;
+  border: none;
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+
 /*
 
 Pagination
