@@ -405,6 +405,15 @@ Project page
 }
 
 /*
+Contact form
+*/
+
+.contactform {
+  width: 100%;
+  display: block;
+  margin-bottom: 1.5rem;
+}
+/*
 
 Pagination
 
