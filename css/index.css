@@ -99,10 +99,7 @@ body {
   body a {
     color: #ade5ff;
   }
-	
-input-clean {
-	color: #ffffff;
-	}
+
 }
 
 h1,
@@ -424,6 +421,7 @@ Contact form
   font-family: inherit;
   font-size: inherit;
   background: inherit;
+  color: inherit;
   outline: none;
   border: none;
   width: 100%;
