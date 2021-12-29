@@ -1,4 +1,7 @@
 ---
 layout: posts
-title: Blog
+title: Writing
+eleventyNavigation:
+  key: Writing
+  order: 3
 ---
