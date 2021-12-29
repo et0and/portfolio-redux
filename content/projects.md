@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Experiments
 eleventyNavigation:
   key: Experiments
   order: 2
