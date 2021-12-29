@@ -99,6 +99,10 @@ body {
   body a {
     color: #ade5ff;
   }
+	
+input-clean {
+	color: #ffffff;
+	}
 }
 
 h1,
