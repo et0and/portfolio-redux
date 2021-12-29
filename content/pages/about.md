@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About
 eleventyNavigation:
   key: About
   order: 3
@@ -27,4 +26,4 @@ Google Certified Educator Level 1, 2021
 Elam First in Course Award 2014-2016
 First Class Honours, The University of Auckland 2017
 
-<small>This website has been designed to minimise the energy consumption and CO2 emissions that result from navigating the Internet. To learn more about this click [here](https://www.websitecarbon.com/website/tom-so/).</small>
+<small>This website has been designed to minimise the energy consumption and CO2 emissions that result from navigating the Internet. [To learn more about this click here](https://www.websitecarbon.com/website/tom-so/). Technical information about this site can be found [on this dedicated page](/siteinfo).</small>
