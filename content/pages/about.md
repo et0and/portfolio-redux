@@ -18,7 +18,7 @@ Prior to working in design I came from an arts and education background, so in a
 
 I’ve always admired how good design has the power to shape our world. Whether it’s through simplifying one interaction, drawing connections that weren’t previously there or giving users an opportunity to view things through a new lens, I love working on projects that make people happy. 
 
-Find me on [are.na](https://are.na/tom-y "Are.na"), [LinkedIn](https://linkedin.com/in/tom-hackshaw "LinkedIn"), [Merveilles](https://merveilles.town/@tomupom "Merveilles, a Mastodon instance")
+Find me on [are.na](https://are.na/tom-y "Are.na"), [LinkedIn](https://linkedin.com/in/tom-hackshaw "LinkedIn"), [Twitter](https://twitter.com/tomhackshaw "Twitter"), [Merveilles](https://merveilles.town/@tomupom "Merveilles, a Mastodon instance")
 
 or say hi: [tom@tomhackshaw.com](mailto:tom@tomhackshaw.com "my email address") ([PGP](/media/pubkey.txt "my pgp public encryption key")) / [~falsef-nostyp](web+urbitgraph://group/~falsef-nostyp/tom-s-room-3993 "link to my urbit")
 
