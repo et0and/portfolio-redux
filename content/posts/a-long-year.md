@@ -14,8 +14,6 @@ There are many names I wish to celebrate, particularly those who did not receive
 
 I feel for students less fortunate, particularly those in lower decile schools and areas who have been hit particularly hard this year. There is a lot of work being done by fantastic people behind the scenes here, but they have been stretched so thin from this. I want to create and share more resources for other teachers and students in the coming year, something people can grab and use for their contexts. 
 
-I am currently working on a tool that will (hopefully) help with online teaching and be designed to last **decades**. Similar tools and platforms developed by tech companies or government agencies in Aotearoa have mostly come and gone - I want to make something teachers and students can own and use, freely (both in the financial and usability sense), and *never* be taken offline. I am learning about different technologies/protocols to achieve this, namely [IPFS](https://ipfs.io), [Urbit](https://urbit.org), Webtorrent, and Hypercore. If you have any ideas or thoughts about this, please let me know (my contact information can be found on the About page of this site). 
-
 [Let’s pull back the veil](https://www.are.na/block/14085072),
 
 T. 
