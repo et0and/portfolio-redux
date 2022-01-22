@@ -5,16 +5,16 @@ eleventyNavigation:
   order: 3
 ---
 
-Hi, I'm Tom, and this is my humble website of projects and resources.
-I am a designer interested in making products more easy, beautiful and fun.
-
-Prior to working in design I came from an arts and education background, so in a very real way people have always deeply informed my work.
-
 _He aha te mea nui o te ao?_
 What is the most important thing in the world?
 _He tāngata, he tāngata, he tāngata_
 It is the people, it is the people, it is the people
 -- Māori proverb
+
+Hi, I'm Tom, and this is my humble website of projects and resources.
+I am a designer interested in making products more easy, beautiful and fun.
+
+Prior to working in design I came from an arts and education background, so in a very real way people have always deeply informed my work.
 
 I’ve always admired how good design has the power to shape our world. Whether it’s through simplifying one interaction, drawing connections that weren’t previously there or giving users an opportunity to view things through a new lens, I love working on projects that make people happy. 
 
