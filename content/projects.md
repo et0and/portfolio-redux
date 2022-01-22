@@ -3,9 +3,8 @@ layout: page
 eleventyNavigation:
   key: Experiments
   order: 2
+  title: Experiments
 ---
-
-**Personal projects and experiments** 
 
 [An Idea for a Performance](/projects/an-idea-for-a-performance)
 ↳ A tool for generating ideas
@@ -32,8 +31,6 @@ eleventyNavigation:
 ↳ An interactive art map
 
 <br><br>
-
-**Research**
 
 [Chess](/projects/chess)
 ↳ Some notes on the game of chess

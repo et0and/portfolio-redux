@@ -3,6 +3,7 @@ layout: page
 eleventyNavigation:
   key: About
   order: 3
+  title: About
 ---
 
 >_He aha te mea nui o te ao?_
@@ -10,6 +11,8 @@ eleventyNavigation:
 >_He tāngata, he tāngata, he tāngata_
 >It is the people, it is the people, it is the people
 -- Māori proverb
+
+<br><br>
 
 Hi, I'm Tom, and this is my humble website of projects and resources.
 I am a designer interested in making products more easy, beautiful and fun.
