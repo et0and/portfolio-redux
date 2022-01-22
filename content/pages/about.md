@@ -5,10 +5,10 @@ eleventyNavigation:
   order: 3
 ---
 
-_He aha te mea nui o te ao?_
-What is the most important thing in the world?
-_He tāngata, he tāngata, he tāngata_
-It is the people, it is the people, it is the people
+>_He aha te mea nui o te ao?_
+>What is the most important thing in the world?
+>_He tāngata, he tāngata, he tāngata_
+>It is the people, it is the people, it is the people
 -- Māori proverb
 
 Hi, I'm Tom, and this is my humble website of projects and resources.
