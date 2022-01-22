@@ -1,9 +1,9 @@
 ---
 layout: page
+title: About
 eleventyNavigation:
   key: About
   order: 3
-  title: About
 ---
 
 >_He aha te mea nui o te ao?_
