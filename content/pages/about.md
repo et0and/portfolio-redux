@@ -20,7 +20,7 @@ I’ve always admired how good design has the power to shape our world. Whether 
 
 Find me on [are.na](https://are.na/tom-y "Are.na"), [LinkedIn](https://linkedin.com/in/tom-hackshaw "LinkedIn"), [Merveilles](https://merveilles.town/@tomupom "Merveilles, a Mastodon instance")
 
-or say hi: [tom@tomhackshaw.com](mailto:tom@tomhackshaw.com "email") ([PGP](/media/pubkey.txt "public encryption key")) / [~falsef-nostyp](web+urbitgraph://group/~falsef-nostyp/tom-s-room-3993 "link to my urbit")
+or say hi: [tom@tomhackshaw.com](mailto:tom@tomhackshaw.com "my email address") ([PGP](/media/pubkey.txt "my pgp public encryption key")) / [~falsef-nostyp](web+urbitgraph://group/~falsef-nostyp/tom-s-room-3993 "link to my urbit")
 
 **Education** 
 Grad Dip Teaching Secondary, The University of Auckland, 2019
@@ -31,4 +31,4 @@ Google Certified Educator Level 1, 2021
 Elam First in Course Award 2014-2016
 First Class Honours, The University of Auckland 2017
 
-<small>This website has been designed to minimise the energy consumption and CO2 emissions that result from navigating the Internet. [To learn more about this click here](https://www.websitecarbon.com/website/tom-so/). Technical information about this site can be found [on this dedicated page](/siteinfo).</small>
+<small>This website has been designed to minimise the energy consumption and CO2 emissions that result from navigating the Internet. [To learn more about this click here](https://www.websitecarbon.com/website/tom-so/ "Website Carbon Calculator for tom.so"). Technical information about this site can be found [on this dedicated page](/siteinfo "some information on how this site has been built").</small>

@@ -99,7 +99,10 @@ body {
   body a {
     color: #dbf4ff;
   }
-
+  a:hover {
+    text-decoration: underline;
+    color: #f8fdff;
+  }
 }
 
 h1, 
