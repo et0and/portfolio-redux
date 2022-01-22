@@ -130,7 +130,7 @@ a {
 a:focus,
 a:hover {
   text-decoration: underline;
-  color: #202020;
+  color: inherit;
 }
 
 body > header a {
