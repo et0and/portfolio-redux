@@ -130,7 +130,7 @@ a:hover {
 }
 
 body > header a {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 body > header a:focus,
