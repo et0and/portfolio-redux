@@ -135,6 +135,7 @@ a:hover {
 
 body > header a {
   text-decoration: none;
+  font-size: medium;
 }
 
 body > header a:focus,
