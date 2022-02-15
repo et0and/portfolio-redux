@@ -495,20 +495,15 @@ Pagination
 }
 
 .pill-button {
-  display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 999px;
+  border-radius: 25px;
   padding: .5rem 0.75rem;
   text-decoration: none;
   color: black;
   line-height: 32px;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 600;
   letter-spacing: 0em;
   border: 2x solid black;
-  cursor: pointer;
   margin-left: 0.5em;
   margin-right: 0.5em;
 }
