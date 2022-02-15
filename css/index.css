@@ -507,7 +507,7 @@ Pagination
   font-style: normal;
   font-weight: 600;
   letter-spacing: 0em;
-  border: none;
+  border: 2x solid black;
   cursor: pointer;
   margin-left: 0.5em;
   margin-right: 0.5em;
