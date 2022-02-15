@@ -494,16 +494,10 @@ Pagination
   text-decoration: underline;
 }
 
-.pill-button {
-  align-items: center;
-  justify-content: center;
+.rounded-box {
   border-radius: 25px;
-  padding: .5rem 0.75rem;
-  text-decoration: none;
-  color: black;
-  line-height: 32px;
-  letter-spacing: 0em;
-  border: 2x solid black;
-  margin-left: 0.5em;
-  margin-right: 0.5em;
+  border: 2px solid #0c0c0c;
+  padding: 20px; 
+  width: 100px;
+  height: 50px; 
 }
