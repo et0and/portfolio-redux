@@ -496,7 +496,7 @@ Pagination
 
 .rounded-box {
   border-radius: 25px;
-  border: 2px solid #0c0c0c;
+  border: 2px solid;
   padding: 20px; 
   width: 100px;
   height: 50px; 
