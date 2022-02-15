@@ -493,3 +493,21 @@ Pagination
 .pagination-item a:hover {
   text-decoration: underline;
 }
+
+.pill-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  padding: .5rem 0.75rem;
+  text-decoration: none;
+  line-height: 32px;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0em;
+  border: none;
+  cursor: pointer;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
