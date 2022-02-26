@@ -6,6 +6,8 @@ eleventyNavigation:
   order: 3
 ---
 
+<br><br>
+
 >_He aha te mea nui o te ao?_
 >What is the most important thing in the world?
 >_He tāngata, he tāngata, he tāngata_
@@ -14,16 +16,18 @@ eleventyNavigation:
 
 <br><br>
 
-Hi, I'm Tom, and this is my humble website of projects and resources.
-I am a designer interested in making products more easy, beautiful and fun.
+Hi, I'm Tom,
+I am a designer interested in making products that are accessible, beautiful and fun.
 
-Prior to working in design I came from an arts and education background, so in a very real way people have always deeply informed my work. Anything I make or work on is [guided by these set of values](/values "a list of values I work by")
+Presently I am a high school teacher teaching art and design in Tāmaki Makaurau, so in a very real way people have always deeply informed my work. Anything I make or work on is [guided by these set of values](/values "a list of values I work by")
 
-I’ve always admired how good design has the power to shape our world. Whether it’s through simplifying one interaction, drawing connections that weren’t previously there or giving users an opportunity to view things through a new lens, I love working on projects that make people happy. 
+Previously I studied at the [Elam School of Fine Arts](https://elamartists.ac.nz/), where I also briefly taught the first and second year studio programme. 
 
 Find me on [are.na](https://are.na/tom-y "Are.na"), [LinkedIn](https://linkedin.com/in/tom-hackshaw "LinkedIn"), [Twitter](https://twitter.com/tomhackshaw "Twitter"), [Merveilles](https://merveilles.town/@tomupom "Merveilles, a Mastodon instance")
 
 or say hi: [tom@tomhackshaw.com](mailto:tom@tomhackshaw.com "my email address") ([PGP](/media/pubkey.txt "my pgp public encryption key")) / [~falsef-nostyp](web+urbitgraph://group/~falsef-nostyp/tom-s-room-3993 "link to my urbit")
+
+<br><br>
 
 **Education** 
 Grad Dip Teaching Secondary, The University of Auckland, 2019
