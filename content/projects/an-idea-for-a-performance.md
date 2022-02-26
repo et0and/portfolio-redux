@@ -10,4 +10,4 @@ media:
     caption: "[Source &nearr;](https://www.are.na/tom-y/an-idea-for-a-performance)"
 ---
 
-[An idea for a performance](https://ideaforperformance.com) is a web experiment and [are.na channel](https://www.are.na/tom-y/an-idea-for-a-performance) that displays random ideas for performances, built using the [are.na API](https://dev.are.na).
+[An idea for a performance](https://performance.tom.so) is a web experiment and [are.na channel](https://www.are.na/tom-y/an-idea-for-a-performance) that displays random ideas for performances, built using the [are.na API](https://dev.are.na).
