@@ -5,7 +5,6 @@ eleventyNavigation:
   key: About
   order: 3
 ---
-<img src="/media/uptofriends.jpg" width="100%" title="A black and white halftoned drawing of three figures dancing." />
 
 <br><br>
 
