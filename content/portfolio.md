@@ -1,8 +1,19 @@
 ---
-layout: page
+layout: home
+title: Portfolio
 eleventyNavigation:
   key: Portfolio
   order: 1
+entries:
+  - portfolio-starter
+  - sample-project-muybridge
+  - sample-project-optics
+  - sample-project-eames
+  - sample-project-letters
+  - sample-project-traffic-signs
 ---
 
-Sorry, nothing here yet!
+Hi, I'm Tom -
+
+I'm a designer interested in making products that are accessible, beautiful and fun.
+
