@@ -4,6 +4,8 @@ title: Portfolio
 eleventyNavigation:
   key: Portfolio
   order: 1
+entries:
+  - sample-project-muybridge
 ---
 
 Hi, I'm Tom -
