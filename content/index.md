@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 entries:
   - sample-project-muybridge
 ---

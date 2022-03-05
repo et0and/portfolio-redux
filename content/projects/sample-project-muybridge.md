@@ -6,12 +6,12 @@ dateEnd: 1904-05-08
 media:
   - type: image
     filename: aotearoa-artist-ephemera.jpg
-    size: lg
+    size: sm
     alt: Grid of photographs of a mounted horse galloping
     caption: "[Source &nearr;](/media/aotearoa-artist-ephemera.jpg)"
   - type: image
     filename: aotearoa-artist-ephemera.jpg
-    size: md
+    size: sm
     alt: Grid of photographs of a mounted horse galloping
     caption: "[Source &nearr;](/media/aotearoa-artist-ephemera.jpg)"
 ---
