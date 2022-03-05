@@ -4,13 +4,6 @@ title: Portfolio
 eleventyNavigation:
   key: Portfolio
   order: 1
-entries:
-  - portfolio-starter
-  - sample-project-muybridge
-  - sample-project-optics
-  - sample-project-eames
-  - sample-project-letters
-  - sample-project-traffic-signs
 ---
 
 Hi, I'm Tom -
