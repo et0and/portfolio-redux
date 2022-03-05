@@ -6,54 +6,54 @@ eleventyNavigation:
   order: 2
 ---
 
-[An Idea for a Performance](/projects/an-idea-for-a-performance)
+[An Idea for a Performance](/experiments/an-idea-for-a-performance)
 ↳ A tool for generating ideas
 
-[Hyperjam](/projects/hyperjam)
+[Hyperjam](/experiments/hyperjam)
 ↳ An interactive art festival hosted by Merveilles
 
-[Markono](/projects/markono)
+[Markono](/experiments/markono)
 ↳ A program for generating performance instructions
 
-[Some Quiet Tips](/projects/some-quiet-tips)
+[Some Quiet Tips](/experiments/some-quiet-tips)
 ↳ A mental health resource
 
-[The Museum Without Walls](/projects/museum-without-walls)
+[The Museum Without Walls](/experiments/museum-without-walls)
 ↳ A Macintosh Hypercard project
 
-[The Language of Art](/projects/the-language-of-art)
+[The Language of Art](/experiments/the-language-of-art)
 ↳ An art history resource
 
-[This Building Does Not Exist](/projects/this-building-does-not-exist)
+[This Building Does Not Exist](/experiments/this-building-does-not-exist)
 ↳ An experiment generating buildings with StyleGAN
 
-[Whitecub.es](/projects/whitecubes)
+[Whitecub.es](/experiments/whitecubes)
 ↳ An interactive art map
 
 <br><br>
 
-[Chess](/projects/chess)
+[Chess](/experiments/chess)
 ↳ Some notes on the game of chess
 
-[Church Yard](/projects/church-yard)
+[Church Yard](/experiments/church-yard)
 ↳ A research archive on Søren Kierkegaard
 
-[Derridata](/projects/derridata)
+[Derridata](/experiments/derridata)
 ↳ A research archive dedicated to the work of Jacques Derrida
 
-[Imaginary Museum](/projects/imaginary-museum)
+[Imaginary Museum](/experiments/imaginary-museum)
 ↳ A growing archive of reference material
 
-[Performa](/projects/performa)
+[Performa](/experiments/performa)
 ↳ A performance art archive
 
-[Philemon](/projects/philemon)
+[Philemon](/experiments/philemon)
 ↳ A Jungian research archive
 
-[Poetics of Space](/projects/poetics-of-space)
+[Poetics of Space](/experiments/poetics-of-space)
 ↳ A research archive on spaces
 
-[WWW](/projects/www)
+[WWW](/experiments/www)
 ↳ A collection of site on the World Wide Web
 
 
