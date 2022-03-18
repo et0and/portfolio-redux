@@ -1,16 +1,11 @@
 ---
-title: Sophia
+title: Te Wahi Auaha
 layout: project
 dateStart: 2021-12-09
 dateEnd: 2022-02-08
 media:
   - type: image
-    filename: aotearoa-artist-ephemera.jpg
-    size: sm
-    alt: Grid of photographs of a mounted horse galloping
-    caption: "[Source &nearr;](/media/home.jpg)"
-  - type: image
-    filename: aotearoa-artist-ephemera.jpg
+    filename: psa-case.gif
     size: sm
     alt: Grid of photographs of a mounted horse galloping
     caption: "[Source &nearr;](/media/psa-case.gif)"
