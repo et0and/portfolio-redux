@@ -1,5 +1,5 @@
 ---
-layout: experiment
+layout: project
 title: Mahara
 dateEnd: 2020-06-09
 media:

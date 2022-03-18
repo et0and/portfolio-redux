@@ -1,5 +1,5 @@
 ---
-layout: experiment
+layout: project
 title: e-Portfolio
 dateEnd: 2019-09-20
 media:

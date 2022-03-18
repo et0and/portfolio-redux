@@ -1,5 +1,5 @@
 ---
-layout: experiment
+layout: project
 title: Performa
 dateEnd: 2019-01-07
 ---

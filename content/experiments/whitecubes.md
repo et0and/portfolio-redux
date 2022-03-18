@@ -1,5 +1,5 @@
 ---
-layout: experiment
+layout: project
 title: Whitecubes
 dateEnd: 2019-04-21
 media:

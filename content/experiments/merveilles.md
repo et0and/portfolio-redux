@@ -1,5 +1,5 @@
 ---
-layout: experiment
+layout: project
 title: Merveilles
 dateEnd: 2019-01-07
 media:

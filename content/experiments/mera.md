@@ -1,5 +1,5 @@
 ---
-layout: experiment
+layout: project
 title: Mera
 dateEnd: 2019-08-20
 ---

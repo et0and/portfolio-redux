@@ -1,5 +1,5 @@
 ---
-layout: experiment
+layout: project
 title: Hyperjam
 dateEnd: 2020-04-07
 media:

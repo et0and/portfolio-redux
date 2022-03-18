@@ -1,5 +1,5 @@
 ---
-layout: experiment
+layout: project
 title: Markono
 dateEnd: 2020-01-21
 media:

@@ -1,5 +1,5 @@
 ---
-layout: experiment
+layout: project
 title: Notes on chess
 ---
 

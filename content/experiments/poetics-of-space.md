@@ -1,5 +1,5 @@
 ---
-layout: experiment
+layout: project
 title: Poetics of Space
 dateEnd: 2020-01-07
 ---

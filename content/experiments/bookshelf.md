@@ -1,5 +1,5 @@
 ---
-layout: experiment
+layout: project
 title: Bookshelf
 media:
   - type: image

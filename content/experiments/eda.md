@@ -1,5 +1,5 @@
 ---
-layout: experiment
+layout: project
 title: Eda
 dateEnd: 2020-03-20
 ---
