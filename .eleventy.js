@@ -109,6 +109,12 @@ module.exports = function (config) {
       return b.data.dateEnd - a.data.dateEnd;
     });
   });
+  config.addCollection("experiment", (collection) => {
+    const experiment = collection.getFilteredByGlob("content/experiments/*.md");
+    return experiment.sort(function (a, b) {
+      return b.data.dateEnd - a.data.dateEnd;
+    });
+  });
   config.addCollection("posts", function (collection) {
     const posts = collection.getFilteredByGlob("content/posts/*.md");
     return posts.sort(function (a, b) {
