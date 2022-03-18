@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Portfolio
 eleventyNavigation:
   key: Portfolio
   order: 1
