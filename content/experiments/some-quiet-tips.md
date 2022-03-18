@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experiment
 title: Some Quiet Tips
 dateEnd: 2020-01-07
 ---

@@ -413,6 +413,65 @@ Project page
 
 /*
 
+Experiment page
+
+*/
+
+.experiment {
+  margin-bottom: 8rem;
+}
+
+.experiment-header {
+  margin-bottom: 4rem;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: var(--width-textcol);
+}
+
+.experiment-title {
+  font-weight: inherit;
+  margin: 0;
+}
+
+.experiment-details {
+  margin: 0;
+}
+
+.experiment-text {
+  margin-top: 1rem;
+}
+
+.experiment-block {
+  margin-bottom: 6rem;
+  text-align: center;
+}
+
+.experiment-block figure {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.experiment-block figure.sm {
+  max-width: var(--width-media-sm);
+}
+
+.experiment-block figure.md {
+  max-width: var(--width-media-md);
+}
+
+.experiment-block figure.lg {
+  max-width: var(--width-media-lg);
+  margin-left: calc(var(--padding-container) * -1);
+  margin-right: calc(var(--padding-container) * -1);
+}
+
+.experiment-block img:not([width]),
+.experiment-block video:not([width]) {
+  width: 100%;
+}
+
+/*
+
 Contact form
 
 */

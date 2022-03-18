@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experiment
 title: Microme
 dateEnd: 2019-01-10
 media:

@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experiment
 title: An Idea For A Performance
 dateEnd: 2020-04-05
 media:

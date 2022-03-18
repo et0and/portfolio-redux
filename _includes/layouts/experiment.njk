@@ -1,0 +1,44 @@
+---
+layout: base
+permalink: "/experiment/{{ page.fileSlug }}/index.html"
+---
+
+<article class="experiment">
+  <header class="experiment-header">
+    <h1 class="experiment-title">{{ title | safe }}</h1>
+    {% if dateStart or dateEnd %}
+      <p class="experiment-details">{{ dateStart | yearRange(dateEnd) | safe }}</p>
+    {% endif %}
+    {% if content %}
+      <div class="experiment-text">
+        {{ content | safe }}
+      </div>
+    {% endif %}
+  </header>
+  {% if media %}
+    {% for block in media %}
+      <div class="experiment-block">
+        {% set caption = block.caption %}
+        {% include 'snippets/media.njk' %}
+      </div>
+    {% endfor %}
+  {% endif %}
+</article>
+
+{% set next = collections.experiments | nextInCollection(page.fileSlug) %}
+{% set previous = collections.experiments | prevInCollection(page.fileSlug) %}
+
+{% if next or previous%}
+  <div class="pagination">
+    {% if next %}
+      <p class="pagination-item pagination-item-next">
+        <a href="{{ next.url }}"></a>
+      </p>
+    {% endif %}
+    {% if previous %}
+      <p class="pagination-item pagination-item-prev">
+        <a href="{{ previous.url }}"></a>
+      </p>
+    {% endif %}
+  </div>
+{% endif %}

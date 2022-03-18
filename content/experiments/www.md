@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experiment
 title: WWW
 dateEnd: 2020-04-20
 ---

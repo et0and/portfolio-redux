@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experiment
 title: Artists from Asia
 dateEnd: 2019-08-05
 media:

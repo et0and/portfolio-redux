@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experiment
 title: Derridata
 dateEnd: 2020-04-20
 media:

@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experiment
 title: The Language of Art
 dateEnd: 2019-03-07
 media:

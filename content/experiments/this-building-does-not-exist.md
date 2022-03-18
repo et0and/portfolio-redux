@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experiment
 title: This Building Does Not Exist
 dateEnd: 2020-04-07
 ---

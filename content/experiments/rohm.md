@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experiment
 title: Rohm
 dateEnd: 2020-07-11
 media:
