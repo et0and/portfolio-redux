@@ -3,7 +3,7 @@ layout: page
 title: Experiments
 eleventyNavigation:
   key: Experiments
-  order: 2
+  order: 1
 ---
 
 [An Idea for a Performance](/projects/an-idea-for-a-performance)
