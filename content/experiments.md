@@ -6,54 +6,54 @@ eleventyNavigation:
   order: 2
 ---
 
-[An Idea for a Performance](/experiments/an-idea-for-a-performance)
+[An Idea for a Performance](/projects/an-idea-for-a-performance)
 ↳ A tool for generating ideas
 
-[Hyperjam](/experiments/hyperjam)
+[Hyperjam](/projects/hyperjam)
 ↳ An interactive art festival hosted by Merveilles
 
-[Markono](/experiments/markono)
+[Markono](/projects/markono)
 ↳ A program for generating performance instructions
 
-[Some Quiet Tips](/experiments/some-quiet-tips)
+[Some Quiet Tips](/projects/some-quiet-tips)
 ↳ A mental health resource
 
-[The Museum Without Walls](/experiments/museum-without-walls)
+[The Museum Without Walls](/projects/museum-without-walls)
 ↳ A Macintosh Hypercard project
 
-[The Language of Art](/experiments/the-language-of-art)
+[The Language of Art](/projects/the-language-of-art)
 ↳ An art history resource
 
-[This Building Does Not Exist](/experiments/this-building-does-not-exist)
+[This Building Does Not Exist](/projects/this-building-does-not-exist)
 ↳ An experiment generating buildings with StyleGAN
 
-[Whitecub.es](/experiments/whitecubes)
+[Whitecub.es](/projects/whitecubes)
 ↳ An interactive art map
 
 <br><br>
 
-[Chess](/experiments/chess)
+[Chess](/projects/chess)
 ↳ Some notes on the game of chess
 
-[Church Yard](/experiments/church-yard)
+[Church Yard](/projects/church-yard)
 ↳ A research archive on Søren Kierkegaard
 
-[Derridata](/experiments/derridata)
+[Derridata](/projects/derridata)
 ↳ A research archive dedicated to the work of Jacques Derrida
 
-[Imaginary Museum](/experiments/imaginary-museum)
+[Imaginary Museum](/projects/imaginary-museum)
 ↳ A growing archive of reference material
 
-[Performa](/experiments/performa)
+[Performa](/projects/performa)
 ↳ A performance art archive
 
-[Philemon](/experiments/philemon)
+[Philemon](/projects/philemon)
 ↳ A Jungian research archive
 
-[Poetics of Space](/experiments/poetics-of-space)
+[Poetics of Space](/projects/poetics-of-space)
 ↳ A research archive on spaces
 
-[WWW](/experiments/www)
+[WWW](/projects/www)
 ↳ A collection of site on the World Wide Web
 
 
