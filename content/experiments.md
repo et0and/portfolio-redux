@@ -12,7 +12,7 @@ eleventyNavigation:
     <button type="submit">🔍</button>
 </form>
 
-<br><br>
+<br>
 
 [An Idea for a Performance](/projects/an-idea-for-a-performance)
 ↳ A tool for generating ideas
