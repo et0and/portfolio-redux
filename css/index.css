@@ -516,6 +516,17 @@ Contact form
 	line-height: 1.4;
 }
 
+.search {
+  display: inline-block;
+	background: #000;
+	color: #fff;
+	padding: 14px 34px;
+	text-decoration: underline;
+	border-radius: 50px;
+	line-height: 1.4;
+}
+
+
 /*
 
 Pagination
