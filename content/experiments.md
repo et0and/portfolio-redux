@@ -6,6 +6,14 @@ eleventyNavigation:
   order: 1
 ---
 
+<form method="GET" action="https://lieu.cblgh.org/">
+    <!-- replace the value with the domain of your own site -->
+    <input type="hidden" value="tom.so" name="site">
+    <label for="site-search">Search this site</label>
+    <input id="site-search" name="q" placeholder="Search experiments">
+    <button type="submit">Search</button>
+</form>
+
 [An Idea for a Performance](/projects/an-idea-for-a-performance)
 ↳ A tool for generating ideas
 
