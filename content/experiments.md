@@ -9,8 +9,7 @@ eleventyNavigation:
 <form method="GET" action="https://lieu.cblgh.org/">
     <input type="hidden" value="tom.so" name="site">
     <input id="site-search" name="q" placeholder="Powered by Lieu">
-    <br>
-    <button type="submit" class="send search">Search</button>
+    <button type="submit">🔍</button>
 </form>
 
 <br><br>
