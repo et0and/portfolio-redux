@@ -9,7 +9,7 @@ eleventyNavigation:
 <form method="GET" action="https://lieu.cblgh.org/">
     <!-- replace the value with the domain of your own site -->
     <input type="hidden" value="tom.so" name="site">
-    <input id="site-search" name="q" placeholder="Search experiments, powered by Lieu">
+    <input id="site-search" name="q" placeholder="Powered by Lieu">
     <button type="submit">🔍</button>
 </form>
 
