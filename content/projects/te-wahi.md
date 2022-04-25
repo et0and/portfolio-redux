@@ -14,10 +14,10 @@ media:
 
 NOTE: THIS CASE STUDY IS STILL ACTIVELY BEING WRITTEN UP AS OF 25/04/2022
 
-`Roles: User Research, UX/UI Design, Development
+<small>Roles: User Research, UX/UI Design, Development
 Tools: Figma, Premiere Pro, Next JS
 Team: R.K. (manager) and myself (designer, researcher, developer)
-Timeline of Two Years`
+Timeline of Two Years</small>
 
 <br><br>
 
