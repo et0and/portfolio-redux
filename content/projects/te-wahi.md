@@ -17,8 +17,6 @@ Timeline of Two Years
 
 <h2>Developing and deploying a centralised knowledge hub </h2>
 
-![The maker space as seen from outside, with a large black sign on the wall to signal the space to students and staff](/media/twa-outside.jpg)
-
 <h3>Background + The Problem </h3>
 
 Takapuna Grammar School launched their maker space (nee Innovation Space) for students and staff in 2020. With a wide range of different tools and machinery, there is a high learning curve for anyone new to the space with students ranging from years 9 - 13 (12 - 18 year olds) and teachers. Without some form of training, accessibility of this space is limited.
