@@ -42,7 +42,7 @@ permalink: "/"
           {% if width %}width="{{ width }}"{% endif %}
           {% if height %}height="{{ height }}"{% endif %}
         >
-        <h2 class="home-block-title">{{ entry.data.title | safe }}</h2>
+        <a class="home-block-title">{{ entry.data.title | safe }}</a>
       </a>
     </article>
   {% endif %}
