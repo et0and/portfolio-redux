@@ -1,4 +1,6 @@
 ---
 layout: home
-entries:
+entries: 
+    - sophia
+    - te-wahi
 ---
