@@ -17,13 +17,19 @@ Timeline of Two Years
 
 <h2>Developing and deploying a centralised knowledge hub </h2>
 
+![The maker space as seen from outside, with a large black sign on the wall to signal the space to students and staff](/media/twa-outside.jpg)
+
 <h3>Background + The Problem </h3>
 
 Takapuna Grammar School launched their maker space (nee Innovation Space) for students and staff in 2020. With a wide range of different tools and machinery, there is a high learning curve for anyone new to the space with students ranging from years 9 - 13 (12 - 18 year olds) and teachers. Without some form of training, accessibility of this space is limited.
 
+<br><br>
+
 <h3>The Solution </h3>
 
 Design, develop and deploy a centralised knowledge hub that exists both online in the form of a website and offline in the form of posters. The hub will contain different guides for using the tools and machines, as well as steps to follow for certain goals.
+
+<br><br>
 
 <h3>Design Process - the 5 Ws Method </h3>
 
@@ -37,11 +43,16 @@ Design, develop and deploy a centralised knowledge hub that exists both online i
 
 *Where and When will it be used?* - At Takapuna Grammar School, to be used anytime inside or outside of curriculum
 
+
+<br><br>
+
 ---
 
 > "Students and Staff would have <u>agency</u> over learning about how to use a certain tool or machine in the maker space, so they can be free in realising their <u>individual</u> projects with <u>confidence</u>."
 
 ---
+
+<br><br>
 
 <h3>Definitions </h3>
 
@@ -51,8 +62,11 @@ Design, develop and deploy a centralised knowledge hub that exists both online i
 
 *Individual* - what is specific to the student/staff member, which may not fall into a particular curriculum area
 
-<h3>User Research </h3>
-<h4>Primary Research Method - utilising student voice </h4>
+
+<br><br>
+
+<h3>User Research</h3><br/>
+<h4>Primary Research Method - utilising student voice</h4>
 
 My initial assumptions leading up to undertaking this research was the following:
 
@@ -68,6 +82,8 @@ Using a simple survey, I gathered responses from a pool of 100 different student
 - Nearly half of all students surveyed do not ready the daily notices and school newsletters (47%)
 - Close to a third of all students surveyed said that they struggle to find what they need for their classes on Google Classroom (28%)
 - A large majority of students surveyed expressed that it would be useful to have one set place to find digital materials for their respective classes, with a few noting that Google Classroom already did this to a certain extent but sometimes was hard to look through
+
+<br><br>
 
 <h3> First design and feedback round </h3>
 
