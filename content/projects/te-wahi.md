@@ -6,9 +6,8 @@ dateEnd: 2022-02-08
 media:
   - type: image
     filename: hero-twa.png
-    size: sm
+    size: md
     alt: Some sample screens of the Te Wāhi Learn online hub
-    caption: "[Source &nearr;](/media/hero-twa.png)"
 ---
 
 <h2>Developing and deploying a centralised knowledge hub </h2>
