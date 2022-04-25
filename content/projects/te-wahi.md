@@ -10,6 +10,8 @@ media:
     alt: Some sample screens of the Te Wāhi Learn online hub
 ---
 
+NOTE: THIS CASE STUDY IS STILL ACTIVELY BEING WRITTEN UP AS OF 25/04/2022
+
 Roles: User Research, UX/UI Design, Development
 Tools: Figma, Premiere Pro, Next JS
 Team: R.K. (manager) and myself (designer, researcher, developer)
