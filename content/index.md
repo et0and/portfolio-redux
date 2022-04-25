@@ -1,6 +1,7 @@
 ---
 layout: home
-entries: 
-    - sophia
-    - te-wahi
+entries:
+  - te-wahi
 ---
+
+Tom Hackshaw is a 🇯🇵🇳🇿 designer based in Tāmaki Makaurau, Aotearoa.
