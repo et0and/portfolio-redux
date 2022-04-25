@@ -10,12 +10,12 @@ media:
     alt: Some sample screens of the Te Wāhi Learn online hub
 ---
 
-<h2>Developing and deploying a centralised knowledge hub </h2>
-
 Roles: User Research, UX/UI Design, Development
 Tools: Figma, Premiere Pro, Next JS
 Team: R.K. (manager) and myself (designer, researcher, developer)
 Timeline of Two Years
+
+<h2>Developing and deploying a centralised knowledge hub </h2>
 
 <h3>Background + The Problem </h3>
 
