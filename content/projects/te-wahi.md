@@ -10,14 +10,16 @@ media:
     alt: Some sample screens of the Te Wāhi Learn online hub
 ---
 
+<h3>Developing and deploying a centralised knowledge hub </h3>
+
 NOTE: THIS CASE STUDY IS STILL ACTIVELY BEING WRITTEN UP AS OF 25/04/2022
 
-Roles: User Research, UX/UI Design, Development
+`Roles: User Research, UX/UI Design, Development
 Tools: Figma, Premiere Pro, Next JS
 Team: R.K. (manager) and myself (designer, researcher, developer)
-Timeline of Two Years
+Timeline of Two Years`
 
-<h2>Developing and deploying a centralised knowledge hub </h2>
+<br><br>
 
 <h3>Background + The Problem </h3>
 
