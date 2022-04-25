@@ -63,7 +63,7 @@ Design, develop and deploy a centralised knowledge hub that exists both online i
 
 <br><br>
 
-<h3>User Research</h3><br/>
+<h3>User Research</h3>
 <h4>Primary Research Method - utilising student voice</h4>
 
 My initial assumptions leading up to undertaking this research was the following:
@@ -74,6 +74,7 @@ My initial assumptions leading up to undertaking this research was the following
 - Many students feel that having a single organised hub/location for digital materials would help them with their learning and organisation
 - Many students feel discouraged from going through notifications due to the sheer amount of alerts that teachers would post and put out on a daily basis, making it difficult to filter through the noise
 
+<br/>
 Using a simple survey, I gathered responses from a pool of 100 different students using Tally to gather some data regarding the above assumptions. The findings were:
 
 - The vast majority of students surveyed do not read their students emails (85%), with the most popular reason being that they felt there was so much being sent that it was hard to keep on top of
@@ -83,7 +84,7 @@ Using a simple survey, I gathered responses from a pool of 100 different student
 
 <br><br>
 
-<h3> First design and feedback round </h3>
+<h3>First design and feedback round</h3>
 
 <figure>
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e72d6c1b-8770-49f3-a068-521fc9c923bf/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220425%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220425T045117Z&X-Amz-Expires=86400&X-Amz-Signature=930d484b75679d43d7b78c26c220a5e90af12d8fb146abceddcf37883256f82a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" alt="A screenshot of the very first Te Wāhi Auaha homepage, with a few links to some of the most common tools that we use in the maker space. It is a pretty plain and simple webpage."/>
