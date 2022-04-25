@@ -19,6 +19,7 @@ Tools: Figma, Premiere Pro, Next JS
 Team: R.K. (manager) and myself (designer, researcher, developer)
 Timeline of Two Years</small>
 
+---
 <br><br>
 
 <h3>Background + The Problem </h3>
