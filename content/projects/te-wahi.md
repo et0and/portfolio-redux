@@ -132,7 +132,12 @@ To address this, the site was redesigned to include clear buttons on the homepag
 <figcaption>Form for submitting jobs to be 3D printed, laser cut or engraved that was managed using Airtable</figcaption>
 </figure>
 
+Google Forms was originally used for submitting jobs, but this was dropped in favour of Airtable. Students were submitting requests from their personal Gmail accounts and not their school addresses. This meant that many students were awaiting confirmation regarding their prints in their school inboxes, without having realised that they made the request through a personal account.
+
+<br><br>
+
 <figure>
 <img src="/media/twa-guides-01.png" alt="A screenshot of the Te Wāhi Learn hub, hosted on Gitbook."/>
 <figcaption>The first Te Wāhi Learn hub, hosted via Gitbook and with guides to all the tools and machines used in the space</figcaption>
 </figure>
+
