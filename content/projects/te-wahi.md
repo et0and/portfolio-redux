@@ -105,3 +105,7 @@ To start with, a very basic homepage was created to act as the central hub to al
 <figcaption>A selection of some posters</figcaption>
 </figure>
 
+<figure>
+<img src="/media/posters-in-space.jpg" alt="Some of the aforementioned posters hanging on the walls of the maker space."/>
+<figcaption>Posters hanging in the maker space</figcaption>
+</figure>
