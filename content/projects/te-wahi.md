@@ -1,5 +1,5 @@
 ---
-title: Te Wahi Auaha
+title: Te Wāhi Auaha
 layout: project
 dateStart: 2021-12-09
 dateEnd: 2022-02-08
@@ -12,7 +12,7 @@ media:
 
 <h3>Developing and deploying a centralised knowledge hub </h3>
 
-NOTE: THIS CASE STUDY IS STILL ACTIVELY BEING WRITTEN UP AS OF 25/04/2022
+NOTE: THIS CASE STUDY IS STILL ACTIVELY BEING WRITTEN UP AS OF 27/04/2022
 
 <small>Roles: User Research, UX/UI Design, Development
 Tools: Figma, Premiere Pro, Next JS
