@@ -96,6 +96,7 @@ Using a simple survey, responses were gathered from a pool of 100 different stud
 <figcaption>First ever webpage with a few short guides on the most common tools, made entirely in simple HTML and CSS</figcaption>
 </figure>
 
+<br><br>
 
 To start with, a very basic homepage was created to act as the central hub to all matters related to the maker space. To accompany this site were a series of A3 posters for display in the space. Each poster contained a short description of the core tools and machines used in the space, with a QR code that directed students to a video tutorial demonstrating how to use said tool/machine.
 
