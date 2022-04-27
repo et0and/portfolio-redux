@@ -112,7 +112,7 @@ To start with, a very basic homepage was created to act as the central hub to al
 
 <br><br>
 
-Response to the initial site design was mostly positive. Again, utilising student voice and also some comments from staff, most respondents rated the site highly but also noted that the site could host some further guides and tutorials in greater depth:
+Response to the initial site design was mostly positive. Through further student voice and also some comments from staff, most respondents rated the site highly but also noted that the site could host some further guides and tutorials in greater depth:
 
 - "... a clean design ... could use more information on how to use more of the software in the space"
 - "... would be great to be able to search for stuff"
