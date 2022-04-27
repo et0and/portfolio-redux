@@ -132,6 +132,8 @@ To address this, the site was redesigned to include clear buttons on the homepag
 <figcaption>Form for submitting jobs to be 3D printed, laser cut or engraved that was managed using Airtable</figcaption>
 </figure>
 
+<br><br>
+
 Google Forms was originally used for submitting jobs, but this was dropped in favour of Airtable. Students were submitting requests from their personal Gmail accounts and not their school addresses. This meant that many students were awaiting confirmation regarding their prints in their school inboxes, without having realised that they made the request through a personal account.
 
 <br><br>
