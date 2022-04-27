@@ -71,7 +71,7 @@ Design, develop and deploy a centralised knowledge hub that exists both online i
 <h3>User Research</h3>
 <h4>Primary Research Method - utilising student voice</h4>
 
-My initial assumptions leading up to undertaking this research was the following:
+Some initial assumptions leading up to undertaking this research was the following:
 
 - Many students don’t read emails
 - Many students don’t read daily notices/newsletter
@@ -80,7 +80,7 @@ My initial assumptions leading up to undertaking this research was the following
 - Many students feel discouraged from going through notifications due to the sheer amount of alerts that teachers would post and put out on a daily basis, making it difficult to filter through the noise
 
 <br/>
-Using a simple survey, I gathered responses from a pool of 100 different students using Tally to gather some data regarding the above assumptions. The findings were:
+Using a simple survey, responses were gathered from a pool of 100 different students using Tally to gather some data regarding the above assumptions. The findings were:
 
 - The vast majority of students surveyed do not read their students emails (85%), with the most popular reason being that they felt there was so much being sent that it was hard to keep on top of
 - Nearly half of all students surveyed do not ready the daily notices and school newsletters (47%)
@@ -96,7 +96,8 @@ Using a simple survey, I gathered responses from a pool of 100 different student
 <figcaption>First ever webpage with a few short guides on the most common tools, made entirely in simple HTML and CSS</figcaption>
 </figure>
 
-To accompany this site were a series of A3 posters for display in the space. Each poster contained a short description of the core tools and machines used in the space, with a QR code that directed students to a video tutorial demonstrating how to use said tool/machine.
+
+To start with, a very basic homepage was created to act as the central hub to all matters related to the maker space. To accompany this site were a series of A3 posters for display in the space. Each poster contained a short description of the core tools and machines used in the space, with a QR code that directed students to a video tutorial demonstrating how to use said tool/machine.
 
 <figure>
 <img src="/media/twa-posters-01.jpg" alt="A screenshot of some posters for display in the maker space. Each poster contains some images and a short description of the respective tool or machine, with a QR code that redirected students to a more detailed video tutorial."/>
