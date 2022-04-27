@@ -109,3 +109,30 @@ To start with, a very basic homepage was created to act as the central hub to al
 <img src="/media/posters-in-space.jpg" alt="Some of the aforementioned posters hanging on the walls of the maker space."/>
 <figcaption>Posters hanging in the maker space</figcaption>
 </figure>
+
+<br><br>
+
+Response to the initial site design was mostly positive. Again, utilising student voice and also some comments from staff, most respondents rated the site highly but also noted that the site could host some further guides and tutorials in greater depth:
+
+- "... a clean design ... could use more information on how to use more of the software in the space"
+- "... would be great to be able to search for stuff"
+- "... the links to the guides aren't that clear ... could be a button?"
+
+<br><br>
+
+To address this, the site was redesigned to include clear buttons on the homepage for the most common flows, which were the tool guides, project guides, a newly launched online exhibition space, and a form for submitting files for 3D printed or laser cutting/engraving. The tool and project guides were written up in greater detail and hosted on Gitbook, with full search capability and on-the-fly media compression to help students with limited or slow internet connections.
+
+<figure>
+<img src="/media/twa-site-02.png" alt="A screenshot of the second generation website, with coloured buttons on the homepage linked to some of the common tasks students undertook."/>
+<figcaption>The redesigned website, with coloured buttons for navigation and an additional option for viewing online exhibitions and submitting files for printing, cutting or engraving</figcaption>
+</figure>
+
+<figure>
+<img src="/media/twa-form-01.png" alt="A screenshot of an Airtable form to submit jobs for 3D printing, laser cutting or engraving."/>
+<figcaption>Form for submitting jobs to be 3D printed, laser cut or engraved that was managed using Airtable</figcaption>
+</figure>
+
+<figure>
+<img src="/media/twa-guides-01.png" alt="A screenshot of the Te Wāhi Learn hub, hosted on Gitbook."/>
+<figcaption>The first Te Wāhi Learn hub, hosted via Gitbook and with guides to all the tools and machines used in the space</figcaption>
+</figure>
