@@ -128,7 +128,7 @@ Response to the initial site design was mostly positive. Through further student
 
 <br><br>
 
-To address this, the site was redesigned to include clear buttons on the homepage for the most common flows, which were the tool guides, project guides, a newly launched online exhibition space, and a form for submitting files for 3D printed or laser cutting/engraving. The tool and project guides were written up in greater detail and hosted on Gitbook, with full search capability and on-the-fly media compression to help students with limited or slow internet connections.
+To address this, the site was redesigned to include clear buttons on the homepage for the most common flows, which were the tool guides, project guides, a newly launched online exhibition space, and a form for submitting files for 3D printed or laser cutting/engraving. The tool and project guides were written up in greater detail and hosted on [Gitbook](https://gitbook.com), with full search capability and on-the-fly media compression to help students with limited or slow internet connections.
 
 <figure>
 <img src="/media/twa-site-02.png" alt="A screenshot of the second generation website, with coloured buttons on the homepage linked to some of the common tasks students undertook."/>
