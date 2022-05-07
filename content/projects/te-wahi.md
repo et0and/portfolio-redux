@@ -100,6 +100,8 @@ Using a simple survey, responses were gathered from a pool of 100 different stud
 
 To start with, a very basic homepage was created to act as the central hub to all matters related to the maker space. To accompany this site were a series of A3 posters for display in the space. Each poster contained a short description of the core tools and machines used in the space, with a QR code that directed students to a video tutorial demonstrating how to use said tool/machine.
 
+<br><br>
+
 <figure>
 <img src="/media/twa-posters-01.jpg" alt="A screenshot of some posters for display in the maker space. Each poster contains some images and a short description of the respective tool or machine, with a QR code that redirected students to a more detailed video tutorial."/>
 <figcaption>A selection of some posters</figcaption>
@@ -127,6 +129,8 @@ To address this, the site was redesigned to include clear buttons on the homepag
 <figcaption>The redesigned website, with coloured buttons for navigation and an additional option for viewing online exhibitions and submitting files for printing, cutting or engraving</figcaption>
 </figure>
 
+<br><br>
+
 <figure>
 <img src="/media/twa-form-01.png" alt="A screenshot of an Airtable form to submit jobs for 3D printing, laser cutting or engraving."/>
 <figcaption>Form for submitting jobs to be 3D printed, laser cut or engraved that was managed using Airtable</figcaption>
@@ -142,4 +146,18 @@ Google Forms was originally used for submitting jobs, but this was dropped in fa
 <img src="/media/twa-guides-01.png" alt="A screenshot of the Te Wāhi Learn hub, hosted on Gitbook."/>
 <figcaption>The first Te Wāhi Learn hub, hosted via Gitbook and with guides to all the tools and machines used in the space</figcaption>
 </figure>
+
+<br><br>
+
+The hub on Gitbook functioned well but had a few key issues. Namely, students who did not know what specific thing they were looking for but wished to make something via 3D printing, laser cutting or engraving did not have a clear starting point on the site. There was a list of tools but it isn't immediately clear which ones are relevant to what job or purpose.
+
+Another issue with using Gitbook was that, being a third-party service, we were subject to their terms and tracking cookies. A cookie consent banner would popup for new users, causing confusion with some students who would then try to Refuse Cookies and be redirected to an external Gitbook page. To protect the privacy of students and staff we decided that creating our own hub from scratch, one that we controlled without the dependency of a third-party, was the best way forward.
+
+<br><br>
+
+<figure>
+<img src="/media/twa-guides-02.png" alt="A screenshot of the Te Wāhi Learn hub, hosted on Gitbook."/>
+<figcaption>The second iteration of the hub saw a migration from Gitbook to our own infrastructure, using a custom fork of Nextra with Next.js and deployment on Vercel</figcaption>
+</figure>
+
 
