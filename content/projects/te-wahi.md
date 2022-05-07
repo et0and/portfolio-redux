@@ -85,6 +85,7 @@ Some initial assumptions leading up to undertaking this research was the followi
 - Many students feel discouraged from going through notifications due to the sheer amount of alerts that teachers would post and put out on a daily basis, making it difficult to filter through the noise
 
 <br/>
+
 Using a simple survey, responses were gathered from a pool of 100 different students using [Tally](https://tally.so) to gather some data regarding the above assumptions. The findings were:
 
 - The vast majority of students surveyed do not read their students emails (85%), with the most popular reason being that they felt there was so much being sent that it was hard to keep on top of
