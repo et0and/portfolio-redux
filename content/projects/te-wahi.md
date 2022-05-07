@@ -176,7 +176,7 @@ Another issue with using Gitbook was that, being a third-party service, we were 
 
 <br><br>
 
-Our second hub, now running a custom fork of [Nextra](https://github.com/shuding/nextra) and deployed via [Vercel](https://vercel.com) included clear sections for students wanting to 3D print, laser cut or engrave something. The homepage was also updated to have a clearer link to the hub, as well as more information displayed on each section of the site. [Next.js](https://nextjs.org/) and [Tailwind](https://tailwindcss.com/) were used to develop this third iteration of the homepage to improve responsiveness, speed and reduce developement time.
+Our second hub, now running a custom fork of [Nextra](https://github.com/shuding/nextra) and deployed via [Vercel](https://vercel.com), includes clear sections for students wanting to 3D print, laser cut or engrave something. The homepage was also updated to have a clearer link to the hub, as well as more information displayed on each section of the site. [Next.js](https://nextjs.org/) and [Tailwind](https://tailwindcss.com/) were used to develop this third iteration of the homepage to improve responsiveness, speed and reduce developement time.
 
 <br><br>
 
