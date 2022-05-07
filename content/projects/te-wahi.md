@@ -12,8 +12,6 @@ media:
 
 <h3>Developing and deploying a centralised knowledge hub </h3>
 
-NOTE: THIS CASE STUDY IS STILL ACTIVELY BEING WRITTEN UP AS OF 27/04/2022
-
 <small>Roles: User Research, UX/UI Design, Development
 Tools: Figma, Premiere Pro, Next JS
 Team: R.K. (manager) and myself (designer, researcher, developer)
@@ -188,4 +186,10 @@ Our second hub, now running a custom fork of [Nextra](https://github.com/shuding
 <br><br>
 
 <h3>Learnings, reflections and next steps</h3>
+
+Upon the third iteration of the Te Wāhi homepage, a small follow-up Tally survey was conducted recording the responses of 25 students and their experience with the hub. The key findings were:
+
+- All students recorded appreciated having a centralised knowledge hub online
+- Most students felt the hub was easy to use. Two students noted that occasionally videos would fail to load on the hub, which will need further investigation
+- Most students felt that the visual design and layout of the hub is clear and accessible. One student felt that more colour could be used to signal important parts of the hub, which we will plan on implementing in the next iteration
 
