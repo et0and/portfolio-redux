@@ -80,7 +80,7 @@ Some initial assumptions leading up to undertaking this research was the followi
 - Many students feel discouraged from going through notifications due to the sheer amount of alerts that teachers would post and put out on a daily basis, making it difficult to filter through the noise
 
 <br/>
-Using a simple survey, responses were gathered from a pool of 100 different students using Tally to gather some data regarding the above assumptions. The findings were:
+Using a simple survey, responses were gathered from a pool of 100 different students using [Tally](https://tally.so) to gather some data regarding the above assumptions. The findings were:
 
 - The vast majority of students surveyed do not read their students emails (85%), with the most popular reason being that they felt there was so much being sent that it was hard to keep on top of
 - Nearly half of all students surveyed do not ready the daily notices and school newsletters (47%)
@@ -156,8 +156,17 @@ Another issue with using Gitbook was that, being a third-party service, we were 
 <br><br>
 
 <figure>
-<img src="/media/twa-guides-02.png" alt="A screenshot of the Te Wāhi Learn hub, hosted on Gitbook."/>
+<img src="/media/twa-guides-02.png" alt="A screenshot of the Te Wāhi Learn hub, now running on Vercel."/>
 <figcaption>The second iteration of the hub saw a migration from Gitbook to our own infrastructure, using a custom fork of Nextra with Next.js and deployment on Vercel</figcaption>
 </figure>
 
+<br><br>
 
+<figure>
+<img src="/media/twa-guides-02-dark.png" alt="A screenshot of the Te Wāhi Learn hub, now with dark mode!."/>
+<figcaption>Also with added dark mode to help with reading in dim environments</figcaption>
+</figure>
+
+<br><br>
+
+Our second hub, now running a custom fork of [Nextra](https://github.com/shuding/nextra) and deployed via [Vercel](https://vercel.com) included clear sections for students wanting to 3D print, laser cut or engrave something. The homepage was also updated to have a clearer link to the hub, as well as more information displayed on each section of the site. Next.js and Tailwind were used to develop this third iteration of the homepage to improve responsiveness, speed and developement time.
