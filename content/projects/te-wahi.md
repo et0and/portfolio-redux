@@ -28,6 +28,13 @@ Takapuna Grammar School launched their maker space (nee Innovation Space) for st
 
 <br><br>
 
+<figure>
+<img src="/media/twa-entrance.jpg" alt="Entrance of the Te Wāhi maker space, showing a monochrome sign on a brick wall."/>
+<figcaption>Entrance of the Te Wāhi maker space</figcaption>
+</figure>
+
+<br><br>
+
 <h3>The Solution </h3>
 
 Design, develop and deploy a centralised knowledge hub that exists both online in the form of a website and offline in the form of posters. The hub will contain different guides for using the tools and machines, as well as steps to follow for certain goals.
@@ -169,4 +176,16 @@ Another issue with using Gitbook was that, being a third-party service, we were 
 
 <br><br>
 
-Our second hub, now running a custom fork of [Nextra](https://github.com/shuding/nextra) and deployed via [Vercel](https://vercel.com) included clear sections for students wanting to 3D print, laser cut or engrave something. The homepage was also updated to have a clearer link to the hub, as well as more information displayed on each section of the site. Next.js and Tailwind were used to develop this third iteration of the homepage to improve responsiveness, speed and developement time.
+Our second hub, now running a custom fork of [Nextra](https://github.com/shuding/nextra) and deployed via [Vercel](https://vercel.com) included clear sections for students wanting to 3D print, laser cut or engrave something. The homepage was also updated to have a clearer link to the hub, as well as more information displayed on each section of the site. [Next.js](https://nextjs.org/) and [Tailwind](https://tailwindcss.com/) were used to develop this third iteration of the homepage to improve responsiveness, speed and reduce developement time.
+
+<br><br>
+
+<figure>
+<img src="/media/twa-site-03.png" alt="A screenshot of the Te Wāhi homepage, now in its third iteration"/>
+<figcaption>The most recent Te Wāhi homepage redesign</figcaption>
+</figure>
+
+<br><br>
+
+<h3>Learnings, reflections and next steps</h3>
+
