@@ -175,7 +175,7 @@ Another issue with using Gitbook was that, being a third-party service, we were 
 
 <br><br>
 
-Our second hub, now running a custom fork of [Nextra](https://github.com/shuding/nextra) and deployed via [Vercel](https://vercel.com), includes clear sections for students wanting to 3D print, laser cut or engrave something. The homepage was also updated to have a clearer link to the hub, as well as more information displayed on each section of the site. [Next.js](https://nextjs.org/) and [Tailwind](https://tailwindcss.com/) were used to develop this third iteration of the homepage to improve responsiveness, speed and reduce developement time.
+Our second hub, now running a custom fork of [Nextra](https://github.com/shuding/nextra) and deployed via [Vercel](https://vercel.com), includes clear sections for students wanting to 3D print, laser cut or engrave something. The homepage was also updated to have a clearer link to the hub, as well as more information displayed on each section of the site. [Next.js](https://nextjs.org/) and [Tailwind](https://tailwindcss.com/) were used to develop this third iteration of the homepage to improve responsiveness, speed and reduce developement time. A CDN was also established under "tewahi.me" to help with the safe and secure delivery of large software binaries for students, as well as host versions of tools that no longer officially exist elsewhere on the internet (such as the macOS version of Meshmixer).
 
 <br><br>
 
@@ -194,3 +194,4 @@ Upon the third iteration of the Te Wāhi homepage, a small follow-up Tally surve
 - Most students felt the hub was easy to use. Two students noted that occasionally videos would fail to load on the hub, which will need further investigation
 - Most students felt that the visual design and layout of the hub is clear and accessible. One student felt that more colour could be used to signal important parts of the hub, which we will plan on implementing in the next iteration
 
+The learning hub continues to receive new tutorials and guides. All material on the site, unless otherwise noted, is licensed under MIT and [full source code is available to view here](https://github.com/et0and/learn.tewahi.com).
