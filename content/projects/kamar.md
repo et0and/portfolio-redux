@@ -51,7 +51,7 @@ Following the double diamond framework, user research could be diverged and the 
 <br>
 
 <figure>
-<img src="/media/dd.png" alt="Diagram of a Double Diamond strategy outline in approaching the problem with KAMAR sign in flow."/>
+<img src="/media/DD.png" alt="Diagram of a Double Diamond strategy outline in approaching the problem with KAMAR sign in flow."/>
 <figcaption>Double-diamond design process</figcaption>
 </figure>
 
