@@ -1,7 +1,7 @@
 ---
 title: KAMAR login flow explorations
 layout: project
-dateStart: 2021-12-09
+dateStart: 2022-01-09
 dateEnd: 2022-02-08
 media:
   - type: image
