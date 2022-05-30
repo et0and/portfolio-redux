@@ -36,23 +36,24 @@ Design a user flow that has teachers and administrators sign in normally at the 
 
 <br><br>
 
-<h3>Design Process - Lean UX Method </h3>
+<h3>Process outline - the Double Diamond framework</h3>
 
-****Outcomes, assumptions, and hypotheses -**** *what do we think the problem and solution is?*
+Following the double diamond framework, user research could be diverged and the scope of the problem space clarified. After diverging, I converged and identified the specific "How Might We" and benefit sought:
 
-****Design -**** *a collaborative design solution*
-
-****MVP (Minimum viable product) -**** *the wireframe, mockup and prototype*
-
-****Research and learning -**** *what worked and what didn’t? Are there any spaces for improvement here?*
-
-<br><br>
+<br>
 
 ---
 
-> "Teachers and administrators can quickly and effortlessly access their school management system, so they can dedicate more energy in the classroom and reduce cognitive load."
+> "Teachers and administrators would quickly and effortlessly access their school management system, so they can dedicate more energy in the classroom and reduce cognitive load."
 
 ---
+
+<br>
+
+<figure>
+<img src="/media/dd.png" alt="Diagram of a Double Diamond strategy outline in approaching the problem with KAMAR sign in flow."/>
+<figcaption>Double-diamond design process</figcaption>
+</figure>
 
 <br><br>
 
