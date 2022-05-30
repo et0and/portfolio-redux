@@ -14,7 +14,7 @@ media:
 
 NOTE: THIS CASE STUDY IS STILL ACTIVELY BEING WRITTEN UP AS OF 30/05/2022
 
-<small>Roles: UX/UI Design, Product Analysis
+<small>Roles: UX/UI Design, User Research, Product Analysis
 Tools: Figma
 Team: Myself (designer, researcher)
 Timeline of One Month</small>
