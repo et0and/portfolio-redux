@@ -89,9 +89,12 @@ Using a simple [Tally](https://tally.so) survey which was sent out through the n
 User interviews were conducted with 22 current, full-time secondary school teachers from across Aotearoa New Zealand. Interviews were conducted remotely via email and video calling (Google Meet and Zoom).
 
 Assumption: Teachers find constantly having to login a pain, slowing the flow and rhythm of their classes
+
+<br>
+
 Findings: Teachers struggle with having to constantly login, and will often put off doing their roll until the end of the class to avoid disruption
 
-> "When it takes a good 10 - 20 seconds to open KAMAR, login, wait for my timetable to load, and then attempt to click through the attendance ... I often don't bother and do it towards the end or after the class is over."
+> *"When it takes a good 10 - 20 seconds to open KAMAR, login, wait for my timetable to load, and then attempt to click through the attendance ... I often don't bother and do it towards the end or after the class is over."*
 
 90% of all participants said they would feel better about having a faster, more simplified login flow for KAMAR.
 
