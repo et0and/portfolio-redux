@@ -12,7 +12,7 @@ media:
 
 <h3>A fun approach to minimise a pain point for teachers</h3>
 
-NOTE: THIS CASE STUDY IS STILL ACTIVELY BEING WRITTEN UP AS OF 27/04/2022
+NOTE: THIS CASE STUDY IS STILL ACTIVELY BEING WRITTEN UP AS OF 30/05/2022
 
 <small>Roles: UX/UI Design, Product Analysis
 Tools: Figma
@@ -58,3 +58,50 @@ Following the double diamond framework, user research could be diverged and the 
 <br><br>
 
 <h3>Definitions </h3>
+
+*Effortlessly* - without giving it much thought 
+
+*Energy* - accounting for both the mental and physical energy and overall wellbeing of the teacher
+
+*Cognitive load* - mental strain on the teacher, especially in instances where they are having to actively use their working memory for tasks
+
+<h3>User Research</h3>
+<h4>Utilising teacher voice</h4>
+
+Some initial assumptions leading up to undertaking this research was the following:
+
+- Many teachers struggle with logging into KAMAR
+- Many teachers find KAMAR to be buggy
+- Many teachers become frustrated when being locked out without notice, potentially losing progress or work they were doing
+- Teachers generally feel discouraged from using KAMAR, both on mobile and desktop
+
+<br/>
+
+Using a simple [Tally](https://tally.so) survey which was sent out through the national visual art teachers mailing list (VisArtNet), 50 responses were gathered from teachers across Aotearoa to gather some data regarding the above assumptions. The findings were:
+
+- All but three teachers noted that they struggle with logging into KAMAR
+- All teachers found KAMAR to be buggy and have performance issues
+- All teachers had experienced being locked out of KAMAR without notice
+- Nearly half of all teachers (23) noted feeling discouraged from using KAMAR, citing reasons such as "slowness" and "often unpredictable behaviour" from the system
+
+<h4>User interviews</h4>
+
+User interviews were conducted with 22 current, full-time secondary school teachers from across Aotearoa New Zealand. Interviews were conducted remotely via email and video calling (Google Meet and Zoom).
+
+Assumption: Teachers find constantly having to login a pain, slowing the flow and rhythm of their classes
+Findings: Teachers struggle with having to constantly login, and will often put off doing their roll until the end of the class to avoid disruption
+
+> "When it takes a good 10 - 20 seconds to open KAMAR, login, wait for my timetable to load, and then attempt to click through the attendance ... I often don't bother and do it towards the end or after the class is over."
+
+90% of all participants said they would feel better about having a faster, more simplified login flow for KAMAR.
+
+<h3>Competitive Analysis</h3>
+<h4>Exploring alternative sign in methods</h4>
+
+<h3>Journey Mapping</h3>
+<h4>User Journey</h4>
+
+<h3></h3>
+<h4>Wireframes and Prototypes</h4>
+
+
