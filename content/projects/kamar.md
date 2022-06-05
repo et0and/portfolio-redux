@@ -65,7 +65,7 @@ Following the double diamond framework, user research could be diverged and the 
 
 *Cognitive load* - mental strain on the teacher, especially in instances where they are having to actively use their working memory for tasks
 
-<h3>User Research</h3>
+<h3>User Research</h3><br>
 <h4>Utilising teacher voice</h4>
 
 Some initial assumptions leading up to undertaking this research was the following:
@@ -98,7 +98,7 @@ User interviews were conducted with 22 current, full-time secondary school teach
 
 90% of all participants said they would feel better about having a faster, more simplified login flow for KAMAR.
 
-<h3>Competitive Analysis</h3>
+<h3>Competitive Analysis</h3><br>
 <h4>Exploring alternative sign in methods</h4>
 
 <h3>Journey Mapping</h3>
