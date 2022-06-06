@@ -65,6 +65,8 @@ Following the double diamond framework, user research could be diverged and the 
 
 *Cognitive load* - mental strain on the teacher, especially in instances where they are having to actively use their working memory for tasks
 
+<br><br>
+
 <h3>User Research</h3>
 <h4>Utilising teacher voice</h4>
 
@@ -98,6 +100,8 @@ User interviews were conducted with 22 current, full-time secondary school teach
 
 90% of all participants said they would feel better about having a faster, more simplified login flow for KAMAR.
 
+<br><br>
+
 <h3>Comparitive Analysis</h3>
 <h4>Comparison of different sign in methods</h4>
 
@@ -107,6 +111,10 @@ User interviews were conducted with 22 current, full-time secondary school teach
 </figure>
 
 A simple star rating system was utilised to measure different common sign in methods based on their overall usability, design, and security, as well as a list of some positive and negative points about each. While not an exhaustive list nor one that is fully objective, the goal was to compare some of the common methods used and attempt to strike a balance between the ease of use of a passcode and the security of a magic link or SSO flow.
+
+Any multi step process, particularly one that involves the user either using another device or logging into another service was ruled out due to the impracticality for teachers in a classroom. With passwords already in use with KAMAR, this left passcodes and SSO remaining as the other sign in methods. 
+
+<br><br>
 
 <h3>Journey Mapping</h3>
 <h4>User Journey</h4>
