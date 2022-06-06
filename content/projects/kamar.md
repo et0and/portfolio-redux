@@ -98,7 +98,7 @@ User interviews were conducted with 22 current, full-time secondary school teach
 
 90% of all participants said they would feel better about having a faster, more simplified login flow for KAMAR.
 
-<h3>Competitive Analysis</h3>
+<h3>Comparitive Analysis</h3>
 <h4>Comparison of different sign in methods</h4>
 
 
