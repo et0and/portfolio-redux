@@ -102,6 +102,16 @@ User interviews were conducted with 22 current, full-time secondary school teach
 
 <br><br>
 
+<h3>Empathy Mapping</h3>
+<h4>Visualising attitudes and behaviours of a classroom teacher</h4>
+
+<figure>
+<img src="/media/empathymap.png" alt="An empathy map with responses from different teachers."/>
+<figcaption>Combined empathy map of teacher responses and feedback gathered from interviews</figcaption>
+</figure>
+
+<br><br>
+
 <h3>Comparitive Analysis</h3>
 <h4>Comparison of different sign in methods</h4>
 
