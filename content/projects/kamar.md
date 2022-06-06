@@ -101,7 +101,12 @@ User interviews were conducted with 22 current, full-time secondary school teach
 <h3>Comparitive Analysis</h3>
 <h4>Comparison of different sign in methods</h4>
 
+<figure>
+<img src="/media/analysis.png" alt="A table listing different methods of login and their pros and cons."/>
+<figcaption>Different methods compared and ranked</figcaption>
+</figure>
 
+A simple star rating system was utilised to measure different common sign in methods based on their overall usability, design, and security, as well as a list of some positive and negative points about each. While not an exhaustive list nor one that is fully objective, the goal was to compare some of the common methods used and attempt to strike a balance between the ease of use of a passcode and the security of a magic link or SSO flow.
 
 <h3>Journey Mapping</h3>
 <h4>User Journey</h4>
