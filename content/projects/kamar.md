@@ -12,7 +12,7 @@ media:
 
 <h3>A fun approach to minimise a pain point for teachers</h3>
 
-NOTE: THIS CASE STUDY IS STILL ACTIVELY BEING WRITTEN UP AS OF 30/05/2022
+NOTE: THIS CASE STUDY IS STILL ACTIVELY BEING WRITTEN UP AS OF 07/06/2022
 
 <small>Roles: UX/UI Design, User Research, Product Analysis
 Tools: Figma
@@ -134,6 +134,13 @@ Any multi step process, particularly one that involves the user either using ano
 
 <h3>Journey Mapping</h3>
 <h4>User Journey</h4>
+
+Taking all the insights from research and the resulting empathy map, a thorough user journey was created that highlighted the UX before, during and after logging into KAMAR.
+
+<figure>
+<img src="/media/journey.png" alt="A user journey that maps the steps and actions a teacher might take when trying to login to KAMAR."/>
+<figcaption>User Journey for KAMAR login</figcaption>
+</figure>
 
 <h3></h3>
 <h4>Wireframes and Prototypes</h4>
