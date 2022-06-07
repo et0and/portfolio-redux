@@ -110,6 +110,12 @@ User interviews were conducted with 22 current, full-time secondary school teach
 <figcaption>Combined empathy map of teacher responses and feedback gathered from interviews</figcaption>
 </figure>
 
+By combining some of the key responses (verbal and non-verbal), an empathy map could be formed to help remove further bias and uncover potential teacher needs and pain points related to KAMAR. Overall, the map helped to illustrate that:
+
+- teachers interviewed are all dissatisfied with the current login flow 
+- going through the current flow feels like a chore for many
+- it is a point of anxiety for many
+
 <br><br>
 
 <h3>Comparitive Analysis</h3>
