@@ -14,15 +14,15 @@ eleventyNavigation:
 <br><br>
 
 Hi, I'm Tom,
-I am a designer interested in making products that are accessible, beautiful and fun.
+I am a product designer with a background in the arts and education. I have experience in visual arts and design teaching where I developed my leadership and communication skills.
 
-Presently I am a high school teacher teaching art and design in Tāmaki Makaurau, so in a very real way people have always deeply informed my work. Anything I make or work on is [guided by these set of values](/values "a list of values I work by")
+My experience in making learning more accessible and equitable across a range of students from different backgrounds and abilities built the foundation of my human-centered design practice. Anything I make or work on is [guided by these set of values](/values "a list of values I work by").
 
 Previously I studied at the [Elam School of Fine Arts](https://elamartists.ac.nz/), where I also briefly taught the first and second year studio programme. 
 
 Find me on [are.na](https://are.na/tom-y "Are.na"), [LinkedIn](https://linkedin.com/in/tom-hackshaw "LinkedIn"), [Twitter](https://twitter.com/tomhackshaw "Twitter"), [Merveilles](https://merveilles.town/@tomupom "Merveilles, a Mastodon instance")
 
-or say hi: [tom@tomhackshaw.com](mailto:tom@tomhackshaw.com "my email address") ([PGP](/media/pubkey.txt "my pgp public encryption key")) / [~falsef-nostyp](web+urbitgraph://group/~falsef-nostyp/tom-s-room-3993 "link to my urbit")
+[View Resume](https://tom.so/media/resume.pdf)
 
 <br><br>
 
