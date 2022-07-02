@@ -14,6 +14,8 @@ eleventyNavigation:
 
 <br>
 
+Small creative experiments that I have worked on outside of my design work.
+
 [An Idea for a Performance](/projects/an-idea-for-a-performance)
 ↳ A tool for generating ideas
 
