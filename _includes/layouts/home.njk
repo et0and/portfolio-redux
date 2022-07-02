@@ -34,7 +34,7 @@ permalink: "/"
   {# If there is an image we can use #}
   {% if image %}
     <article class="home-block {{ blockClasses }}">
-      <a href="{{ entry.url }}">
+      <a href="{{ entry.url }}" target="_blank" rel="noopener noreferrer">
         <img
           loading="lazy"
           src="/media/{{ image }}"
