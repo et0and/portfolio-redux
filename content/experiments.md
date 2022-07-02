@@ -16,6 +16,8 @@ eleventyNavigation:
 
 Small creative experiments that I have worked on outside of my design work
 
+---
+
 <h3>Art</h3>
 
 [An Idea for a Performance](/projects/an-idea-for-a-performance)
@@ -42,6 +44,8 @@ Small creative experiments that I have worked on outside of my design work
 [Whitecub.es](/projects/whitecubes)
 ↳ An interactive art map
 
+---
+
 <h3>Research</h3>
 
 [Chess](/projects/chess)
@@ -61,6 +65,8 @@ Small creative experiments that I have worked on outside of my design work
 
 [Poetics of Space](/projects/poetics-of-space)
 ↳ A research archive on spaces
+
+---
 
 <h3>Web</h3>
 
