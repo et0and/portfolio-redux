@@ -1,5 +1,9 @@
 ---
 layout: home
+title: Portfolio
+eleventyNavigation:
+  key: Portfolio
+  order: 1
 entries:
   - te-wahi
   - kamar

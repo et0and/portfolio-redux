@@ -2,7 +2,7 @@
 layout: page
 eleventyNavigation:
   key: About
-  order: 3
+  order: 4
 ---
 
 >_He aha te mea nui o te ao?_

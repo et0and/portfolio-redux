@@ -3,5 +3,5 @@ layout: posts
 title: Writing
 eleventyNavigation:
   key: Writing
-  order: 2
+  order: 3
 ---

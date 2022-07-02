@@ -3,7 +3,7 @@ layout: page
 title: Experiments
 eleventyNavigation:
   key: Experiments
-  order: 1
+  order: 2
 ---
 
 <form method="GET" action="https://lieu.cblgh.org/">
