@@ -14,7 +14,9 @@ eleventyNavigation:
 
 <br>
 
-Small creative experiments that I have worked on outside of my design work.
+Small creative experiments that I have worked on outside of my design work
+
+<h3>Art</h3>
 
 [An Idea for a Performance](/projects/an-idea-for-a-performance)
 ↳ A tool for generating ideas
@@ -25,8 +27,8 @@ Small creative experiments that I have worked on outside of my design work.
 [Markono](/projects/markono)
 ↳ A program for generating performance instructions
 
-[Some Quiet Tips](/projects/some-quiet-tips)
-↳ A mental health resource
+[Performa](/projects/performa)
+↳ A performance art archive
 
 [The Museum Without Walls](/projects/museum-without-walls)
 ↳ A Macintosh Hypercard project
@@ -40,7 +42,7 @@ Small creative experiments that I have worked on outside of my design work.
 [Whitecub.es](/projects/whitecubes)
 ↳ An interactive art map
 
-<br><br>
+<h3>Research</h3>
 
 [Chess](/projects/chess)
 ↳ Some notes on the game of chess
@@ -54,16 +56,27 @@ Small creative experiments that I have worked on outside of my design work.
 [Imaginary Museum](/projects/imaginary-museum)
 ↳ A growing archive of reference material
 
-[Performa](/projects/performa)
-↳ A performance art archive
-
 [Philemon](/projects/philemon)
 ↳ A Jungian research archive
 
 [Poetics of Space](/projects/poetics-of-space)
 ↳ A research archive on spaces
 
+<h3>Web</h3>
+
+[Some Quiet Tips](/projects/some-quiet-tips)
+↳ A mental health resource
+
 [WWW](/projects/www)
 ↳ A collection of site on the World Wide Web
+
+
+
+
+
+
+
+
+
 
 
