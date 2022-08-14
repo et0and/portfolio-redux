@@ -25,7 +25,7 @@ permalink: "/projects/{{ page.fileSlug }}/index.html"
   {% endif %}
 </article>
 
-{% set next = collections.projects | nextInCollection(page.fileSlug) %}
+<!-- {% set next = collections.projects | nextInCollection(page.fileSlug) %}
 {% set previous = collections.projects | prevInCollection(page.fileSlug) %}
 
 {% if next or previous%}
@@ -39,6 +39,6 @@ permalink: "/projects/{{ page.fileSlug }}/index.html"
       <p class="pagination-item pagination-item-prev">
         <a href="{{ previous.url }}"></a>
       </p>
-    {% endif %}
+    {% endif %} -->
   </div>
 {% endif %}
