@@ -152,14 +152,21 @@ With a greater understanding of users’ frustrations, goals, and needs, user pe
 
 As I move further along in the design process, these personas can help serve as touch points to refer back to, ensuring that development is kept to meet the needs of the users and only necessary features are included.
 
+<h4>Alan</h4>
 <figure>
 <img src="/media/alan.png" alt="Alan user persona"/>
 </figure>
 
+<br><br>
+
+<h4>Waiching</h4>
 <figure>
 <img src="/media/waiching.png" alt="Waiching user persona"/>
 </figure>
 
+<br><br>
+
+<h4>Jill</h4>
 <figure>
 <img src="/media/jill.png" alt="Jill user persona"/>
 </figure>
