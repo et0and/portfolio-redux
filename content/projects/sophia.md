@@ -51,19 +51,17 @@ Before anything, I needed to better understand users’ potential problems and f
 
 <br><br>
 
-<h3>Design Process - Paris-Est d.school Design Thinking Process</h3>
+<h3>Design Process - Double Diamond</h3>
 
-Throughout this project, I followed the Design Thinking Process, adapted from Paris-Est d.school at Ecole des Ponts, to structure the design process and create a solution that would be useful for users in the development of Sophia. 
+Throughout this project, I followed the Double Diamond design approach to structure the design process and create a solution that would be useful for users in the development of Sophia. 
 
 <figure>
-<img src="/media/" alt="The Design Thinking Process, adapted from Paris-Est d.school at Ecole des Ponts."/>
-<figcaption>Design Thinking Process</figcaption>
+<img src="/media/" alt="The Double Diamond Design Process"/>
 </figure>
 
 <br><br>
 
 <h3>Competitive Analysis</h3>
-<h4>Empathize</h4>
 
 <figure>
 <img src="/media/mindfulness.png" alt="A competitive analysis of different products on the market."/>
@@ -97,6 +95,7 @@ The core message of Mentemia is a tool for public good, one that helps users ach
 
 Insight Timer positions itself as a sustainable product that puts users first. By giving users access to a vast catalog of free content, their mission is to help spread meditation and mindfulness to as many people across the world as possible. 
 
+<br><br>
 
 
 
