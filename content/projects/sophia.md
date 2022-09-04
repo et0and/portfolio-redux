@@ -363,7 +363,14 @@ Suggested change: Add description of The Library below main title, move to add t
 
 <h3>Visual Design</h3>
 
+<figure>
+<img src="/media/sophiadesign.png" alt="Screenshot of Sophia Design Language System."/>
+</figure>
+
 To set guidelines for future iterations of Sophia, a style guide/design language system was created. 
 
 The guide establishes a set of design principles, patterns, and UI components that will be used to create consistent experiences across all platforms and future versions. 
+
+View the guide [here]("/media/Sophia Design Language System.pdf")
+
 
