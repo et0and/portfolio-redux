@@ -144,6 +144,15 @@ Some key insights:
 
 <h3>User Personas</h3>
 
+<figure>
+<img src="/media/alan.png" alt="Alan user persona"/>
+</figure>
 
+<figure>
+<img src="/media/waiching.png" alt="Waiching user persona"/>
+</figure>
 
+<figure>
+<img src="/media/jill.png" alt="Jill user persona"/>
+</figure>
 
