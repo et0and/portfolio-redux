@@ -5,7 +5,7 @@ dateStart: 2021-12-09
 dateEnd: 2022-02-08
 media:
   - type: image
-    filename: twa-cover.png
+    filename: twacover.png
     size: md
     alt: Some sample screens of the Te Wāhi Learn online hub
 ---
@@ -14,6 +14,7 @@ media:
 
 <small>Roles: User Research, UX/UI Design, Development
 Tools: Figma, Premiere Pro, Next JS
+Client: Takapuna Grammar School
 Team: R.K. (manager) and myself (designer, researcher, developer)
 Timeline of Two Years</small>
 

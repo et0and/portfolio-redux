@@ -10,4 +10,16 @@ media:
     alt: A health and well being portal
 ---
 
-Cras mattis consectetur purus sit amet fermentum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Maecenas faucibus mollis interdum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit.
+<h3>A new kind of health and well being portal </h3>
+
+<small>Roles: User Research, UX/UI Design, Development
+Tools: Figma, Optimal Workshop, Usability Hub, Miro
+Client: CareerFoundry UX Project
+Team: Solo (designer, researcher)
+Timeline of One Year</small>
+
+---
+<br><br>
+
+<h3>Project Overview</h3>
+
