@@ -311,12 +311,12 @@ All responses were gathered and collated into a Rainbow Spreadsheet, which can b
 Based on the responses and feedback, six key issues were identified and ranked according to the Nielsen Scale.
 
 - <b>Issue 1: Unable to delete past journal entries (High Severity)</b>
-- Evidence: 2 participants noted a lack of delete option upon creating a journal entry<br>
-- Suggested change: Design and implement a delete button
+Evidence: 2 participants noted a lack of delete option upon creating a journal entry<br>
+Suggested change: Design and implement a delete button
 
 - <b>Issue 2: Lack of colour and illustrations make the portal feel cold (Low Severity)</b>
-- Evidence: 4 participants remarked on the lack of colour and illustrations in Sophia, making it feel “cold” and “clinical” particularly in the Mindfulness Center<br>
-- Suggested change: Begin adding colour accents and illustrations throughout Sophia
+Evidence: 4 participants remarked on the lack of colour and illustrations in Sophia, making it feel “cold” and “clinical” particularly in the Mindfulness Center<br>
+Suggested change: Begin adding colour accents and illustrations throughout Sophia
 
 - <b>Issue 3: Lack of progress display and personalisation on Dashboard (Medium Severity)</b>
 Evidence: 2 participants commented on adding a section in the Dashboard to show different metrics and user progress on Sophia<br>
@@ -335,10 +335,35 @@ Evidence: 2 participants noted that it would be nice to include a text descripti
 Suggested change: Add description of The Library below main title, move to add this onto other screens as well for clarity
 
 <figure>
-<img src="/media/fixed.png" alt="A visual list of all fixes implemented."/>
+<img src="/media/fixed1.png" alt="A visual list of all fixes implemented."/>
+<figcaption>Issue 1 - A delete button was added as an option to all posts</figcaption>
+</figure>
+
+<figure>
+<img src="/media/fixed2.png" alt="A visual list of all fixes implemented."/>
+<figcaption>Issue 2 & 3 - Areas such as quick toggle buttons have been highlighted for clarity, and progress metrics displayed on the Dashboard</figcaption>
+</figure>
+
+<figure>
+<img src="/media/fixed3.png" alt="A visual list of all fixes implemented."/>
+<figcaption>Issue 4 - A horizontal row of recommended materials added to main Library screen</figcaption>
+</figure>
+
+<figure>
+<img src="/media/fixed4.png" alt="A visual list of all fixes implemented."/>
+<figcaption>Issue 5 - Description updated to specify inclusion of music, as well the addition of a dedicated filter button</figcaption>
+</figure>
+
+<figure>
+<img src="/media/fixed5.png" alt="A visual list of all fixes implemented."/>
+<figcaption>Issue 6 - A short text description added to all core screens such as the Library and Mindfulness Center</figcaption>
 </figure>
 
 <br><br><br><br>
 
+<h3>Visual Design</h3>
 
+To set guidelines for future iterations of Sophia, a style guide/design language system was created. 
+
+The guide establishes a set of design principles, patterns, and UI components that will be used to create consistent experiences across all platforms and future versions. 
 
