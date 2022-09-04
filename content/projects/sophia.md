@@ -211,13 +211,15 @@ Daily Journal, Time Sheet and Modules categories had the most disagreement and s
 <figcaption>The results of this card sort helped to refine the sitemap and overall IA.</figcaption>
 </figure>
 
-<figure>
+<figure.md>
 <img src="/media/IA.png" alt="Completed sitemap and IA."/>
-</figure>
+</figure.md>
 
 <br><br><br><br>
 
 <h3>Prototyping</h3>
+
+With user flows defined, initial designs were created as low-fidelity paper wireframes. 
 
 
 
