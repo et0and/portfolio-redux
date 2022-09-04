@@ -314,7 +314,6 @@ Based on the responses and feedback, six key issues were identified and ranked a
 
 - <b>Issue 1: Unable to delete past journal entries (High Severity)</b>
 Evidence: 2 participants noted a lack of delete option upon creating a journal entry
-
 Suggested change: Design and implement a delete button
 
 - <b>Issue 2: Lack of colour and illustrations make the portal feel cold (Low Severity)</b>
