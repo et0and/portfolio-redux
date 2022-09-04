@@ -176,3 +176,16 @@ As I move further along in the design process, these personas can help serve as 
 
 <h3>User Flows</h3>
 
+After discovering the main features of Sophia, I created user flows to understand the steps my personas would follow to reach their goals.
+
+<figure>
+<img src="/media/flow1.png" alt="User flow for accessing saved materials on Sophia."/>
+<figcaption>Saving materials on Sophia</figcaption>
+</figure>
+
+<figure>
+<img src="/media/flow2.png" alt="User flow for listening to guided meditations on Sophia."/>
+<figcaption>Listening to a guided meditation on Sophia</figcaption>
+</figure>
+
+
