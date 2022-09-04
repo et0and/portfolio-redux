@@ -65,12 +65,12 @@ Throughout this project, I followed the Double Diamond design approach to struct
 2. User Interviews
 3. User Personas, Flows, and Journey Maps
 4. Information Architecture
-5. Prototyping, User Testing, Refine
+5. Prototyping and User Testing
 6. Visual Design
 7. Refined Mockup and Prototype
 8. Reflections
 
-<br><br>
+<br><br><br><br>
 
 <h3>Competitive Analysis</h3>
 
@@ -106,15 +106,19 @@ The core message of Mentemia is a tool for public good, one that helps users ach
 
 Insight Timer positions itself as a sustainable product that puts users first. By giving users access to a vast catalog of free content, their mission is to help spread meditation and mindfulness to as many people across the world as possible. 
 
-<br><br>
+<br><br><br><br>
 
 <h3>User Interviews</h3>
 
+To gain a greater understanding of the above problems, I conducted user interviews to obtain data. These interviews meant I could better understand my target audience and their needs. 
+
+I wanted to understand what was important for them and what they looked for in a product such as Sophia.
+
 <h4>Participants</h4>
 
-Albert (26) - full-time university student
-Sally (23) - part-time barista, full-time university student
-Rick (23) - full-time QA engineer and software developer
+<b>Albert (26)</b> - full-time university student
+<b>Sally (23)</b> - part-time barista, full-time university student
+<b>Rick (23)</b> - full-time QA engineer and software developer
 
 <figure>
 <img src="/media/affinity.png" alt="A combined affinity map from user interview responses."/>
@@ -188,7 +192,7 @@ After discovering the main features of Sophia, I created user flows to understan
 <figcaption>Listening to a guided meditation on Sophia</figcaption>
 </figure>
 
-<br><br>
+<br><br><br><br>
 
 <h3>Information Architecture</h3>
 
@@ -211,7 +215,9 @@ Daily Journal, Time Sheet and Modules categories had the most disagreement and s
 <img src="/media/IA.png" alt="Completed sitemap and IA."/>
 </figure>
 
+<br><br><br><br>
 
+<h3>Prototyping</h3>
 
 
 
