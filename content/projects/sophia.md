@@ -105,9 +105,9 @@ Insight Timer positions itself as a sustainable product that puts users first. B
 
 <h3>User Interviews</h3>
 
-To gain a greater understanding of the above problems, I conducted user interviews to obtain data. These interviews meant I could better understand my target audience and their needs. 
+To gain a greater understanding of the above problems, we conducted user interviews to obtain data. These interviews meant we could better understand our target audience and their needs. 
 
-I wanted to understand what was important for them and what they looked for in a product such as Sophia.
+In these interviews, the key objective was to understand what was important for participants and what they looked for in a product such as Sophia.
 
 <h4>Participants</h4>
 
@@ -242,4 +242,65 @@ At this stage, the decision was made to utilise a design system across the whole
 <figure>
 <img src="/media/high-fidelity.png" alt="Hi-fi meditation userflow."/>
 </figure>
+
+With a high-fidelity prototype up and running, it was time to test this new design through usability testing.
+
+<br><br>
+
+<h3>Usability Testing</h3>
+
+Prior to conducting the tests, a plan and script was written to ensure a consistent testing process between the different users. Participants were recruited through personal and professional contacts. 
+
+The testing was moderated, and took place over a week from April 30th to May 6, 2022. Two tests were taken remotely via Google Meet, with the remaining four done in person at their place of residence. 
+
+All participants were first asked the following open-ended questions:
+
+- “Starting with these first screens that you can click through - what kind of app do you think this is at a glance? What do you think you can do with it, and what is its purpose?”
+- “Next, let’s take a look at this screen [Dashboard]. Before you click anything, what do you think this is? Is there anything that stands out to you, and what do you think you can do here?”
+- “When you look at this screen [The Library], what do you think this is? Is there anything here that catches your eye?”
+- “Finally, what do you expect to be able to do from this screen [Mindfulness Center]? Again, is there anything here that catches your eye?”
+
+Direct tasks for the participants were:
+
+- To create an account on the Sophia portal
+- To find the Settings screen for the portal
+
+Scenario tasks that the participants were asked to complete were:
+
+- “Imagine you have been feeling a bit up and down with your mood over the last few days and you want to start writing a journal of how you are doing. Using the portal, please make a journal entry for today”
+- “Your friend swears by taking Vitamin D3 on a daily basis and you want to look into its potential benefits yourself. Using the portal, try to find some more information on Vitamin D3.”
+- “You want to chill out for a bit and just listen to some ambient noise. Using the portal, look for some ambient noise audio that you can relax to.”
+
+All responses were gathered and collated into a Rainbow Spreadsheet, which can be [accessed here](https://docs.google.com/spreadsheets/d/1r6xGwwruer38dYlM07nPWgCvmObh4qAN1gmIC6IHZbQ/edit#gid=0).
+
+<br><br>
+
+Based on the responses and feedback, six key issues were identified and ranked according to the Nielsen Scale.
+
+- <b>Issue 1: Unable to delete past journal entries (High Severity)</b>
+- Evidence: 2 participants noted a lack of delete option upon creating a journal entry
+- Suggested change: Design and implement a delete button
+
+- <b>Issue 2: Lack of colour and illustrations make the portal feel cold (Low Severity)</b>
+- Evidence: 4 participants remarked on the lack of colour and illustrations in Sophia, making it feel “cold” and “clinical” particularly in the Mindfulness Center
+- Suggested change: Begin adding colour accents and illustrations throughout Sophia
+
+- <b>Issue 3: Lack of progress display and personalisation on Dashboard (Medium Severity)</b>
+- Evidence: 2 participants commented on adding a section in the Dashboard to show different metrics and user progress on Sophia
+- Suggested change: Design and implement a progress section at the top of the Dashboard
+
+- <b>Issue 4: Lack of recommendations for users (Low Severity)</b>
+- Evidence: 2 participants suggested that having a recommended section would help personalise the Portal and support new users who weren’t sure what they were looking for
+- Suggested change: Design and implement a recommendations section for users, which could be algorithmically generated and personalised
+
+- <b>Issue 5: Users struggle to find music on Sophia (Medium Severity)</b>
+- Evidence: One participant had great difficulty in finding music within the Mindfulness Center, having to look through screens multiple times
+- Suggested change: Either clearly label music within the Mindfulness Center, or implement a standalone screen/area for this
+
+- <b>Issue 6: Lack of descriptions of what each screen was for (Medium Severity)</b>
+- Evidence: 2 participants noted that it would be nice to include a text description at the top of different screens that explain the purpose of it, specifically The Library
+- Suggested change: Add description of The Library below main title, move to add this onto other screens as well for clarity
+
+
+
 
