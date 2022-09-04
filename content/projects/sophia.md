@@ -59,6 +59,15 @@ Throughout this project, I followed the Double Diamond design approach to struct
 <img src="/media/" alt="The Double Diamond Design Process"/>
 </figure>
 
+1. Competitive Analysis
+2. User Interviews
+3. User Personas, Flows, and Journey Maps
+4. Information Architecture
+5. Prototyping, User Testing, Refine
+6. Visual Design
+7. Refined Mockup and Prototype
+8. Reflections
+
 <br><br>
 
 <h3>Competitive Analysis</h3>
@@ -97,7 +106,7 @@ Insight Timer positions itself as a sustainable product that puts users first. B
 
 <br><br>
 
-
+<h3>User Interviews</h3>
 
 
 
