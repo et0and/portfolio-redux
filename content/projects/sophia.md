@@ -28,11 +28,6 @@ To keep on top of our forever changing and ever-busy lives, many young professio
 Through this CareerFoundry project, I set out to discover problems that these users were facing, what their needs were, and understand goals they had in improving their overall well being through the development of an accessible and responsive health portal. Sophia was designed as a tool and platform that would grow and change with the user, allowing users to record, learn and meditate all in one convenient location.
 
 <br><br>
-
-<figure>
-<img src="/media/previewsophia.png" alt="An example screen of the Sophia app running on iOS."/>
-</figure>
-
 <br><br>
 
 <h3>Exploring the problem</h3>
