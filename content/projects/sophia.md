@@ -55,10 +55,6 @@ Before anything, I needed to better understand users’ potential problems and f
 
 Throughout this project, I followed the Double Diamond design approach to structure the design process and create a solution that would be useful for users in the development of Sophia. 
 
-<figure>
-<img src="/media/" alt="The Double Diamond Design Process"/>
-</figure>
-
 1. Competitive Analysis
 2. User Interviews
 3. User Personas, Flows, and Journey Maps
