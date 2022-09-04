@@ -29,6 +29,12 @@ Through this CareerFoundry project, I set out to discover problems that these us
 
 <br><br>
 
+<figure>
+<img src="/media/previewsophia.png" alt="An example screen of the Sophia app running on iOS."/>
+</figure>
+
+<br><br>
+
 <h3>Exploring the problem</h3>
 
 Before anything, I needed to better understand users’ potential problems and frustrations. From this, I would be able to start thinking about a clearly defined Problem Statement that would define the design and scope of Sophia.
