@@ -5,7 +5,7 @@ dateStart: 2021-12-09
 dateEnd: 2022-02-08
 media:
   - type: image
-    filename: sophia.png
+    filename: sophia1.png
     size: md
     alt: A health and well being portal
 ---
@@ -162,7 +162,7 @@ As I move further along in the design process, these personas can help serve as 
 
 <br><br>
 
-<h3>User Journey</h3>
+<h3>User Journeys</h3>
 
 <figure>
 <img src="/media/flowwaiching.png" alt="Waiching user journey"/>
@@ -171,4 +171,8 @@ As I move further along in the design process, these personas can help serve as 
 <figure>
 <img src="/media/flowjill.png" alt="Jill user journey"/>
 </figure>
+
+<br><br>
+
+<h3>User Flows</h3>
 
