@@ -218,6 +218,8 @@ Daily Journal, Time Sheet and Modules categories had the most disagreement and s
 <figcaption>The results of this card sort helped to refine the sitemap and overall IA.</figcaption>
 </figure>
 
+<br><br>
+
 <figure>
 <img src="/media/IA.png" alt="Completed sitemap and IA."/>
 </figure>
@@ -228,5 +230,21 @@ Daily Journal, Time Sheet and Modules categories had the most disagreement and s
 
 With user flows defined, initial designs were created as low-fidelity paper wireframes. 
 
+<h4>Guided meditation mobile flow </h4>
 
+<figure>
+<img src="/media/low-fidelity.png" alt="Lo-fi meditation userflow."/>
+</figure>
+
+These paper wireframes then led to the creation of mid-fidelity prototypes in Figma.
+
+<figure>
+<img src="/media/mid-fidelity.png" alt="Mid-fi meditation userflow."/>
+</figure>
+
+At this stage, the decision was made to utilise a design system across the whole of Sophia in order to bring greater consistency across the portal. After some consideration, the Polaris Design System by Shopify was chosen as a foundation and adapted for Sophia.
+
+<figure>
+<img src="/media/high-fidelity.png" alt="Hi-fi meditation userflow."/>
+</figure>
 
