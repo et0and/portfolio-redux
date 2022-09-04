@@ -418,3 +418,15 @@ The result is Sophia's most recent design, which reflects the insights and findi
 <br><br><br><br>
 
 <h3>Reflections</h3>
+
+Over the past three to four months, the UI and structure of Sophia has changed dramatically. The look and feel of the app is vastly different from how it was when usabillity testing was last conducted, so it would be wise to organise another round of feedback and review. 
+
+As far as specific areas of improvement are concerned, a greater consideration of the business/monetisation around Sophia would be of great benefit. The current premium membership model feels tacked on and could be refined further. It is important to ensure that Sophia is commercially viable before it is released to the public.
+
+For user testing, it would be useful to test on the same target demographic to see if Sophia is fulfilling its mission statement, and identify any gaps that need addressing. As time is limited, this testing and round of improvements will need to be implemented once Achievement 6 is complete. An approximate timeline for this would be:
+- conduct further competitor analysis, research monetisation options (1 - 2 days)
+- finish designing all screens (2 - 3 days)
+- conduct usability testing and A/B tests (1 - 2 weeks)
+- implement user feedback and raised issues (3 - 4 days)
+- follow up usability testing (1 week)
+- buffer time for wrapping up any further issues or concerns (2 - 3 days)
