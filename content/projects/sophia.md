@@ -310,29 +310,39 @@ All responses were gathered and collated into a Rainbow Spreadsheet, which can b
 
 Based on the responses and feedback, six key issues were identified and ranked according to the Nielsen Scale.
 
+<br><br>
+
 - <b>Issue 1: Unable to delete past journal entries (High Severity)</b>
-Evidence: 2 participants noted a lack of delete option upon creating a journal entry<br>
+Evidence: 2 participants noted a lack of delete option upon creating a journal entry
+
 Suggested change: Design and implement a delete button
 
 - <b>Issue 2: Lack of colour and illustrations make the portal feel cold (Low Severity)</b>
-Evidence: 4 participants remarked on the lack of colour and illustrations in Sophia, making it feel “cold” and “clinical” particularly in the Mindfulness Center<br>
+Evidence: 4 participants remarked on the lack of colour and illustrations in Sophia, making it feel “cold” and “clinical” particularly in the Mindfulness Center
+
 Suggested change: Begin adding colour accents and illustrations throughout Sophia
 
 - <b>Issue 3: Lack of progress display and personalisation on Dashboard (Medium Severity)</b>
-Evidence: 2 participants commented on adding a section in the Dashboard to show different metrics and user progress on Sophia<br>
+Evidence: 2 participants commented on adding a section in the Dashboard to show different metrics and user progress on Sophia
+
 Suggested change: Design and implement a progress section at the top of the Dashboard
 
 - <b>Issue 4: Lack of recommendations for users (Low Severity)</b>
-Evidence: 2 participants suggested that having a recommended section would help personalise the Portal and support new users who weren’t sure what they were looking for<br>
+Evidence: 2 participants suggested that having a recommended section would help personalise the Portal and support new users who weren’t sure what they were looking for
+
 Suggested change: Design and implement a recommendations section for users, which could be algorithmically generated and personalised
 
 - <b>Issue 5: Users struggle to find music on Sophia (Medium Severity)</b>
-Evidence: One participant had great difficulty in finding music within the Mindfulness Center, having to look through screens multiple times<br>
+Evidence: One participant had great difficulty in finding music within the Mindfulness Center, having to look through screens multiple times
+
 Suggested change: Either clearly label music within the Mindfulness Center, or implement a standalone screen/area for this
 
 - <b>Issue 6: Lack of descriptions of what each screen was for (Medium Severity)</b>
-Evidence: 2 participants noted that it would be nice to include a text description at the top of different screens that explain the purpose of it, specifically The Library<br>
+Evidence: 2 participants noted that it would be nice to include a text description at the top of different screens that explain the purpose of it, specifically The Library
+
 Suggested change: Add description of The Library below main title, move to add this onto other screens as well for clarity
+
+<br><br>
 
 <figure>
 <img src="/media/fixed1.png" alt="A visual list of all fixes implemented."/>
