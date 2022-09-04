@@ -27,7 +27,7 @@ To keep on top of our forever changing and ever-busy lives, many young professio
 
 Through this CareerFoundry project, I set out to discover problems that these users were facing, what their needs were, and understand goals they had in improving their overall well being through the development of an accessible and responsive health portal. Sophia was designed as a tool and platform that would grow and change with the user, allowing users to record, learn and meditate all in one convenient location.
 
-<br><br>
+---
 <br><br>
 
 <h3>Exploring the problem</h3>
@@ -123,19 +123,23 @@ In these interviews, the key objective was to understand what was important for 
 Some key insights:
 
 <h4>Importance of free time and structured time</h4>
+
 - Different ways of spending time a key concern for all participants
 - Lack of time balance or being time poor negatively affects participant well being
 
 <h4>An online-first approach</h4>
+
 - Seek immediate answers online, often looking at the first few top Google results
 - Used as a segue into other methods such as asking Facebook groups, personal communities or healthcare professionals
 
 <h4>Quality user experience over everything</h4>
+
 - Dislike across all participants for poor end user experiences in general, especially UI
 - Different preferences depending on specific user needs, whether this be for sleep or nutrition
 - Prefer quality of material and experience over quantity
 
 <h4>Exercise for physical and mental benefits</h4>
+
 - Users appreciate exercise for bringing physical and mental balance
 - Holistic approach to exercise that extends to total health and well being
 
