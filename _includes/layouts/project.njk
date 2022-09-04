@@ -16,8 +16,9 @@ permalink: "/projects/{{ page.fileSlug }}/index.html"
     {% endif %}
   </header>
   <!-- {% if media %}
+    {% set blockClasses = 'md' %}
     {% for block in media %}
-      <div class="project-block figure.lg">
+      <div class="project-block">
         {% set caption = block.caption %}
         {% include 'snippets/media.njk' %} -->
       </div>
