@@ -188,4 +188,11 @@ After discovering the main features of Sophia, I created user flows to understan
 <figcaption>Listening to a guided meditation on Sophia</figcaption>
 </figure>
 
+<br><br>
+
+<h3>Information Architecture</h3>
+
+The overall information architecture and structure of Sophia was defined through a closed card sort, facilitated through Optimal Workshop. 
+
+The sort consisted of 19 cards in total for participants to group into 7 categories. A total of 5 people completed the exercise, with all participants based in New Zealand from my target audience.
 
