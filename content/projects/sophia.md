@@ -375,7 +375,7 @@ To set guidelines for future iterations of Sophia, a style guide/design language
 
 The guide establishes a set of design principles, patterns, and UI components that will be used to create consistent experiences across all platforms and future versions. 
 
-View the guide [here]("https://tom.so/media/Sophia-Design-Language-System.pdf")
+View the guide <a href="https://tom.so/media/Sophia-Design-Language-System.pdf" alt="PDF to the Sophia Design Language System" title="PDF to the Sophia Design Language System">here</a>
 
 <br><br><br><br>
 
