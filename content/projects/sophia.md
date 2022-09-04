@@ -192,7 +192,26 @@ After discovering the main features of Sophia, I created user flows to understan
 
 <h3>Information Architecture</h3>
 
-The overall information architecture and structure of Sophia was defined through a closed card sort, facilitated through Optimal Workshop. 
+The structure of Sophia was defined and improved through a closed card sort, facilitated through Optimal Workshop. 
 
 The sort consisted of 19 cards in total for participants to group into 7 categories. A total of 5 people completed the exercise, with all participants based in New Zealand from my target audience.
+
+Participants strongly agreed on the placement of Library cards, with only a few outliers for “Listen later.”
+
+SOS options were the most clear of all categories and universally agreed upon.
+
+Daily Journal, Time Sheet and Modules categories had the most disagreement and spread, with little consesus on what cards belong here.
+
+<figure>
+<img src="/media/cardsort.png" alt="Findings of a closed card sort to define IA."/>
+<figcaption>The results of this card sort helped to refine the sitemap and overall IA.</figcaption>
+</figure>
+
+<figure>
+<img src="/media/IA.png" alt="Completed sitemap and IA."/>
+</figure>
+
+
+
+
 
