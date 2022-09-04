@@ -21,6 +21,10 @@ Timeline of One Year</small>
 ---
 <br><br>
 
+<iframe src="https://player.vimeo.com/video/745976184?h=44e6f2acb1" width="640" height="415" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+<br><br>
+
 <h3>Project overview</h3>
 
 To keep on top of our forever changing and ever-busy lives, many young professionals now look to various health apps to track their well being. As well as looking at their physical health, mental and emotional wellness is becoming an increasing point of concern for many individuals who struggle to balance work with life.
@@ -330,6 +334,11 @@ Suggested change: Either clearly label music within the Mindfulness Center, or i
 Evidence: 2 participants noted that it would be nice to include a text description at the top of different screens that explain the purpose of it, specifically The Library<br>
 Suggested change: Add description of The Library below main title, move to add this onto other screens as well for clarity
 
+<figure>
+<img src="/media/fixed.png" alt="A visual list of all fixes implemented."/>
+</figure>
+
+<br><br><br><br>
 
 
 
