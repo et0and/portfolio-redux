@@ -5,7 +5,7 @@ dateStart: 2021-12-09
 dateEnd: 2022-02-08
 media:
   - type: image
-    filename: hero-twa.png
+    filename: twa-cover.png
     size: md
     alt: Some sample screens of the Te Wāhi Learn online hub
 ---
