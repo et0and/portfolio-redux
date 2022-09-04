@@ -152,6 +152,13 @@ With a greater understanding of users’ frustrations, goals, and needs, user pe
 As I move further along in the design process, these personas can help serve as touch points to refer back to, ensuring that development is kept to meet the needs of the users and only necessary features are included.
 
 <h4>Alan</h4>
+
+Alan is a full-time university student studying a Bachelor of Arts at the University of Auckland. 
+
+Him and his girlfriend both try to maintain a healthy balanced lifestyle through regular exercise and good nutrition, but have struggled with keeping a social life in balance with university. 
+
+Being a full-time student with little money, Alan rarely seeks paid healthcare services and will look up most answers online.
+
 <figure>
 <img src="/media/alan.png" alt="Alan user persona"/>
 </figure>
@@ -159,6 +166,13 @@ As I move further along in the design process, these personas can help serve as 
 <br><br>
 
 <h4>Waiching</h4>
+
+Waiching is a recent university graduate working as a full-time software developer for a local startup in Christchurch. 
+
+She is a highly driven individual who is always looking for ways of improving herself, both for her ability to work and personal well being as well. 
+
+With performance reviews coming up soon, Waiching wants to be in the best state of productivity and performance possible.
+
 <figure>
 <img src="/media/waiching.png" alt="Waiching user persona"/>
 </figure>
@@ -166,6 +180,11 @@ As I move further along in the design process, these personas can help serve as 
 <br><br>
 
 <h4>Jill</h4>
+
+Jill is a full-time CFO at an engineering firm. She has recently gotten engaged with her long-time boyfriend and wants to work on her overall well being before the wedding. 
+
+Long hours and demands of her job have meant that Jill’s mental health has struggled over the past few years, and with the help of her fiancée she wants to try get this back on track.
+
 <figure>
 <img src="/media/jill.png" alt="Jill user persona"/>
 </figure>
@@ -229,6 +248,8 @@ Daily Journal, Time Sheet and Modules categories had the most disagreement and s
 
 With user flows defined, initial designs were created as low-fidelity paper wireframes. 
 
+<br><br>
+
 <h4>Guided meditation mobile flow </h4>
 
 <figure>
@@ -237,11 +258,15 @@ With user flows defined, initial designs were created as low-fidelity paper wire
 
 These paper wireframes then led to the creation of mid-fidelity prototypes in Figma.
 
+<br><br>
+
 <figure>
 <img src="/media/mid-fidelity.png" alt="Mid-fi meditation userflow."/>
 </figure>
 
 At this stage, the decision was made to utilise a design system across the whole of Sophia in order to bring greater consistency across the portal. After some consideration, the Polaris Design System by Shopify was chosen as a foundation and adapted for Sophia.
+
+<br><br>
 
 <figure>
 <img src="/media/high-fidelity.png" alt="Hi-fi meditation userflow."/>
