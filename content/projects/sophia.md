@@ -144,7 +144,7 @@ Some key insights:
 
 <h3>User Personas</h3>
 
-With a greater understanding of users’ frustrations, goals, and needs, user personas could be created to help refine who Sophia is for. Three personas and user journeys were created based on the data collected. 
+With a greater understanding of users’ frustrations, goals, and needs, user personas could be created to help refine who Sophia is for. Three personas and corresponding user journeys and flows were created based on the data collected. 
 
 As I move further along in the design process, these personas can help serve as touch points to refer back to, ensuring that development is kept to meet the needs of the users and only necessary features are included.
 
@@ -158,5 +158,17 @@ As I move further along in the design process, these personas can help serve as 
 
 <figure>
 <img src="/media/jill.png" alt="Jill user persona"/>
+</figure>
+
+<br><br>
+
+<h3>User Journey</h3>
+
+<figure>
+<img src="/media/flowwaiching.png" alt="Waiching user journey"/>
+</figure>
+
+<figure>
+<img src="/media/flowjill.png" alt="Jill user journey"/>
 </figure>
 
