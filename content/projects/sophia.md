@@ -110,7 +110,39 @@ Insight Timer positions itself as a sustainable product that puts users first. B
 
 <h3>User Interviews</h3>
 
+<h4>Participants</h4>
 
+Albert (26) - full-time university student
+Sally (23) - part-time barista, full-time university student
+Rick (23) - full-time QA engineer and software developer
+
+<figure>
+<img src="/media/affinity.png" alt="A combined affinity map from user interview responses."/>
+<figcaption>A combined affinity map from user interview responses</figcaption>
+</figure>
+
+Some key insights:
+
+<h4>Importance of free time and structured time</h4>
+- Different ways of spending time a key concern for all participants
+- Lack of time balance or being time poor negatively affects participant well being
+
+<h4>An online-first approach</h4>
+- Seek immediate answers online, often looking at the first few top Google results
+- Used as a segue into other methods such as asking Facebook groups, personal communities or healthcare professionals
+
+<h4>Quality user experience over everything</h4>
+- Dislike across all participants for poor end user experiences in general, especially UI
+- Different preferences depending on specific user needs, whether this be for sleep or nutrition
+- Prefer quality of material and experience over quantity
+
+<h4>Exercise for physical and mental benefits</h4>
+- Users appreciate exercise for bringing physical and mental balance
+- Holistic approach to exercise that extends to total health and well being
+
+<br><br>
+
+<h3>User Personas</h3>
 
 
 
