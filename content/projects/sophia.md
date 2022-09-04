@@ -218,9 +218,9 @@ Daily Journal, Time Sheet and Modules categories had the most disagreement and s
 <figcaption>The results of this card sort helped to refine the sitemap and overall IA.</figcaption>
 </figure>
 
-<figure.md>
-<img src="/media/IA.png" alt="Completed sitemap and IA."/>
-</figure.md>
+<figure>
+<img class="project-block figure.lg" src="/media/IA.png" alt="Completed sitemap and IA."/>
+</figure>
 
 <br><br><br><br>
 
