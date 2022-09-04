@@ -383,4 +383,44 @@ The guide establishes a set of design principles, patterns, and UI components th
 
 View the guide [here]("https://tom.so/media/Sophia-Design-Language-System.pdf")
 
+<br><br><br><br>
 
+<h3>Refined Mockup and Prototype</h3>
+
+Once Sophia’s visual design system was completed, a round of peer reviews and iterations were undertaking for further improvements
+
+The result is Sophia's most recent design, which reflects the insights and findings gained through the Design Thinking Process.
+
+<figure>
+<img src="/media/animation1.gif" alt="Making a quick journal entry."/>
+<figcaption>Sophia allows for making a quick journal entry</figcaption>
+</figure>
+
+<figure>
+<img src="/media/animation2.gif" alt="Playing last meditation."/>
+<figcaption>You can play back your last meditation easily</figcaption>
+</figure>
+
+<figure>
+<img src="/media/animation3.gif" alt="Accessing the Library."/>
+<figcaption>There is a wealth of content available in The Library</figcaption>
+</figure>
+
+<figure>
+<img src="/media/animation4.gif" alt="Accessing the Mindfulness Center."/>
+<figcaption>The Mindfulness Center contains everything related to mental wellness</figcaption>
+</figure>
+
+<figure>
+<img src="/media/animation5.gif" alt="Accessing journal entries."/>
+<figcaption>Past journals are logged and support rich media content</figcaption>
+</figure>
+
+<figure>
+<img src="/media/animation6.gif" alt="Settings screen."/>
+<figcaption>Extend Sophia with different integrations, and gain access to premium content through a paid membership</figcaption>
+</figure>
+
+<br><br><br><br>
+
+<h3>Reflections</h3>
