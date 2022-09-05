@@ -54,7 +54,11 @@ Before anything, I needed to better understand users’ potential problems and f
 - Integrate journal function to be something that can be embedded or used like a widget, so that a small popup prompt is all it takes for a user to write something down. Could also allow users to record journals using voice-to-text to help with uptake.
 - Have different timeframes so that users can journal for as little as 5 minutes a day, and can choose to write more if they wish. To help them get started, journals could begin with some kind of prompt
 
-<br><br>
+<br><br><br><br>
+
+<figure>
+<img src="/media/doublediamond.png" alt="Double Diamond design process."/>
+</figure>
 
 <h3>Design Process - Double Diamond</h3>
 
