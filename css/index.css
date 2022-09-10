@@ -120,6 +120,13 @@ h3 {
 h4 {
   font-size: 1.1rem;
   font-weight: 500;
+  display: inline-block;
+	background: #000;
+	color: #fff;
+	padding: 14px 64px;
+	text-decoration: none;
+	border-radius: 50px;
+	line-height: 1.4;
 }
 h5,
 h6 {
