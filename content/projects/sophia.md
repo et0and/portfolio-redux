@@ -137,7 +137,7 @@ Insight Timer positions itself as a sustainable product that puts users first. B
 <br>
 
 <div class="insight">
-From these SWOT profiles, I was able to ascertain that competitors such as Headspace and Calm were most successful due to <b>their branding and polished end user experience</b>. However, the <b>subscription cost is comparatively high</b> compared to other rival products.
+From these SWOT profiles, we found that competitors such as Headspace and Calm were most successful due to <b>their branding and polished end user experience</b>. However, the <b>subscription cost is comparatively high</b> compared to other rival products.
 
 </div>
 
