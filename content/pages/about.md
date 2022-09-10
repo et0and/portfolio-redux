@@ -5,8 +5,12 @@ eleventyNavigation:
   order: 4
 ---
 
->_Ehara tāku toa i te toa takitahi, engari he toa takitini_
->My strength is not as an individual, but as a collective
+>_Nahau te rourou_
+>_Naku te rourou_
+>_Ka ora ai te manuhiri_
+>With your basket of knowledge
+>and my basket of knowledge
+>the people will prosper
 -- Māori proverb
 
 <br><br>
