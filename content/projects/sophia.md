@@ -246,7 +246,8 @@ Long hours and demands of her job have meant that Jill’s mental health has str
 
 <img src="/media/journeys.webp" class="big-img" alt="User journeys for Waiching and Jill as an example"/>
 
-<br>
+<br><br>
+
 <div class="insight">
 
 When creating user journeys, it was important to think about <b>the state of mind of our personas</b>. There might be times where our users are <b>tired, frustrated and stressed</b> from the outset due to their busy lifestyles, and are going to Sophia <b>to find some sense of calm</b>. This means that it is especially important that <b>pain points are reduced</b>, and that their journey to complete a task is as smooth as possible.
