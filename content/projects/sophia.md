@@ -32,7 +32,9 @@ To keep on top of our forever changing and ever-busy lives, many young professio
 Through this CareerFoundry project, I set out to discover problems that these users were facing, what their needs were, and understand goals they had in improving their overall well being through the development of an accessible and responsive health portal. Sophia was designed as a tool and platform that would grow and change with the user, allowing users to record, learn and meditate all in one convenient location.
 
 <br><br>
+
 ---
+
 <br><br>
 
 <h3>Exploring the problem</h3>
@@ -56,7 +58,9 @@ Before anything, I needed to better understand users’ potential problems and f
 - Have different timeframes so that users can journal for as little as 5 minutes a day, and can choose to write more if they wish. To help them get started, journals could begin with some kind of prompt
 
 <br><br>
+
 ---
+
 <br><br>
 
 <figure>
@@ -77,7 +81,9 @@ Throughout this project, I followed the Double Diamond design approach to struct
 8. Reflections
 
 <br><br>
+
 ---
+
 <br><br>
 
 <h3>Competitive Analysis</h3>
@@ -121,7 +127,9 @@ From these SWOT profiles, I was able to ascertain that competitors such as Heads
 </div>
 
 <br><br>
+
 ---
+
 <br><br>
 
 <h3>User Interviews</h3>
@@ -165,7 +173,9 @@ Some key insights:
 - Holistic approach to exercise that extends to total health and well being
 
 <br><br>
+
 ---
+
 <br><br>
 
 <h3>User Personas</h3>
@@ -213,7 +223,9 @@ Long hours and demands of her job have meant that Jill’s mental health has str
 </figure>
 
 <br><br>
+
 ---
+
 <br><br>
 
 <h3>User Journeys</h3>
@@ -227,7 +239,9 @@ Long hours and demands of her job have meant that Jill’s mental health has str
 </figure>
 
 <br><br>
+
 ---
+
 <br><br>
 
 <h3>User Flows</h3>
@@ -245,7 +259,9 @@ After discovering the main features of Sophia, I created user flows to understan
 </figure>
 
 <br><br>
+
 ---
+
 <br><br>
 
 <h3>Information Architecture</h3>
@@ -272,7 +288,9 @@ Daily Journal, Time Sheet and Modules categories had the most disagreement and s
 </figure>
 
 <br><br>
+
 ---
+
 <br><br>
 
 <h3>Prototyping</h3>
@@ -391,7 +409,9 @@ Suggested change: Add description of The Library below main title, move to add t
 </figure>
 
 <br><br>
+
 ---
+
 <br><br>
 
 <h3>Visual Design</h3>
@@ -407,7 +427,9 @@ The guide establishes a set of design principles, patterns, and UI components th
 View the guide <a href="https://tom.so/media/Sophia-Design-Language-System.pdf" alt="PDF to the Sophia Design Language System" title="PDF to the Sophia Design Language System">here</a>
 
 <br><br>
+
 ---
+
 <br><br>
 
 <h3>Refined Mockup and Prototype</h3>
@@ -450,7 +472,9 @@ The result is Sophia's most recent design, which reflects the insights and findi
 <a href="https://beta.sophia.tom.so" alt="Link to Figma prototype" title="Open most recent Figma project file">Link to Figma prototype</a>
 
 <br><br>
+
 ---
+
 <br><br>
 
 <h3>Reflections</h3>
