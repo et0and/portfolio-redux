@@ -57,6 +57,18 @@ Before anything, I needed to better understand users’ potential problems and f
 - Integrate journal function to be something that can be embedded or used like a widget, so that a small popup prompt is all it takes for a user to write something down. Could also allow users to record journals using voice-to-text to help with uptake.
 - Have different timeframes so that users can journal for as little as 5 minutes a day, and can choose to write more if they wish. To help them get started, journals could begin with some kind of prompt
 
+<br>
+
+<div class="insight">
+
+Young working professionals need a way to balance life/work commitments because of their increasingly busy lifestyles.
+
+We will know this to be true when we see at least a 15% reductions in the number of work-related burnout and sick leave, and a 20% increase in net productivity for those using Sophia within a workplace setting. 
+
+For individuals, we will know this to be true when we see at least a 20% increase in user-reported happiness after having used the app consistently for two weeks.
+
+</div>
+
 <br><br>
 
 ---
@@ -151,6 +163,8 @@ In these interviews, the key objective was to understand what was important for 
 <img src="/media/affinity.png" alt="A combined affinity map from user interview responses."/>
 <figcaption>A combined affinity map from user interview responses</figcaption>
 </figure>
+
+<br>
 
 <div class="insight">
 
@@ -281,6 +295,14 @@ Daily Journal, Time Sheet and Modules categories had the most disagreement and s
 <img src="/media/IA.png" alt="Completed sitemap and IA."/>
 </figure>
 
+<br>
+
+<div class="insight">
+
+From the card sort exercise, it was clear that users prefer universal and commonly used words for describing features and menus. 
+
+</div>
+
 <br><br>
 
 ---
@@ -307,7 +329,13 @@ These paper wireframes then led to the creation of mid-fidelity prototypes in Fi
 <img src="/media/mid-fidelity.png" alt="Mid-fi meditation userflow."/>
 </figure>
 
-At this stage, the decision was made to utilise a design system across the whole of Sophia in order to bring greater consistency across the portal. After some consideration, the Polaris Design System by Shopify was chosen as a foundation and adapted for Sophia.
+<div class="insight">
+
+At this stage, the decision was made to utilise a design system across the whole of Sophia in order to bring greater consistency across the portal. After some consideration, the [Polaris Design System by Shopify](https://polaris.shopify.com/) was chosen as a foundation and adapted for Sophia.
+
+From the original information architecture, the ability to switch views (Calendar View, Kanban View, and Roadmap View) was abandoned in order to keep the design simple and matching with Polaris. Using and adapting existing systems makes development faster, and saves having to reinvent the wheel for every new project.
+
+</div>
 
 <br><br>
 
