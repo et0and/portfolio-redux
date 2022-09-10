@@ -536,7 +536,6 @@ Contact form
 }
 
 .large {
-  max-width: var(--width-media-lg);
   margin-left: calc(var(--padding-container) * -1);
   margin-right: calc(var(--padding-container) * -1);
 }
