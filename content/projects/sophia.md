@@ -300,13 +300,9 @@ Daily Journal, Time Sheet and Modules categories had the most disagreement and s
 
 <br><br>
 
-<div class="project-block figure.lg">
-
-<figure>
+<figure class="figure.lg">
 <img src="/media/IA.png" alt="Completed sitemap and IA."/>
 </figure>
-
-</div>
 
 <br>
 
@@ -364,7 +360,7 @@ With a high-fidelity prototype up and running, it was time to test this new desi
 
 Prior to conducting the tests, a plan and script was written to ensure a consistent testing process between the different users. Participants were recruited through personal and professional contacts. 
 
-The testing was moderated, and took place over a week from April 30th to May 6, 2022. Two tests were taken remotely via Google Meet, with the remaining four done in-person at their place of residence. 
+The testing was moderated, taking place over a week from April 30th to May 6, 2022. Two tests were taken remotely via Google Meet, with the remaining four done in-person at their place of residence. 
 
 All responses were gathered and collated into a Rainbow Spreadsheet, which can be [accessed here](https://docs.google.com/spreadsheets/d/1r6xGwwruer38dYlM07nPWgCvmObh4qAN1gmIC6IHZbQ/edit#gid=0).
 
