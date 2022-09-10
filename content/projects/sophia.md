@@ -88,11 +88,13 @@ Throughout this project, I followed the Double Diamond design approach to struct
 
 <h3>Competitive Analysis</h3>
 
-<figure>
-<img src="/media/mindfulness.png" alt="A competitive analysis of different products on the market."/>
-</figure>
+In order to understand the current scope of the health and well being market, we analysed and created SWOT profiles on four competitor products.
 
 <figure>
+<img src="/media/swot.webp" alt="A competitive analysis of different products on the market."/>
+</figure>
+
+<!--figure>
 <img src="/media/headspace.png" alt="Headspace SWOT profile."/>
 <figcaption>Headspace SWOT profile</figcaption>
 </figure>
@@ -118,7 +120,9 @@ The core message of Mentemia is a tool for public good, one that helps users ach
 <figcaption>Insight Timer SWOT profile</figcaption>
 </figure>
 
-Insight Timer positions itself as a sustainable product that puts users first. By giving users access to a vast catalog of free content, their mission is to help spread meditation and mindfulness to as many people across the world as possible. 
+Insight Timer positions itself as a sustainable product that puts users first. By giving users access to a vast catalog of free content, their mission is to help spread meditation and mindfulness to as many people across the world as possible. -->
+
+<br>
 
 <div class="insight">
 From these SWOT profiles, I was able to ascertain that competitors such as Headspace and Calm were most successful due to their branding and polished end user experience. However, the subscription cost is comparatively high compared to other rival products.
@@ -172,7 +176,7 @@ Some key findings from these interviews include:
 
 With a greater understanding of users’ frustrations, goals, and needs, user personas could be created to help refine who Sophia is for. Three personas and corresponding user journeys and flows were created based on the data collected. 
 
-As I move further along in the design process, these personas can help serve as touch points to refer back to, ensuring that development is kept to meet the needs of the users and only necessary features are included.
+As we move further along in the design process, these personas can help serve as touch points to refer back to, ensuring that development is kept to meet the needs of the users and only necessary features are included.
 
 <h4>Alan</h4>
 
