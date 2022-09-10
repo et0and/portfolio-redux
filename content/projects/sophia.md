@@ -338,6 +338,8 @@ These paper wireframes then led to the creation of mid-fidelity prototypes in Fi
 <img src="/media/mid-fidelity.png" alt="Mid-fi meditation userflow."/>
 </figure>
 
+<br>
+
 <div class="insight">
 
 At this stage, the decision was made to utilise a design system across the whole of Sophia in order to bring <b>greater consistency</b> across the portal. After some consideration, the [Polaris Design System by Shopify](https://polaris.shopify.com/) was chosen as a foundation and adapted for Sophia.
