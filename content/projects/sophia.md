@@ -10,8 +10,6 @@ media:
     alt: A health and well being portal
 ---
 
-<h2>A new kind of health and well being portal </h2>
-
 <small>Roles: User Research, UX/UI Design, Development
 Tools: Figma, Optimal Workshop, Usability Hub, Miro
 Client: CareerFoundry UX Project

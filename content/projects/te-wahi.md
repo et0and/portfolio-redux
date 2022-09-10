@@ -10,8 +10,6 @@ media:
     alt: Some sample screens of the Te Wāhi Learn online hub
 ---
 
-<h2>Developing and deploying a centralised knowledge hub </h2>
-
 <small>Roles: User Research, UX/UI Design, Development
 Tools: Figma, Premiere Pro, Next JS
 Client: Takapuna Grammar School
