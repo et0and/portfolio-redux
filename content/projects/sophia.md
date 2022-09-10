@@ -300,9 +300,13 @@ Daily Journal, Time Sheet and Modules categories had the most disagreement and s
 
 <br><br>
 
+<div class="project-block figure.lg">
+
 <figure>
 <img src="/media/IA.png" alt="Completed sitemap and IA."/>
 </figure>
+
+</div>
 
 <br>
 
