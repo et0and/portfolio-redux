@@ -26,7 +26,7 @@ Takapuna Grammar School launched their maker space (nee Innovation Space) for st
 <br><br>
 
 <figure>
-<img src="/media/twa-entrance.jpg" alt="Entrance of the Te Wāhi maker space, showing a monochrome sign on a brick wall."/>
+<img src="/media/twa-entrance.webp" alt="Entrance of the Te Wāhi maker space, showing a monochrome sign on a brick wall."/>
 <figcaption>Entrance of the Te Wāhi maker space</figcaption>
 </figure>
 
@@ -59,15 +59,11 @@ Design, develop and deploy a centralised knowledge hub that exists both online i
 
 <br><br>
 
----
-
 <div class="insight">
 
 "Students and Staff would have <u>agency</u> over learning about how to use a certain tool or machine in the maker space, so they can be free in realising their <u>individual</u> projects with <u>confidence</u>"
 
 </div>
-
----
 
 <br><br>
 
@@ -115,7 +111,7 @@ Using a simple survey, responses were gathered from a pool of 100 different stud
 <h3>First design and feedback round</h3>
 
 <figure>
-<img src="/media/twa-site-01.png" alt="A screenshot of the very first Te Wāhi Auaha homepage, with a few links to some of the most common tools that we use in the maker space. It is a pretty plain and simple webpage."/>
+<img src="/media/twa-site-01.webp" alt="A screenshot of the very first Te Wāhi Auaha homepage, with a few links to some of the most common tools that we use in the maker space. It is a pretty plain and simple webpage."/>
 <figcaption>First ever webpage with a few short guides on the most common tools, made entirely in simple HTML and CSS</figcaption>
 </figure>
 
@@ -126,12 +122,12 @@ To start with, a very basic homepage was created to act as the central hub to al
 <br><br>
 
 <figure>
-<img src="/media/twa-posters-01.jpg" alt="A screenshot of some posters for display in the maker space. Each poster contains some images and a short description of the respective tool or machine, with a QR code that redirected students to a more detailed video tutorial."/>
+<img src="/media/twa-posters-01.webp" alt="A screenshot of some posters for display in the maker space. Each poster contains some images and a short description of the respective tool or machine, with a QR code that redirected students to a more detailed video tutorial."/>
 <figcaption>A selection of some posters</figcaption>
 </figure>
 
 <figure>
-<img src="/media/posters-in-space.jpg" alt="Some of the aforementioned posters hanging on the walls of the maker space."/>
+<img src="/media/posters-in-space.webp" alt="Some of the aforementioned posters hanging on the walls of the maker space."/>
 <figcaption>Posters hanging in the maker space</figcaption>
 </figure>
 
@@ -148,14 +144,14 @@ Response to the initial site design was mostly positive. Through further student
 To address this, the site was redesigned to include clear buttons on the homepage for the most common flows, which were the tool guides, project guides, a newly launched online exhibition space, and a form for submitting files for 3D printed or laser cutting/engraving. The tool and project guides were written up in greater detail and hosted on [Gitbook](https://gitbook.com), with full search capability and on-the-fly media compression to help students with limited or slow internet connections.
 
 <figure>
-<img src="/media/twa-site-02.png" alt="A screenshot of the second generation website, with coloured buttons on the homepage linked to some of the common tasks students undertook."/>
+<img src="/media/twa-site-02.webp" alt="A screenshot of the second generation website, with coloured buttons on the homepage linked to some of the common tasks students undertook."/>
 <figcaption>The redesigned website, with coloured buttons for navigation and an additional option for viewing online exhibitions and submitting files for printing, cutting or engraving</figcaption>
 </figure>
 
 <br><br>
 
 <figure>
-<img src="/media/twa-form-01.png" alt="A screenshot of an Airtable form to submit jobs for 3D printing, laser cutting or engraving."/>
+<img src="/media/twa-form-01.webp" alt="A screenshot of an Airtable form to submit jobs for 3D printing, laser cutting or engraving."/>
 <figcaption>Form for submitting jobs to be 3D printed, laser cut or engraved that was managed using Airtable</figcaption>
 </figure>
 
@@ -166,7 +162,7 @@ Google Forms was originally used for submitting jobs, but this was dropped in fa
 <br><br>
 
 <figure>
-<img src="/media/twa-guides-01.png" alt="A screenshot of the Te Wāhi Learn hub, hosted on Gitbook."/>
+<img src="/media/twa-guides-01.webp" alt="A screenshot of the Te Wāhi Learn hub, hosted on Gitbook."/>
 <figcaption>The first Te Wāhi Learn hub, hosted via Gitbook and with guides to all the tools and machines used in the space</figcaption>
 </figure>
 
@@ -183,14 +179,14 @@ Another issue with using Gitbook was that, being a third-party service, we were 
 <br><br>
 
 <figure>
-<img src="/media/twa-guides-02.png" alt="A screenshot of the Te Wāhi Learn hub, now running on Vercel."/>
+<img src="/media/twa-guides-02.webp" alt="A screenshot of the Te Wāhi Learn hub, now running on Vercel."/>
 <figcaption>The second iteration of the hub saw a migration from Gitbook to our own infrastructure, using a custom fork of Nextra with Next.js and deployment on Vercel</figcaption>
 </figure>
 
 <br><br>
 
 <figure>
-<img src="/media/twa-guides-02-dark.png" alt="A screenshot of the Te Wāhi Learn hub, now with dark mode!."/>
+<img src="/media/twa-guides-02-dark.webp" alt="A screenshot of the Te Wāhi Learn hub, now with dark mode!."/>
 <figcaption>Also with added dark mode to help with reading in dim environments</figcaption>
 </figure>
 
@@ -205,7 +201,7 @@ Our second hub, now running a custom fork of [Nextra](https://github.com/shuding
 <br><br>
 
 <figure>
-<img src="/media/twa-site-03.png" alt="A screenshot of the Te Wāhi homepage, now in its third iteration"/>
+<img src="/media/twa-site-03.webp" alt="A screenshot of the Te Wāhi homepage, now in its third iteration"/>
 <figcaption>The most recent Te Wāhi homepage redesign</figcaption>
 </figure>
 
