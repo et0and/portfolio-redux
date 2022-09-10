@@ -294,7 +294,7 @@ SOS options were the most clear of all categories and universally agreed upon.
 Daily Journal, Time Sheet and Modules categories had the most disagreement and spread, with little consesus on what cards belong here.
 
 <figure>
-<img src="/media/cardsort.png" alt="Findings of a closed card sort to define IA."/>
+<img src="/media/cardsort.webp" alt="Findings of a closed card sort to define IA."/>
 <figcaption>The results of this card sort helped to refine the sitemap and overall IA.</figcaption>
 </figure>
 
