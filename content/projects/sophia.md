@@ -1,5 +1,5 @@
 ---
-title: Sophia
+title: Sophia - a health and well being portal
 layout: project
 dateStart: 2021-12-09
 dateEnd: 2022-02-08
