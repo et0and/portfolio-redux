@@ -5,10 +5,8 @@ eleventyNavigation:
   order: 4
 ---
 
->_He aha te mea nui o te ao?_
->What is the most important thing in the world?
->_He tāngata, he tāngata, he tāngata_
->It is the people, it is the people, it is the people
+>_Ehara tāku toa i te toa takitahi, engari he toa takitini_
+>My strength is not as an individual, but as a collective
 -- Māori proverb
 
 <br><br>
