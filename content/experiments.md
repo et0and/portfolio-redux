@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 2
 ---
 
-<div class="searchlieu">
+<!--div class="searchlieu">
 
 <form method="GET" action="https://lieu.cblgh.org/">
     <input type="hidden" value="tom.so" name="site">
@@ -14,7 +14,7 @@ eleventyNavigation:
     <button class="searchButton" type="submit">🔍</button>
 </form>
 
-</div>
+</div-->
 
 <br>
 
