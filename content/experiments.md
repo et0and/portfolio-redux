@@ -6,11 +6,15 @@ eleventyNavigation:
   order: 2
 ---
 
+<div class="search">
+
 <form method="GET" action="https://lieu.cblgh.org/">
     <input type="hidden" value="tom.so" name="site">
-    <input id="site-search" name="q" placeholder="Powered by Lieu">
-    <button type="submit">🔍</button>
+    <input class="searchTerm" name="q" placeholder="Powered by Lieu">
+    <button class="searchButton" type="submit">🔍</button>
 </form>
+
+</div>
 
 <br>
 
