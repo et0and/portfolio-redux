@@ -29,7 +29,7 @@ Timeline of One Year</small>
 
 To keep on top of our forever changing and ever-busy lives, many young professionals now look to various health apps to track their well being. As well as looking at their physical health, mental and emotional wellness is becoming an increasing point of concern for many individuals who struggle to balance work with life.
 
-Through this CareerFoundry project, I set out to discover problems that these users were facing, what their needs were, and understand goals they had in improving their overall well being through the development of an accessible and responsive health portal. Sophia was designed as a tool and platform that would grow and change with the user, allowing users to record, learn and meditate all in one convenient location.
+Through this CareerFoundry project, we set out to discover problems that these users were facing, what their needs were, and understand goals they had in improving their overall well being through the development of an accessible and responsive health portal. Sophia was designed as a tool and platform that would grow and change with the user, allowing users to record, learn and meditate all in one convenient location.
 
 <br><br>
 
@@ -262,7 +262,7 @@ When creating user journeys, it was important to think about <b>the state of min
 
 <h3>User Flows</h3>
 
-After discovering the main features of Sophia, I created user flows to understand the steps my personas would follow to reach their goals.
+After discovering the main features of Sophia, user flows were created to understand the steps our personas would follow to reach their goals.
 
 <figure>
 <img src="/media/flow1.png" class="big-img" alt="User flow for accessing saved materials on Sophia."/>
