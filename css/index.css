@@ -115,18 +115,11 @@ h2 {
 }
 h3 {
   font-size: 1.25rem;
-  font-weight: 500;
-  display: inline-block;
-	background: #000;
-	color: #fff;
-	padding: 14px;
-	text-decoration: none;
-	border-radius: 20px;
-	line-height: 1.4;
+  font-weight: 700;
 }
 h4 {
   font-size: 1.1rem;
-  font-weight: 600;
+  font-weight: 500;
 }
 h5,
 h6 {
