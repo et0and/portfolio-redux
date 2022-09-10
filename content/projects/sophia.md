@@ -375,7 +375,7 @@ Scenario tasks that the participants were asked to complete were:
 
 <br>
 
-<div class="insights">
+<div class="insight">
 
 Participants <b>appreciated the effort taken to meet them in-person</b> at places that were most comfortable for them. In turn, <b>they were more willing to take their time and give indepth feedback during testing</b>. In future rounds of usability testing, we will continue to attempt to run all tests in the environment that is most comfortable and convenient for the participant. 
 
