@@ -529,12 +529,10 @@ Contact form
 }
 
 .insight {
-	background: rgb(128, 238, 255);
+	background: rgb(187, 246, 255);
 	color: rgb(0, 0, 0);
 	padding: 14px 14px;
-	text-decoration: none;
 	border-radius: 20px;
-	line-height: 100vh;
 }
 
 .search {
