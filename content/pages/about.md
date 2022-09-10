@@ -5,13 +5,19 @@ eleventyNavigation:
   order: 4
 ---
 
->_Nahau te rourou_
->_Naku te rourou_
->_Ka ora ai te manuhiri_
->With your basket of knowledge
->and my basket of knowledge
->the people will prosper
+<div class="insight">
+
+_Nahau te rourou_
+_Naku te rourou_
+_Ka ora ai te manuhiri_
+
+With your basket of knowledge
+and my basket of knowledge
+the people will prosper
+
 -- Māori proverb
+
+</div>
 
 <br><br>
 
