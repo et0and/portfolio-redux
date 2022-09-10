@@ -121,7 +121,8 @@ The core message of Mentemia is a tool for public good, one that helps users ach
 Insight Timer positions itself as a sustainable product that puts users first. By giving users access to a vast catalog of free content, their mission is to help spread meditation and mindfulness to as many people across the world as possible. 
 
 <div class="insight">
-From these SWOT profiles, I was able to ascertain that competitors such as Headspace and Calm were most successful when it came to the end user experience.
+From these SWOT profiles, I was able to ascertain that competitors such as Headspace and Calm were most successful due to their branding and polished end user experience. However, the subscription cost is comparatively high compared to other rival products.
+
 </div>
 
 <br><br>
@@ -147,28 +148,19 @@ In these interviews, the key objective was to understand what was important for 
 <figcaption>A combined affinity map from user interview responses</figcaption>
 </figure>
 
-Some key insights:
+<div class="insight">
 
-<h4>Importance of free time and structured time</h4>
+Some key findings from these interviews include:
 
-- Different ways of spending time a key concern for all participants
-- Lack of time balance or being time poor negatively affects participant well being
+- The importance of free time and structured time
 
-<h4>An online-first approach</h4>
+- Having an online-first approach 
 
-- Seek immediate answers online, often looking at the first few top Google results
-- Used as a segue into other methods such as asking Facebook groups, personal communities or healthcare professionals
+- Quality user experience over everything
 
-<h4>Quality user experience over everything</h4>
+- Looking at a holistic approach to exercise that encompasses overall health and well being
 
-- Dislike across all participants for poor end user experiences in general, especially UI
-- Different preferences depending on specific user needs, whether this be for sleep or nutrition
-- Prefer quality of material and experience over quantity
-
-<h4>Exercise for physical and mental benefits</h4>
-
-- Users appreciate exercise for bringing physical and mental balance
-- Holistic approach to exercise that extends to total health and well being
+</div>
 
 <br><br>
 
