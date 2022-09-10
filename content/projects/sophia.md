@@ -61,11 +61,11 @@ Before anything, I needed to better understand users’ potential problems and f
 
 <div class="insight">
 
-<b>Young working professionals</b> need a way to balance life/work commitments because of their <b>increasingly busy lifestyles</b>.
+"<b>Young working professionals</b> need a way to balance life/work commitments because of their <b>increasingly busy lifestyles</b>.
 
 We will know this to be true when we see at least <b>a 15% reduction in the number of work-related burnout and sick leave</b>, and <b>a 20% increase in net productivity</b> for those using Sophia within a workplace setting. 
 
-For individuals, we will know this to be true when we see at least <b>a 20% increase in user-reported happiness after having used the app consistently for two weeks</b>.
+For individuals, we will know this to be true when we see at least <b>a 20% increase in user-reported happiness after having used the app consistently for two weeks</b>."
 
 </div>
 

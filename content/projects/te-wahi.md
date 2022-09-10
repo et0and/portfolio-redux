@@ -40,6 +40,10 @@ Design, develop and deploy a centralised knowledge hub that exists both online i
 
 <br><br>
 
+---
+
+<br><br>
+
 <h3>Design Process - the 5 Ws Method </h3>
 
 *What is the product?* - A centralised knowledge hub
@@ -57,7 +61,11 @@ Design, develop and deploy a centralised knowledge hub that exists both online i
 
 ---
 
-> "Students and Staff would have <u>agency</u> over learning about how to use a certain tool or machine in the maker space, so they can be free in realising their <u>individual</u> projects with <u>confidence</u>."
+<div class="insight">
+
+"Students and Staff would have <u>agency</u> over learning about how to use a certain tool or machine in the maker space, so they can be free in realising their <u>individual</u> projects with <u>confidence</u>"
+
+</div>
 
 ---
 
@@ -71,6 +79,10 @@ Design, develop and deploy a centralised knowledge hub that exists both online i
 
 *Individual* - what is specific to the student/staff member, which may not fall into a particular curriculum area
 
+
+<br><br>
+
+---
 
 <br><br>
 
@@ -93,6 +105,10 @@ Using a simple survey, responses were gathered from a pool of 100 different stud
 - Nearly half of all students surveyed do not ready the daily notices and school newsletters (47%)
 - Close to a third of all students surveyed said that they struggle to find what they need for their classes on Google Classroom (28%)
 - A large majority of students surveyed expressed that it would be useful to have one set place to find digital materials for their respective classes, with a few noting that Google Classroom already did this to a certain extent but sometimes was hard to look through
+
+<br><br>
+
+---
 
 <br><br>
 
@@ -162,6 +178,10 @@ Another issue with using Gitbook was that, being a third-party service, we were 
 
 <br><br>
 
+---
+
+<br><br>
+
 <figure>
 <img src="/media/twa-guides-02.png" alt="A screenshot of the Te Wāhi Learn hub, now running on Vercel."/>
 <figcaption>The second iteration of the hub saw a migration from Gitbook to our own infrastructure, using a custom fork of Nextra with Next.js and deployment on Vercel</figcaption>
@@ -180,10 +200,18 @@ Our second hub, now running a custom fork of [Nextra](https://github.com/shuding
 
 <br><br>
 
+---
+
+<br><br>
+
 <figure>
 <img src="/media/twa-site-03.png" alt="A screenshot of the Te Wāhi homepage, now in its third iteration"/>
 <figcaption>The most recent Te Wāhi homepage redesign</figcaption>
 </figure>
+
+<br><br>
+
+---
 
 <br><br>
 
