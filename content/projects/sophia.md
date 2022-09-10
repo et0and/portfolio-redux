@@ -81,7 +81,11 @@ For individuals, we will know this to be true when we see at least <b>a 20% incr
 
 <h3>Design Process - Double Diamond</h3>
 
-Throughout this project, I followed the Double Diamond design approach to structure the design process and create a solution that would be useful for users in the development of Sophia. 
+Throughout this project, we followed the Double Diamond design approach to structure the design process and create a solution that would be useful for users in the development of Sophia. 
+
+<br>
+
+<div class="insight">
 
 1. Competitive Analysis
 2. User Interviews
@@ -91,6 +95,8 @@ Throughout this project, I followed the Double Diamond design approach to struct
 6. Visual Design
 7. Refined Mockup and Prototype
 8. Reflections
+
+</div>
 
 <br><br>
 
