@@ -34,6 +34,8 @@ Takapuna Grammar School launched their maker space (nee Innovation Space) for st
 
 <br><br>
 
+---
+
 <h3>The Solution </h3>
 
 Design, develop and deploy a centralised knowledge hub that exists both online in the form of a website and offline in the form of posters. The hub will contain different guides for using the tools and machines, as well as steps to follow for certain goals.
