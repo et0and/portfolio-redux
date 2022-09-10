@@ -7,13 +7,13 @@ eleventyNavigation:
 
 <div class="insight">
 
-_Nahau te rourou_
+"_Nahau te rourou_
 _Naku te rourou_
-_Ka ora ai te manuhiri_
+_Ka ora ai te manuhiri_"
 
-With your basket of knowledge
+"With your basket of knowledge
 and my basket of knowledge
-the people will prosper
+the people will prosper"
 
 -- Māori proverb
 
