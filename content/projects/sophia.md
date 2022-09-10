@@ -265,12 +265,12 @@ When creating user journeys, it was important to think about <b>the state of min
 After discovering the main features of Sophia, user flows were created to understand the steps our personas would follow to reach their goals.
 
 <figure>
-<img src="/media/flow1.png" class="big-img" alt="User flow for accessing saved materials on Sophia."/>
+<img src="/media/flow1.svg" class="big-img" alt="User flow for accessing saved materials on Sophia."/>
 <figcaption>Saving materials on Sophia</figcaption>
 </figure>
 
 <figure>
-<img src="/media/flow2.png" class="big-img" alt="User flow for listening to guided meditations on Sophia."/>
+<img src="/media/flow2.svg" class="big-img" alt="User flow for listening to guided meditations on Sophia."/>
 <figcaption>Listening to a guided meditation on Sophia</figcaption>
 </figure>
 
