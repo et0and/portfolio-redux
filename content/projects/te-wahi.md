@@ -10,7 +10,7 @@ media:
     alt: Some sample screens of the Te Wāhi Learn online hub
 ---
 
-<h3>Developing and deploying a centralised knowledge hub </h3>
+<h2>Developing and deploying a centralised knowledge hub </h2>
 
 <small>Roles: User Research, UX/UI Design, Development
 Tools: Figma, Premiere Pro, Next JS
