@@ -535,6 +535,13 @@ Contact form
 	border-radius: 20px;
 }
 
+.large {
+  max-width: var(--width-media-lg);
+  margin-left: calc(var(--padding-container) * -1);
+  margin-right: calc(var(--padding-container) * -1);
+}
+
+
 .search {
   display: inline-block;
 	background: #000;
