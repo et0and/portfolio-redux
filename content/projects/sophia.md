@@ -31,6 +31,7 @@ To keep on top of our forever changing and ever-busy lives, many young professio
 
 Through this CareerFoundry project, I set out to discover problems that these users were facing, what their needs were, and understand goals they had in improving their overall well being through the development of an accessible and responsive health portal. Sophia was designed as a tool and platform that would grow and change with the user, allowing users to record, learn and meditate all in one convenient location.
 
+<br><br>
 ---
 <br><br>
 
@@ -54,7 +55,9 @@ Before anything, I needed to better understand users’ potential problems and f
 - Integrate journal function to be something that can be embedded or used like a widget, so that a small popup prompt is all it takes for a user to write something down. Could also allow users to record journals using voice-to-text to help with uptake.
 - Have different timeframes so that users can journal for as little as 5 minutes a day, and can choose to write more if they wish. To help them get started, journals could begin with some kind of prompt
 
-<br><br><br><br>
+<br><br>
+---
+<br><br>
 
 <figure>
 <img src="/media/doublediamond.png" alt="Double Diamond design process."/>
@@ -73,7 +76,9 @@ Throughout this project, I followed the Double Diamond design approach to struct
 7. Refined Mockup and Prototype
 8. Reflections
 
-<br><br><br><br>
+<br><br>
+---
+<br><br>
 
 <h3>Competitive Analysis</h3>
 
@@ -109,11 +114,15 @@ The core message of Mentemia is a tool for public good, one that helps users ach
 
 Insight Timer positions itself as a sustainable product that puts users first. By giving users access to a vast catalog of free content, their mission is to help spread meditation and mindfulness to as many people across the world as possible. 
 
-<p class="insight">
-From these SWOT profiles, I was able to ascertain that
-</p>
+<div class="insight">
+<h4>Insights</h4>
 
-<br><br><br><br>
+From these SWOT profiles, I was able to ascertain that competitors such as Headspace and Calm were most successful when it came to the end user experience.
+</div>
+
+<br><br>
+---
+<br><br>
 
 <h3>User Interviews</h3>
 
@@ -155,6 +164,8 @@ Some key insights:
 - Users appreciate exercise for bringing physical and mental balance
 - Holistic approach to exercise that extends to total health and well being
 
+<br><br>
+---
 <br><br>
 
 <h3>User Personas</h3>
@@ -202,6 +213,8 @@ Long hours and demands of her job have meant that Jill’s mental health has str
 </figure>
 
 <br><br>
+---
+<br><br>
 
 <h3>User Journeys</h3>
 
@@ -213,6 +226,8 @@ Long hours and demands of her job have meant that Jill’s mental health has str
 <img src="/media/flowjill.png" alt="Jill user journey"/>
 </figure>
 
+<br><br>
+---
 <br><br>
 
 <h3>User Flows</h3>
@@ -229,7 +244,9 @@ After discovering the main features of Sophia, I created user flows to understan
 <figcaption>Listening to a guided meditation on Sophia</figcaption>
 </figure>
 
-<br><br><br><br>
+<br><br>
+---
+<br><br>
 
 <h3>Information Architecture</h3>
 
@@ -254,7 +271,9 @@ Daily Journal, Time Sheet and Modules categories had the most disagreement and s
 <img src="/media/IA.png" alt="Completed sitemap and IA."/>
 </figure>
 
-<br><br><br><br>
+<br><br>
+---
+<br><br>
 
 <h3>Prototyping</h3>
 
@@ -371,7 +390,9 @@ Suggested change: Add description of The Library below main title, move to add t
 <figcaption>Issue 6 - A short text description added to all core screens such as the Library and Mindfulness Center</figcaption>
 </figure>
 
-<br><br><br><br>
+<br><br>
+---
+<br><br>
 
 <h3>Visual Design</h3>
 
@@ -385,7 +406,9 @@ The guide establishes a set of design principles, patterns, and UI components th
 
 View the guide <a href="https://tom.so/media/Sophia-Design-Language-System.pdf" alt="PDF to the Sophia Design Language System" title="PDF to the Sophia Design Language System">here</a>
 
-<br><br><br><br>
+<br><br>
+---
+<br><br>
 
 <h3>Refined Mockup and Prototype</h3>
 
@@ -425,7 +448,10 @@ The result is Sophia's most recent design, which reflects the insights and findi
 
 <br><br>
 <a href="https://beta.sophia.tom.so" alt="Link to Figma prototype" title="Open most recent Figma project file">Link to Figma prototype</a>
-<br><br><br><br>
+
+<br><br>
+---
+<br><br>
 
 <h3>Reflections</h3>
 
