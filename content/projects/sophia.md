@@ -198,6 +198,8 @@ With a greater understanding of users’ frustrations, goals, and needs, user pe
 
 As we move further along in the design process, these personas can help serve as touch points to refer back to, ensuring that development is kept to meet the needs of the users and only necessary features are included.
 
+<br><br>
+
 <h4>Alan</h4>
 
 Alan is a full-time university student studying a Bachelor of Arts at the University of Auckland. 
