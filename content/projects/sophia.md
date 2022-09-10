@@ -351,9 +351,11 @@ With a high-fidelity prototype up and running, it was time to test this new desi
 
 Prior to conducting the tests, a plan and script was written to ensure a consistent testing process between the different users. Participants were recruited through personal and professional contacts. 
 
-The testing was moderated, and took place over a week from April 30th to May 6, 2022. Two tests were taken remotely via Google Meet, with the remaining four done in person at their place of residence. 
+The testing was moderated, and took place over a week from April 30th to May 6, 2022. Two tests were taken remotely via Google Meet, with the remaining four done in-person at their place of residence. 
 
-All participants were first asked the following open-ended questions:
+All responses were gathered and collated into a Rainbow Spreadsheet, which can be [accessed here](https://docs.google.com/spreadsheets/d/1r6xGwwruer38dYlM07nPWgCvmObh4qAN1gmIC6IHZbQ/edit#gid=0).
+
+<!-- All participants were first asked the following open-ended questions:
 
 - “Starting with these first screens that you can click through - what kind of app do you think this is at a glance? What do you think you can do with it, and what is its purpose?”
 - “Next, let’s take a look at this screen [Dashboard]. Before you click anything, what do you think this is? Is there anything that stands out to you, and what do you think you can do here?”
@@ -369,9 +371,15 @@ Scenario tasks that the participants were asked to complete were:
 
 - “Imagine you have been feeling a bit up and down with your mood over the last few days and you want to start writing a journal of how you are doing. Using the portal, please make a journal entry for today”
 - “Your friend swears by taking Vitamin D3 on a daily basis and you want to look into its potential benefits yourself. Using the portal, try to find some more information on Vitamin D3.”
-- “You want to chill out for a bit and just listen to some ambient noise. Using the portal, look for some ambient noise audio that you can relax to.”
+- “You want to chill out for a bit and just listen to some ambient noise. Using the portal, look for some ambient noise audio that you can relax to.” -->
 
-All responses were gathered and collated into a Rainbow Spreadsheet, which can be [accessed here](https://docs.google.com/spreadsheets/d/1r6xGwwruer38dYlM07nPWgCvmObh4qAN1gmIC6IHZbQ/edit#gid=0).
+<br>
+
+<div class="insights">
+
+Participants greatly appreciated the effort taken to meet them in-person at places that were most comfortable for them. In turn, they were more willing to take their time and give indepth feedback during testing. In future rounds of usability testing, we will continue to attempt to run all tests in the environment that is most comfortable and convenient for the participant. 
+
+</div>
 
 <br><br>
 
