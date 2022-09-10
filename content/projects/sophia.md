@@ -109,7 +109,7 @@ Throughout this project, we followed the Double Diamond design approach to struc
 In order to understand the current scope of the health and well being market, we analysed and created SWOT profiles on four competitor products.
 
 <figure>
-<img src="/media/swot.webp" alt="A competitive analysis of different products on the market."/>
+<img src="/media/swot.webp" class="big-img" alt="A competitive analysis of different products on the market."/>
 </figure>
 
 <!--figure>
@@ -244,9 +244,7 @@ Long hours and demands of her job have meant that Jill’s mental health has str
 
 <h3>User Journeys</h3>
 
-<figure>
-<img src="/media/journeys.webp" alt="User journeys for Waiching and Jill as an example"/>
-</figure>
+<img src="/media/journeys.webp" class="big-img" alt="User journeys for Waiching and Jill as an example"/>
 
 <br>
 <div class="insight">
@@ -266,12 +264,12 @@ When creating user journeys, it was important to think about <b>the state of min
 After discovering the main features of Sophia, I created user flows to understand the steps my personas would follow to reach their goals.
 
 <figure>
-<img src="/media/flow1.png" alt="User flow for accessing saved materials on Sophia."/>
+<img src="/media/flow1.png" class="big-img" alt="User flow for accessing saved materials on Sophia."/>
 <figcaption>Saving materials on Sophia</figcaption>
 </figure>
 
 <figure>
-<img src="/media/flow2.png" alt="User flow for listening to guided meditations on Sophia."/>
+<img src="/media/flow2.png" class="big-img" alt="User flow for listening to guided meditations on Sophia."/>
 <figcaption>Listening to a guided meditation on Sophia</figcaption>
 </figure>
 
@@ -302,7 +300,7 @@ Daily Journal, Time Sheet and Modules categories had the most disagreement and s
 
 <img src="/media/IA.png" class="big-img" alt="Completed sitemap and IA."/>
 
-<br>
+<br><br>
 
 <div class="insight">
 
