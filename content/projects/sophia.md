@@ -39,7 +39,7 @@ Through this CareerFoundry project, I set out to discover problems that these us
 
 <h3>Exploring the problem</h3>
 
-Before anything, I needed to better understand users’ potential problems and frustrations. From this, I would be able to start thinking about a clearly defined Problem Statement that would define the design and scope of Sophia.
+Before anything, we needed to better understand users’ potential problems and frustrations. From this, we would be able to start thinking about a clearly defined Problem Statement that would define the design and scope of Sophia.
 
 <h4>Possible Problems </h4>
 
