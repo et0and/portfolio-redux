@@ -61,11 +61,11 @@ Before anything, I needed to better understand users’ potential problems and f
 
 <div class="insight">
 
-Young working professionals need a way to balance life/work commitments because of their increasingly busy lifestyles.
+<b>Young working professionals</b> need a way to balance life/work commitments because of their <b>increasingly busy lifestyles</b>.
 
-We will know this to be true when we see at least a 15% reductions in the number of work-related burnout and sick leave, and a 20% increase in net productivity for those using Sophia within a workplace setting. 
+We will know this to be true when we see at least <b>a 15% reduction in the number of work-related burnout and sick leave</b>, and <b>a 20% increase in net productivity</b> for those using Sophia within a workplace setting. 
 
-For individuals, we will know this to be true when we see at least a 20% increase in user-reported happiness after having used the app consistently for two weeks.
+For individuals, we will know this to be true when we see at least <b>a 20% increase in user-reported happiness after having used the app consistently for two weeks</b>.
 
 </div>
 
@@ -137,7 +137,7 @@ Insight Timer positions itself as a sustainable product that puts users first. B
 <br>
 
 <div class="insight">
-From these SWOT profiles, I was able to ascertain that competitors such as Headspace and Calm were most successful due to their branding and polished end user experience. However, the subscription cost is comparatively high compared to other rival products.
+From these SWOT profiles, I was able to ascertain that competitors such as Headspace and Calm were most successful due to <b>their branding and polished end user experience</b>. However, the <b>subscription cost is comparatively high</b> compared to other rival products.
 
 </div>
 
@@ -168,15 +168,15 @@ In these interviews, the key objective was to understand what was important for 
 
 <div class="insight">
 
-Some key findings from these interviews include:
+Some key findings from these interviews were:
 
-- The importance of free time and structured time
+- The importance of <b>free time</b> and <b>structured time</b>
 
-- Having an online-first approach 
+- Having an <b>online-first approach</b>
 
-- Quality user experience over everything
+- <b>Quality user experience</b> over everything
 
-- Looking at a holistic approach to exercise that encompasses overall health and well being
+- Looking at <b>a holistic approach to health</b> that encompasses everything related to physical and mental well being
 
 </div>
 
@@ -299,7 +299,7 @@ Daily Journal, Time Sheet and Modules categories had the most disagreement and s
 
 <div class="insight">
 
-From the card sort exercise, it was clear that users prefer universal and commonly used words for describing features and menus. 
+From the card sort exercise, it was clear that <b>users prefer universal and commonly used words</b> for describing features and menus. 
 
 </div>
 
@@ -331,9 +331,9 @@ These paper wireframes then led to the creation of mid-fidelity prototypes in Fi
 
 <div class="insight">
 
-At this stage, the decision was made to utilise a design system across the whole of Sophia in order to bring greater consistency across the portal. After some consideration, the [Polaris Design System by Shopify](https://polaris.shopify.com/) was chosen as a foundation and adapted for Sophia.
+At this stage, the decision was made to utilise a design system across the whole of Sophia in order to bring <b>greater consistency</b> across the portal. After some consideration, the [Polaris Design System by Shopify](https://polaris.shopify.com/) was chosen as a foundation and adapted for Sophia.
 
-From the original information architecture, the ability to switch views (Calendar View, Kanban View, and Roadmap View) was abandoned in order to keep the design simple and matching with Polaris. Using and adapting existing systems makes development faster, and saves having to reinvent the wheel for every new project.
+From the original information architecture, the ability to switch views (Calendar View, Kanban View, and Roadmap View) was abandoned in order to keep the design simple and matching with Polaris. <b>Using and adapting existing systems makes development faster</b>, and saves having to reinvent the wheel for every new project.
 
 </div>
 
@@ -377,7 +377,7 @@ Scenario tasks that the participants were asked to complete were:
 
 <div class="insights">
 
-Participants greatly appreciated the effort taken to meet them in-person at places that were most comfortable for them. In turn, they were more willing to take their time and give indepth feedback during testing. In future rounds of usability testing, we will continue to attempt to run all tests in the environment that is most comfortable and convenient for the participant. 
+Participants <b>appreciated the effort taken to meet them in-person</b> at places that were most comfortable for them. In turn, <b>they were more willing to take their time and give indepth feedback during testing</b>. In future rounds of usability testing, we will continue to attempt to run all tests in the environment that is most comfortable and convenient for the participant. 
 
 </div>
 
