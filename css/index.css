@@ -528,6 +528,16 @@ Contact form
 	line-height: 1.4;
 }
 
+.insight {
+  display: inline-block;
+	background: rgb(128, 238, 255);
+	color: rgb(0, 0, 0);
+	padding: 14px 14px;
+	text-decoration: none;
+	border-radius: 20px;
+	line-height: 100vh;
+}
+
 .search {
   display: inline-block;
 	background: #000;

@@ -109,6 +109,10 @@ The core message of Mentemia is a tool for public good, one that helps users ach
 
 Insight Timer positions itself as a sustainable product that puts users first. By giving users access to a vast catalog of free content, their mission is to help spread meditation and mindfulness to as many people across the world as possible. 
 
+<p class="insight">
+From these SWOT profiles, I was able to ascertain that
+</p>
+
 <br><br><br><br>
 
 <h3>User Interviews</h3>
