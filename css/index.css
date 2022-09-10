@@ -178,6 +178,11 @@ img {
   vertical-align: middle;
 }
 
+img.big-img {
+  display: block;
+  width: 100%;
+}
+
 video {
   display: inline-block;
   height: auto;

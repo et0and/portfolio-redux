@@ -300,11 +300,7 @@ Daily Journal, Time Sheet and Modules categories had the most disagreement and s
 
 <br><br>
 
-<div class="large">
-
-<img src="/media/IA.png" alt="Completed sitemap and IA."/>
-
-</div>
+<img src="/media/IA.png" class="big-img" alt="Completed sitemap and IA."/>
 
 <br>
 
