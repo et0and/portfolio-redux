@@ -5,7 +5,7 @@ dateStart: 2021-12-09
 dateEnd: 2022-02-08
 media:
   - type: image
-    filename: twacover1.png
+    filename: twacover.webp
     size: md
     alt: Some sample screens of the Te Wāhi Learn online hub
 ---

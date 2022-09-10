@@ -5,7 +5,7 @@ dateStart: 2021-12-09
 dateEnd: 2022-02-08
 media:
   - type: image
-    filename: sophia1.png
+    filename: sophia.webp
     size: md
     alt: A health and well being portal
 ---
