@@ -320,7 +320,6 @@ Homepage
 .home-block img:not([width]),
 .home-block video:not([width]) {
   width: 100%;
-  border-radius: 2%;
 }
 
 .home-block-title {
