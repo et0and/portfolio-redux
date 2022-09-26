@@ -25,7 +25,7 @@ Timeline of One Year</small>
 
 For this project brief, the goal was to create a portal for busy working professionals who could easily make daily journal entries to track their mood, look up verified information on their health, and access mindfulness materials to improve their overall well being.
 
-The portal was developed through a series of steps including:
+The portal was developed through a series of:
 - competitive analysis of existing products
 - user interviews which helped to define personas, user journeys, flows and information architecture
 - a round of prototyping and usability testing

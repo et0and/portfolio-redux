@@ -19,6 +19,23 @@ Timeline of Two Years</small>
 ---
 <br><br>
 
+<h3>Summary</h3>
+
+<div class="overview">
+
+For this project, the goal was to create a centralised knowledge hub to help train teachers and students at Takapuna Grammar School on how to use specialised machines and software in the Te Wāhi maker space.
+
+The hub was developed through a series of:
+- surveys to students and staff
+- initials sites that developed with continued student and staff feedback
+- development rounds, including the creation of a CDN to allow for the secure delivery of software binaries to students and staff
+
+While the hub continues to grow with more guides and tutorials added, further iterations will be necessary as we strive to onboard the next set of students looking to enhance their learning and making.
+
+</div>
+
+<br><br>
+
 <h3>Background + The Problem </h3>
 
 Takapuna Grammar School launched their maker space (nee Innovation Space) for students and staff in 2020. With a wide range of different tools and machinery, there is a high learning curve for anyone new to the space with students ranging from years 9 - 13 (12 - 18 year olds) and teachers. Without some form of training, accessibility of this space is limited.
