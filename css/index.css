@@ -553,6 +553,13 @@ Contact form
 	border-radius: 20px;
 }
 
+.overview {
+	background: rgb(255, 187, 187);
+	color: rgb(0, 0, 0);
+	padding: 14px 14px 14px 14px;
+	border-radius: 20px;
+}
+
 .large {
   width: 100%;
   margin-left: calc(var(--padding-container) * -1);

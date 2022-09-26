@@ -19,6 +19,26 @@ Timeline of One Year</small>
 ---
 <br><br>
 
+<h3>Summary</h3>
+
+<div class="overview">
+
+For this project brief, the goal was to create a portal for busy working professionals who could easily make daily journal entries to track their mood, look up verified information on their health, and access mindfulness materials to improve their overall well being.
+
+The portal was developed through a series of steps including:
+- competitive analysis of existing products
+- user interviews which helped to define personas, user journeys, flows and information architecture
+- a round of prototyping and usability testing
+- the development of an early visual design system and mockup
+
+While this project allowed for the creation of an early MVP, in a real life setting it would require far more rounds of usabilty testing and iteration of the design to ensure all business requirements were met and that the product meets all user needs.
+
+</div>
+
+<br><br>
+
+---
+
 <!--iframe src="https://player.vimeo.com/video/745976184?h=44e6f2acb1" width="640" height="415" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe-->
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:64.904%;"><iframe src="https://streamable.com/e/tfwes5" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
