@@ -555,7 +555,7 @@ For user testing, it would be useful to test on the same target demographic to s
 
 <h3>Next steps</h3>
 
-In a real life setting things many things could potentially go wrong with a design project such as this. Here are some examples of what might happen and how I would approach those situations.
+In a real life setting things many things could potentially go wrong with a design project such as this. Here are some examples of what might happen and how I would approach those situations:
 
 <div class="insight">
 
@@ -567,6 +567,8 @@ I would avoid this by ensuring that the entire design process (whether this is D
 
 </div>
 
+<br><br>
+
 <div class="insight">
 
 2. A lack of stakeholder engagement
@@ -576,6 +578,8 @@ During the requirements gathering phase, if there is not a clear comms and engag
 I would avoid this by ensuring that all stakeholders are present during the initial planning phase, but also kept in constant contact so that they are up to date with how the project is progressing and checking all deliverables are on point.
 
 </div>
+
+<br><br>
 
 <div class="insight">
 
