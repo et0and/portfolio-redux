@@ -551,3 +551,38 @@ For user testing, it would be useful to test on the same target demographic to s
 - follow up usability testing (1 week)
 - buffer time for wrapping up any further issues or concerns (2 - 3 days)
 
+<br><br>
+
+<h3>Next steps</h3>
+
+In a real life setting things many things could potentially go wrong with a design project such as this. Here are some examples of what might happen and how I would approach those situations.
+
+<div class="insight">
+
+1. Insufficient methodology or process
+
+In an effort to meet short timeframes or keep the client and/or senior stakeholder happy, certain design process steps might be skipped in order to save time, or unneccessary steps being included. This can result in a rushed, unfinished product being delivered that misses the original brief. 
+
+I would avoid this by ensuring that the entire design process (whether this is Double Diamond or standard UCD) is accurately timetabled across every stage, and that the core focus does not deviate from the original brief or problem statement.
+
+</div>
+
+<div class="insight">
+
+2. A lack of stakeholder engagement
+
+During the requirements gathering phase, if there is not a clear comms and engagement strategy to have all stakeholders on the same page, there is a danger of a stakeholder manifesting mid-project and bringing up something new that throws off all prior work.
+
+I would avoid this by ensuring that all stakeholders are present during the initial planning phase, but also kept in constant contact so that they are up to date with how the project is progressing and checking all deliverables are on point.
+
+</div>
+
+<div class="insight">
+
+3. Skipping the research
+
+In an effort to cut costs and time, user research can often be axed in favour of moving directly into designing and developing. Because research helps to de-risk design solutions, the danger of removing this is that there is no clear way of knowing users want this product, if they will use it, and if they will be able to use it.
+
+I would avoid this by arguing the importance of this as evidence to justify the project/product, and make user research and testing central to the design process. 
+
+</div>
