@@ -37,8 +37,6 @@ This project allowed for the creation of an early MVP, but in a real life settin
 
 <br><br>
 
----
-
 <!--iframe src="https://player.vimeo.com/video/745976184?h=44e6f2acb1" width="640" height="415" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe-->
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:64.904%;"><iframe src="https://streamable.com/e/tfwes5" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
