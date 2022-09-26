@@ -23,7 +23,7 @@ Timeline of One Year</small>
 
 <div class="overview">
 
-For this project brief, the goal was to create a portal for busy working professionals who could easily make daily journal entries to track their mood, look up verified information on their health, and access mindfulness materials to improve their overall well being.
+The goal of this project is to create a portal for busy working professionals to easily make daily journal entries, track their mood, look up verified information on their health, and access mindfulness materials.
 
 The portal was developed through a series of:
 - competitive analysis of existing products
@@ -31,7 +31,7 @@ The portal was developed through a series of:
 - a round of prototyping and usability testing
 - the development of an early visual design system and mockup
 
-While this project allowed for the creation of an early MVP, in a real life setting it would require far more rounds of usabilty testing and iteration of the design to ensure all business requirements were met and that the product meets all user needs.
+This project allowed for the creation of an early MVP, but in a real life setting it would require more rounds of usability testing and iteration of the design to ensure all business requirements were met and that the product meets all user needs.
 
 </div>
 

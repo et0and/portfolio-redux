@@ -23,14 +23,14 @@ Timeline of Two Years</small>
 
 <div class="overview">
 
-For this project, the goal was to create a centralised knowledge hub to help train teachers and students at Takapuna Grammar School on how to use specialised machines and software in the Te Wāhi maker space.
+The goal of this project was to create a centralised knowledge hub to help train teachers and students at Takapuna Grammar School on how to use specialised machines and software in the Te Wāhi maker space.
 
 The hub was developed through a series of:
 - surveys to students and staff
 - initials sites that developed with continued student and staff feedback
 - development rounds, including the creation of a CDN to allow for the secure delivery of software binaries to students and staff
 
-While the hub continues to grow with more guides and tutorials added, further iterations will be necessary as we strive to onboard the next set of students looking to enhance their learning and making.
+While the hub continues to grow, further iterations will be necessary to onboard the next set of students looking to enhance their learning and making.
 
 </div>
 
