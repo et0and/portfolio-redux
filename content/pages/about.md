@@ -31,7 +31,11 @@ Previously I studied at the [Elam School of Fine Arts](https://elamartists.ac.nz
 
 Find me on [are.na](https://are.na/tom-y "Are.na"), [LinkedIn](https://linkedin.com/in/tom-hackshaw "LinkedIn"), [Twitter](https://twitter.com/tomhackshaw "Twitter"), [Merveilles](https://merveilles.town/@tomupom "Merveilles, a Mastodon instance")
 
+<br><br>
+
 [View Resume](https://tom.so/media/resume.pdf)
+
+<br><br>
 
 ---
 
