@@ -33,6 +33,14 @@ Find me on [are.na](https://are.na/tom-y "Are.na"), [LinkedIn](https://linkedin.
 
 [View Resume](https://tom.so/media/resume.pdf)
 
+---
+
+I would like to acknowledge Māori as tangata whenua and Treaty of Waitangi partners in Aotearoa New Zealand. I pay my respects to the mana whenua who are the original and continued rightful stewards of the land that I love and on which I work and reside.
+
+Tom Hackshaw
+
+---
+
 <br><br>
 
 **Education** 
@@ -53,3 +61,4 @@ First Class Honours, The University of Auckland 2017
 <small>This website has been designed to minimise the energy consumption and CO2 emissions that result from navigating the Internet. [To learn more about this click here](https://www.websitecarbon.com/website/tom-so/ "Website Carbon Calculator for tom.so"). Technical information about this site can be found [on this dedicated page](/siteinfo "some information on how this site has been built").</small>
 
 </div>
+
