@@ -48,7 +48,7 @@ Tom Hackshaw
 <br><br>
 
 **Education** 
-UX Immersion, CareerFoundry Berlin, 2021-2022
+UX Design Program, CareerFoundry GmbH, 2021-2022
 Foundations of UX Design, Google + Coursera, 2021
 Grad Dip Teaching Secondary, The University of Auckland, 2019
 BFA Hons, The University of Auckland, 2014-2017 
