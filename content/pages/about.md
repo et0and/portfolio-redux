@@ -62,7 +62,7 @@ First Class Honours, The University of Auckland 2017
 
 <div class="insightgreen">
 
-<small>This website has been designed to minimise the energy consumption and CO2 emissions that result from navigating the Internet. [To learn more about this click here](https://www.websitecarbon.com/website/tom-so/ "Website Carbon Calculator for tom.so"). Technical information about this site can be found [on this dedicated page](/siteinfo "some information on how this site has been built").</small>
+<small>🌳 This website has been designed to minimise the energy consumption and CO2 emissions that result from navigating the Internet. [To learn more about this click here](https://www.websitecarbon.com/website/tom-so/ "Website Carbon Calculator for tom.so"). Technical information about this site can be found [on this dedicated page](/siteinfo "some information on how this site has been built").</small>
 
 </div>
 
