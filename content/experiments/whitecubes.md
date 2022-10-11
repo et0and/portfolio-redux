@@ -10,4 +10,4 @@ media:
     caption: Screenshot of Whitecubes
 ---
 
-[Whitecub.es](https://whitecub.es) is an online  map of all art spaces (private and public) in Aotearoa New Zealand.
+[Whitecubes](https://whiecubes.vercel.app) was an online map of all art spaces (private and public) in Aotearoa New Zealand. No longer maintained.

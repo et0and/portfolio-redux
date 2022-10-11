@@ -45,7 +45,7 @@ Small creative experiments that I have worked on outside of my design work
 [This Building Does Not Exist](/projects/this-building-does-not-exist)
 ↳ An experiment generating buildings with StyleGAN
 
-[Whitecub.es](/projects/whitecubes)
+[Whitecubes](/projects/whitecubes)
 ↳ An interactive art map
 
 ---
