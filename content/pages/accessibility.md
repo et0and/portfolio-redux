@@ -11,7 +11,9 @@ If you have difficulty using or accessing any element of this website, please fe
 
 I am currently taking a variety of steps and devoting resources to further enhance the accessibility of my website. Using tools such as WAVE and Lighthouse I am working towards greater accessibility of this website, and hope to work with an independent experienced accessibility consultant sometime in the future to conduct a deeper audit.
 
-In the meantime, how has your experience been so far? Type below to let me know, and include your email if you'd like a reply.
+In the meantime, how has your experience been so far? Type below to let me know, and include your email if you'd like a reply ✍️
+
+<br><br>
 
 <form class="contactform" action="https://formsubmit.io/send/7078d347-1e36-4e2f-9e0d-ab9e17eed096" method="POST">
     <input name="_redirect" type="hidden" value="https://tom.so/message/">
