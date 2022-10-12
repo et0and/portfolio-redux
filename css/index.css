@@ -513,6 +513,7 @@ Contact form
   outline: none;
   border: dashed #000000;
   border-radius: 20px;
+  padding: 1.5rem;
   width: 100%;
   margin-bottom: 1.5rem;
 }
