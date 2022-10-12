@@ -17,7 +17,7 @@ In the meantime, how has your experience been so far? Type below to let me know,
 
 <form class="contactform" action="https://formsubmit.io/send/7078d347-1e36-4e2f-9e0d-ab9e17eed096" method="POST">
     <input name="_redirect" type="hidden" value="https://tom.so/message/">
-    <textarea name="comment" id="comment" class="input-clean"></textarea>
+    <textarea name="comment" id="comment" class="input-clean">Write your message here</textarea>
     <input name="_formsubmit_id" type="text" style="display:none">
         <div class="contactsend">
         <input type="submit" value="Send" class="send button">
