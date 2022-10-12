@@ -511,7 +511,8 @@ Contact form
   background: inherit;
   color: inherit;
   outline: none;
-  border: none;
+  border: dashed #000000;
+  border-radius: 20px;
   width: 100%;
   margin-bottom: 1.5rem;
 }
