@@ -553,6 +553,10 @@ For user testing, it would be useful to test on the same target demographic to s
 
 <br><br>
 
+---
+
+<br><br>
+
 <h3>Next steps</h3>
 
 In a real life setting things many things could potentially go wrong with a design project such as this. Here are some examples of what might happen and how I would approach those situations:
