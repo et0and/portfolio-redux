@@ -23,15 +23,15 @@ Timeline of One Year</small>
 
 <div class="overview">
 
-The goal of this project is to create a portal for busy working professionals to easily make daily journal entries, track their mood, look up verified information on their health, and access mindfulness materials.
+The goal of this project was to create a well being portal for busy working professionals. A centralised hub for accessing verified health resources, practising mindfulness, and tracking mood through daily journal entries, the purpose of Sophia is to encourage a more holistic approach to health. 
 
 The portal was developed through a series of:
-- competitive analysis of existing products
+- competitive analysis of existing products in this space
 - user interviews which helped to define personas, user journeys, flows and information architecture
 - a round of prototyping and usability testing
-- the development of an early visual design system and mockup
+- development of an early visual design system and mockup
 
-This project allowed for the creation of an early MVP, but in a real life setting it would require more rounds of usability testing and iteration of the design to ensure all business requirements were met and that the product meets all user needs.
+This project allowed for the creation of an early mockup, but in a real life setting it would require more rounds of usability testing and iteration of the design to ensure all business requirements were met and that the product meets all user needs.
 
 </div>
 
@@ -47,7 +47,7 @@ This project allowed for the creation of an early MVP, but in a real life settin
 
 To keep on top of our forever changing and ever-busy lives, many young professionals now look to various health apps to track their well being. As well as looking at their physical health, mental and emotional wellness is becoming an increasing point of concern for many individuals who struggle to balance work with life.
 
-Through this CareerFoundry project, we set out to discover problems that these users were facing, what their needs were, and understand goals they had in improving their overall well being through the development of an accessible and responsive health portal. Sophia was designed as a tool and platform that would grow and change with the user, allowing users to record, learn and meditate all in one convenient location.
+Through this CareerFoundry project, we set out to discover problems that these users were facing, what their needs were, and understand goals they had in improving their overall well being through the development of an accessible and responsive health portal. Sophia was designed as a tool and platform that would grow and change with the user, allowing users to journal, learn and meditate all in one convenient location.
 
 <br><br>
 
@@ -559,15 +559,15 @@ For user testing, it would be useful to test on the same target demographic to s
 
 <h3>Next steps</h3>
 
-In a real life setting things many things could potentially go wrong with a design project such as this. Here are some examples of what might happen and how I would approach those situations:
+In a real life setting many things could potentially go wrong with a project such as this. Here are some examples of what might happen and how I would approach those situations:
 
 <div class="insight">
 
-1. Insufficient methodology or process
+1. Inappropriate content included 
 
-In an effort to meet short timeframes or keep the client and/or senior stakeholder happy, certain design process steps might be skipped in order to save time, or unneccessary steps being included. This can result in a rushed, unfinished product being delivered that misses the original brief. 
+In an effort to meet short timeframes, inappropriate and/or low quality content could be included as part of the app's library. This would lead to a degraded end user experience, where the result would be no different from searching online for resources and potentially receiving unverified, subpar material. 
 
-I would avoid this by ensuring that the entire design process (whether this is Double Diamond or standard UCD) is accurately timetabled across every stage, and that the core focus does not deviate from the original brief or problem statement.
+I would avoid this by ensuring that the inclusion of content onto the platform is always vetted by reputable industry experts, prioritising quality over quantity.
 
 </div>
 
@@ -591,6 +591,6 @@ I would avoid this by ensuring that all stakeholders are present during the init
 
 In an effort to cut costs and time, user research can often be axed in favour of moving directly into designing and developing. Because research helps to de-risk design solutions, the danger of removing this is that there is no clear way of knowing users want this product, if they will use it, and if they will be able to use it.
 
-I would avoid this by arguing the importance of this as evidence to justify the project/product, and make user research and testing central to the design process. 
+In the case of Sophia, I would avoid this by arguing the importance of this as evidence to both justify as well as measure the effectiveness of the product, particularly in the case of the journalling feature, and make user research and testing central to the design process. 
 
 </div>
