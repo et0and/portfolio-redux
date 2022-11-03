@@ -65,8 +65,6 @@ We will know this to be successful when students report using Hapori more compar
 
 </div>
 
----
-
 <br><br>
 
 <h3>User Personas</h3>
