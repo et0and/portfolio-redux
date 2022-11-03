@@ -67,6 +67,10 @@ We will know this to be successful when students report using Hapori more compar
 
 <br><br>
 
+---
+
+<br><br>
+
 <h3>User Personas</h3>
 
 A proto-persona was created to better understand the students and place them at the center of the design process. 
