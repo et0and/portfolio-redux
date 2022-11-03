@@ -119,20 +119,36 @@ With user flows defined, initial designs were created as low-fidelity wireframes
 <img src="/media/paperframe2.png" class="big-img" alt="Userflow shown as a low fidelity paper wireframe."/>
 </figure>
 
+<br><br>
+
 These were soon followed up by the creation of mid-fidelity wireframes in Figma.
+
+<br><br>
 
 <figure>
 <img src="/media/midfi1.png" class="big-img" alt="Userflow shown as a mid fidelity wireframe."/>
 <figcaption>“As a new user, I want to create a profile, so that other students can find me.”</figcaption>
 </figure>
 
+<br><br>
+
 <figure>
 <img src="/media/midfi2.png" class="big-img" alt="Userflow shown as a mid fidelity wireframe."/>
 <figcaption>“As a frequent user, I want to be able to message other students, so that we can problem-solve together.” + “As a frequent user, I want to be able to view and share articles, videos, images, and other files, and write posts for other students to read, so that we can share knowledge.”</figcaption>
 </figure>
 
+<br><br>
+
 <figure>
 <img src="/media/midfi3.png" class="big-img" alt="Userflow shown as a mid fidelity wireframe."/>
 <figcaption>“As a frequent user, I want to be able to message other students, so that we can problem-solve together.”</figcaption>
 </figure>
+
+<br><br>
+
+---
+
+<br><br>
+
+<h3>Visual Design</h3>
 
