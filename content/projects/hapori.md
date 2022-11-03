@@ -176,4 +176,5 @@ View the guide <a href="https://tom.so/media/Hapori-Design-Language-System.pdf" 
 
 <br><br>
 
+<h3>Hi-fidelity Prototype + Animations</h3>
 
