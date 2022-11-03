@@ -178,3 +178,40 @@ View the guide <a href="https://tom.so/media/Hapori-Design-Language-System.pdf" 
 
 <h3>Hi-fidelity Prototype + Animations</h3>
 
+![Hapori runnning on an iPhone and iPad](/media/haporidevices.webp)
+
+After finishing the mobile design, I started designing Hapori's content for other breakpoints so that it can respond effectively based on different screen sizes and devices. Subtle hover animations were also added to further enhance user interactions for buttons and other input methods across the platform.
+
+<div style="position: relative; padding-bottom: 152.11267605633802%; height: 0;"><iframe src="https://www.loom.com/embed/a8c8fd7dcd7d4179a3760ae08e6112a9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+[Link to Figma prototype](https://www.figma.com/proto/9lIgjFuneOZCffYQKQRt2j/Hapori-prototype?node-id=4794%3A41875&scaling=scale-down&page-id=4789%3A5549&starting-point-node-id=4794%3A41875)
+
+<br><br>
+
+---
+
+<br><br>
+
+<h3>Polished Mockups</h3>
+
+The hi-fidelity prototype was then put into different contexts through a series of mockups, illustrating different screens and breakpoints in action.
+
+<figure>
+<img src="/media/hapori1.webp" class="big-img" alt="Hi-fidelity mockup."/>
+</figure>
+
+<figure>
+<img src="/media/hapori2.webp" class="big-img" alt="Hi-fidelity mockup."/>
+</figure>
+
+<figure>
+<img src="/media/hapori3.webp" class="big-img" alt="Hi-fidelity mockup."/>
+</figure>
+
+<figure>
+<img src="/media/hapori4.webp" class="big-img" alt="Hi-fidelity mockup."/>
+</figure>
+
+
+
+
