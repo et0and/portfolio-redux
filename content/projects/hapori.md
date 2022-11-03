@@ -11,7 +11,7 @@ media:
 ---
 
 <small>Roles: User Research, UX/UI Design
-Tools: Figma
+Tools: Balsamiq, Figma
 Client: CareerFoundry UI/UX Project
 Team: Solo (designer, researcher)
 Timeline of Two Months</small>
@@ -71,8 +71,6 @@ We will know this to be successful when students report using Hapori more compar
 
 <h3>User Personas</h3>
 
-<br><br>
-
 A proto-persona was created to better understand the students and place them at the center of the design process. 
 
 <h4>Alex</h4>
@@ -85,6 +83,58 @@ As he juggles working with his study, Alex wants to find things like relevant su
 <img src="/media/alex.png" alt="Alex user persona"/>
 </figure>
 
+<br><br>
 
+---
 
+<br><br>
+
+<h3>User Flows</h3>
+
+From the above proto-persona, we can create the following three user stories to begin defining our flows:
+
+- As a new user, I want to create a profile, so that other students can find me.
+
+- As a frequent user, I want to be able to message other students, so that we can problem-solve together.
+
+- As a frequent user, I want to be able to view and share articles, videos, images, and other files, and write posts for other students to read, so that we can share knowledge.
+
+<figure>
+<img src="/media/haporiflow.svg" class="big-img" alt="User flow for meeting the criteria of the above 3 user stories."/>
+</figure>
+
+<br><br>
+
+---
+
+<br><br>
+
+<h3>Prototypes</h3>
+
+With user flows defined, initial designs were created as low-fidelity wireframes in Balsamiq. 
+
+<figure>
+<img src="/media/paperframe1.png" class="big-img" alt="Userflow shown as a low fidelity paper wireframe."/>
+</figure>
+
+<figure>
+<img src="/media/paperframe2.png" class="big-img" alt="Userflow shown as a low fidelity paper wireframe."/>
+</figure>
+
+These were soon followed up by the creation of mid-fidelity wireframes in Figma.
+
+<figure>
+<img src="/media/midfi1.png" class="big-img" alt="Userflow shown as a mid fidelity wireframe."/>
+<figcaption>“As a new user, I want to create a profile, so that other students can find me.”</figcaption>
+</figure>
+
+<figure>
+<img src="/media/midfi2.png" class="big-img" alt="Userflow shown as a mid fidelity wireframe."/>
+<figcaption>“As a frequent user, I want to be able to message other students, so that we can problem-solve together.” + “As a frequent user, I want to be able to view and share articles, videos, images, and other files, and write posts for other students to read, so that we can share knowledge.”</figcaption>
+</figure>
+
+<figure>
+<img src="/media/midfi3.png" class="big-img" alt="Userflow shown as a mid fidelity wireframe."/>
+<figcaption>“As a frequent user, I want to be able to message other students, so that we can problem-solve together.”</figcaption>
+</figure>
 
