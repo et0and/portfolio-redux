@@ -164,6 +164,8 @@ In order to further define and refine the visual identity of Hapori, two moodboa
 <img src="/media/moodboard2.webp" class="big-img" alt="Second moodboard for Hapori design."/>
 </figure>
 
+<br><br>
+
 After re-examining the key requirements of Hapori, moodboard one was chosen as it has the potential to give friendly, welcoming and reassuring feelings and hold a unifying green palette as the core colour without sacrificing usability in the process. Using colour as accents to enhance communication, rather than as mere decoration, was identified as an important point of focus for Hapori.
 
 An initial visual design guide for Hapori was then developed and released. The guide establishes a set of design principles, patterns, and UI components that will be used to create consistent experiences across all breakpoints and future iterations. 
@@ -182,7 +184,7 @@ View the guide <a href="https://tom.so/media/Hapori-Design-Language-System.pdf" 
 
 After finishing the mobile design, I started designing Hapori's content for other breakpoints so that it can respond effectively based on different screen sizes and devices. Subtle hover animations were also added to further enhance user interactions for buttons and other input methods across the platform.
 
-<div style="position: relative; padding-bottom: 152.11267605633802%; height: 0;"><iframe src="https://www.loom.com/embed/a8c8fd7dcd7d4179a3760ae08e6112a9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+![Button animation](/media/animations.gif)
 
 [Link to Figma prototype](https://www.figma.com/proto/9lIgjFuneOZCffYQKQRt2j/Hapori-prototype?node-id=4794%3A41875&scaling=scale-down&page-id=4789%3A5549&starting-point-node-id=4794%3A41875)
 
@@ -195,6 +197,8 @@ After finishing the mobile design, I started designing Hapori's content for othe
 <h3>Polished Mockups</h3>
 
 The hi-fidelity prototype was then put into different contexts through a series of mockups, illustrating different screens and breakpoints in action.
+
+<br><br>
 
 <figure>
 <img src="/media/hapori1.webp" class="big-img" alt="Hi-fidelity mockup."/>
@@ -212,6 +216,26 @@ The hi-fidelity prototype was then put into different contexts through a series 
 <img src="/media/hapori4.webp" class="big-img" alt="Hi-fidelity mockup."/>
 </figure>
 
+<br><br>
 
+---
 
+<br><br>
+
+<h3>Reflections + Next Steps</h3>
+
+What I've learned:
+Establishing a mood board before the design process gives me more inspiration for the design.
+
+Utilizing grids and following design patterns makes the design more recognizable and easy to understand.
+
+Having the discussion about the design with my mentor helps me strengthen my collaboration and communication skills.
+
+Challenge:
+The greatest challenge I faced was designing for different breakpoints. My initial thought was that I could add more content to larger screens since there is more space, but I forgot about the importance of user experience. Users might feel confused about the new elements when they expand to larger screens. After discussing with my mentor and with a few trials and errors, I understood the importance of keeping content simple and just focusing on the critical features on the page.
+
+Next step:
+Conducting the first round of usability testing to continue improving SimpleFit design and usability.
+
+Expanding the functionality of Desktop and Tablet.
 
