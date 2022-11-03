@@ -152,3 +152,28 @@ These were soon followed up by the creation of mid-fidelity wireframes in Figma.
 
 <h3>Visual Design</h3>
 
+In order to further define and refine the visual identity of Hapori, two moodboards were created as a starting point before a full visual language system could be established.
+
+<figure>
+<img src="/media/moodboard1.png" class="big-img" alt="First moodboard for Hapori design."/>
+</figure>
+
+<br><br>
+
+<figure>
+<img src="/media/moodboard2.png" class="big-img" alt="Second moodboard for Hapori design."/>
+</figure>
+
+After re-examining the key requirements of Hapori, moodboard one was chosen as it has the potential to give friendly, welcoming and reassuring feelings and hold a unifying green palette as the core colour without sacrificing usability in the process. Using colour as accents to enhance communication, rather than as mere decoration, was identified as an important point of focus for Hapori.
+
+An initial visual design guide for Hapori was then developed and released. The guide establishes a set of design principles, patterns, and UI components that will be used to create consistent experiences across all breakpoints and future iterations. 
+
+View the guide <a href="https://tom.so/media/Hapori-Design-Language-System.pdf" alt="PDF to the Hapori Design Language System" title="PDF to the Hapori Design Language System">here</a>
+
+<br><br>
+
+---
+
+<br><br>
+
+
