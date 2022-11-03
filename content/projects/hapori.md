@@ -12,7 +12,7 @@ media:
 
 <small>Roles: User Research, UX/UI Design
 Tools: Balsamiq, Figma
-Client: CareerFoundry UI/UX Project
+Client: CareerFoundry UI Project
 Team: Solo (designer, researcher)
 Timeline of Two Months</small>
 
@@ -154,6 +154,8 @@ These were soon followed up by the creation of mid-fidelity wireframes in Figma.
 
 In order to further define and refine the visual identity of Hapori, two moodboards were created as a starting point before a full visual language system could be established.
 
+<br><br>
+
 <figure>
 <img src="/media/moodboard1.webp" class="big-img" alt="First moodboard for Hapori design."/>
 </figure>
@@ -225,17 +227,17 @@ The hi-fidelity prototype was then put into different contexts through a series 
 <h3>Reflections + Next Steps</h3>
 
 What I've learned:
-Establishing a mood board before the design process gives me more inspiration for the design.
+- Creating a visual design system helped to ensure consistentency across screens, particularly as we began designing for different breakpoints.
 
-Utilizing grids and following design patterns makes the design more recognizable and easy to understand.
+- Utilizing universal and common design patterns ensured that both usability is as clear as it can be for the end user, as well as helping to speed up design + development.
 
-Having the discussion about the design with my mentor helps me strengthen my collaboration and communication skills.
+- Creating moodboards can be helpful in contextualising the overall look and feel of an app before the hi-fidelity design is finalised.
 
 Challenge:
-The greatest challenge I faced was designing for different breakpoints. My initial thought was that I could add more content to larger screens since there is more space, but I forgot about the importance of user experience. Users might feel confused about the new elements when they expand to larger screens. After discussing with my mentor and with a few trials and errors, I understood the importance of keeping content simple and just focusing on the critical features on the page.
+The greatest challenge for this project was following a design process with little user testing and usability research. While universal design patterns and guidelines were adopted through the development process, it would have been hugely beneficial to follow this alongside user tests and usability studies to ensure the project was meeting the needs of our target audience.
 
-Next step:
-Conducting the first round of usability testing to continue improving SimpleFit design and usability.
+Next steps:
+Conducting the first round of usability testing to validate current set of designs, as well as identify any potential pain points that need addressing. Further screens also need to be designed in order to clarify and expand functionality in Hapori.
 
-Expanding the functionality of Desktop and Tablet.
+
 
