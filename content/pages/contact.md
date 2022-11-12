@@ -9,7 +9,7 @@ eleventyNavigation:
 
 I am always interested in collaborating on interesting projects!
 
-Email at [tom@tomhackshaw.com](mailto:tom@tomhackshaw.com) ([PGP](https://tom.so/media/pubkey.txt))
+Email at [tom@tomhackshaw.com](mailto:tom@tomhackshaw.com) ([PGP](https://tom.so/media/tom-public.asc))
 
 Or send me a message below:
 
