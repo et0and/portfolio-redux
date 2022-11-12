@@ -53,7 +53,7 @@ Small creative experiments that I have worked on outside of my design work
 <h3>Research</h3>
 
 [Chess](/projects/chess)
-↳ Some notes on the game of chess
+↳ Some notes on the game of chess (ongoing)
 
 [Church Yard](/projects/church-yard)
 ↳ A research archive on Søren Kierkegaard
@@ -69,6 +69,9 @@ Small creative experiments that I have worked on outside of my design work
 
 [Poetics of Space](/projects/poetics-of-space)
 ↳ A research archive on spaces
+
+[Tea]
+↳ A research page dedicated to different types of tea (work in progress)
 
 ---
 
