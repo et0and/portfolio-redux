@@ -9,7 +9,7 @@ eleventyNavigation:
 
 I am always interested in collaborating on interesting projects!
 
-Feel free to contact me at <a href="javascript:location='mailto:\u0074\u006f\u006d\u0040\u0074\u006f\u006d\u0068\u0061\u0063\u006b\u0073\u0068\u0061\u0077\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u0074\u006f\u006d\u0040\u0074\u006f\u006d\u0068\u0061\u0063\u006b\u0073\u0068\u0061\u0077\u002e\u0063\u006f\u006d')</script></a> ([PGP](https://tom.so/media/tom-public.asc))
+Feel free to contact me at <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#116;&#111;&#109;&#64;&#116;&#111;&#109;&#104;&#97;&#99;&#107;&#115;&#104;&#97;&#119;&#46;&#99;&#111;&#109;">&#116;&#111;&#109;&#64;&#116;&#111;&#109;&#104;&#97;&#99;&#107;&#115;&#104;&#97;&#119;&#46;&#99;&#111;&#109;</a> ([PGP](https://tom.so/media/tom-public.asc))
 
 Or send me a message below:
 
