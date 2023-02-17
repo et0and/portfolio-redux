@@ -5,11 +5,13 @@ eleventyNavigation:
   order: 4
 ---
 
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/safe-email@1.1.1/dist/safe-email.min.js"></script>
+
 <h3>Let's talk</h3>
 
 I am always interested in collaborating on interesting projects!
 
-Email at [tom@tomhackshaw.com](mailto:tom@tomhackshaw.com) ([PGP](https://tom.so/media/tom-public.asc))
+<a title="Email" href="#" data-email_b64="dG9tQHRvbWhhY2tzaGF3LmNvbQ==">Send me an email</a> ([PGP](https://tom.so/media/tom-public.asc))
 
 Or send me a message below:
 
