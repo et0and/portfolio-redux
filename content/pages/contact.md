@@ -9,7 +9,7 @@ eleventyNavigation:
 
 I am always interested in collaborating on interesting projects!
 
-Feel free to contact me at [tom@tomhackshaw.com](mailto:tom@tomhackshaw.com) ([PGP](https://tom.so/media/tom-public.asc))
+Feel free to contact me at <a href="javascript:location='mailto:\u0074\u006f\u006d\u0040\u0074\u006f\u006d\u0068\u0061\u0063\u006b\u0073\u0068\u0061\u0077\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u0074\u006f\u006d\u0040\u0074\u006f\u006d\u0068\u0061\u0063\u006b\u0073\u0068\u0061\u0077\u002e\u0063\u006f\u006d')</script></a> ([PGP](https://tom.so/media/tom-public.asc))
 
 Or send me a message below:
 
