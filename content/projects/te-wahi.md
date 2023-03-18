@@ -13,7 +13,7 @@ media:
 <small>Roles: User Research, UX/UI Design, Development
 Tools: Figma, Premiere Pro, Next JS
 Client: Takapuna Grammar School
-Team: R.K. (manager) and myself (designer, researcher, developer)
+Team: Robin Kydd (TiC) and myself (designer, researcher, developer)
 Timeline of Two Years</small>
 
 ---
@@ -23,14 +23,7 @@ Timeline of Two Years</small>
 
 <div class="overview">
 
-The goal of this project was to create a centralised knowledge hub to help train teachers and students at Takapuna Grammar School on how to use specialised machines and software in the Te Wāhi maker space.
-
-The hub was developed through a series of:
-- surveys to students and staff
-- initials sites that developed with continued student and staff feedback
-- development rounds, including the creation of a CDN to allow for the secure delivery of software binaries to students and staff
-
-While the hub continues to grow, further iterations will be necessary to onboard the next set of students looking to enhance their learning and making.
+Our project aimed to create a centralized knowledge hub that trains teachers and students at Takapuna Grammar School on how to use specialized machines and software in the Te Wāhi maker space. We developed the hub through surveys, ongoing feedback from students and staff, and multiple rounds of development. We also created a CDN to ensure secure software delivery. The hub is growing, and future iterations will onboard new students looking to enhance their learning and making.
 
 </div>
 
@@ -38,7 +31,7 @@ While the hub continues to grow, further iterations will be necessary to onboard
 
 <h3>Background + The Problem </h3>
 
-Takapuna Grammar School launched their maker space (nee Innovation Space) for students and staff in 2020. With a wide range of different tools and machinery, there is a high learning curve for anyone new to the space with students ranging from years 9 - 13 (12 - 18 year olds) and teachers. Without some form of training, accessibility of this space is limited.
+Takapuna Grammar School launched their Innovation Space in 2020, offering a wide range of tools and machinery for students and staff to use. However, without proper training, this space can be inaccessible for anyone new to it, including students ranging from years 9-13 and teachers. This poses a significant learning curve and limits accessibility to the space.
 
 <br><br>
 
@@ -53,7 +46,7 @@ Takapuna Grammar School launched their maker space (nee Innovation Space) for st
 
 <h3>The Solution </h3>
 
-Design, develop and deploy a centralised knowledge hub that exists both online in the form of a website and offline in the form of posters. The hub will contain different guides for using the tools and machines, as well as steps to follow for certain goals.
+We designed, developed, and deployed a centralized knowledge hub that exists both online and offline. The hub includes guides for using the tools and machines, as well as steps to follow for achieving specific goals. Students and staff can access the hub through a website and posters placed throughout the Innovation Space.
 
 <br><br>
 
@@ -102,22 +95,9 @@ Design, develop and deploy a centralised knowledge hub that exists both online i
 <h3>User Research</h3>
 <h4>Primary Research Method - utilising student voice</h4>
 
-Some initial assumptions leading up to undertaking this research was the following:
+Before conducting user research, we made several assumptions based on our observations of students' behavior, including that many students don't read emails or daily notices, struggle to find digital materials for their classes, and feel discouraged by the sheer amount of notifications from teachers. 
 
-- Many students don’t read emails
-- Many students don’t read daily notices/newsletter
-- Many students struggle to find where digital material for their classes are located
-- Many students feel that having a single organised hub/location for digital materials would help them with their learning and organisation
-- Many students feel discouraged from going through notifications due to the sheer amount of alerts that teachers would post and put out on a daily basis, making it difficult to filter through the noise
-
-<br/>
-
-Using a simple survey, responses were gathered from a pool of 100 different students using [Tally](https://tally.so) to gather some data regarding the above assumptions. The findings were:
-
-- The vast majority of students surveyed do not read their students emails (85%), with the most popular reason being that they felt there was so much being sent that it was hard to keep on top of
-- Nearly half of all students surveyed do not ready the daily notices and school newsletters (47%)
-- Close to a third of all students surveyed said that they struggle to find what they need for their classes on Google Classroom (28%)
-- A large majority of students surveyed expressed that it would be useful to have one set place to find digital materials for their respective classes, with a few noting that Google Classroom already did this to a certain extent but sometimes was hard to look through
+We conducted a simple survey of 100 students using [Tally](https://tally.so) to gather data on these assumptions. Our findings showed that the vast majority of students surveyed don't read their student emails, nearly half don't read daily notices or school newsletters, and close to a third struggle to find what they need on Google Classroom. However, most students expressed that having a single, organised hub for digital materials would help with their learning, even though some noted that Google Classroom already served this purpose to some extent but was difficult to navigate.
 
 <br><br>
 
@@ -134,7 +114,7 @@ Using a simple survey, responses were gathered from a pool of 100 different stud
 
 <br><br>
 
-To start with, a very basic homepage was created to act as the central hub to all matters related to the maker space. To accompany this site were a series of A3 posters for display in the space. Each poster contained a short description of the core tools and machines used in the space, with a QR code that directed students to a video tutorial demonstrating how to use said tool/machine.
+We started by creating a basic homepage as the central hub for all things related to the maker space. We also designed a series of A3 posters for display in the space, each with a short description of the core tools and machines, and a QR code directing students to video tutorials demonstrating how to use them. The initial site design received mostly positive feedback, but we received suggestions for improvement from students and staff. They wanted more information on how to use software in the space, a search function, and clearer links to the guides.
 
 <br><br>
 
@@ -150,15 +130,7 @@ To start with, a very basic homepage was created to act as the central hub to al
 
 <br><br>
 
-Response to the initial site design was mostly positive. Through further student voice and also some comments from staff, most respondents rated the site highly but also noted that the site could host some further guides and tutorials in greater depth:
-
-- "... a clean design ... could use more information on how to use more of the software in the space"
-- "... would be great to be able to search for stuff"
-- "... the links to the guides aren't that clear ... could be a button?"
-
-<br><br>
-
-To address this, the site was redesigned to include clear buttons on the homepage for the most common flows, which were the tool guides, project guides, a newly launched online exhibition space, and a form for submitting files for 3D printed or laser cutting/engraving. The tool and project guides were written up in greater detail and hosted on [Gitbook](https://gitbook.com), with full search capability and on-the-fly media compression to help students with limited or slow internet connections.
+To address these concerns, we redesigned the site with clear buttons for the most common flows, including tool guides, project guides, an online exhibition space, and a form for submitting files for 3D printing or laser cutting/engraving. We hosted the guides on Gitbook, which allowed for greater detail and full search functionality. To accommodate students with slow internet connections, we also added on-the-fly media compression. We switched from Google Forms to Airtable for submitting jobs because many students were using personal Gmail accounts instead of their school email addresses, which caused confusion.
 
 <figure>
 <img src="/media/twa-site-02.webp" alt="A screenshot of the second generation website, with coloured buttons on the homepage linked to some of the common tasks students undertook."/>
@@ -174,10 +146,6 @@ To address this, the site was redesigned to include clear buttons on the homepag
 
 <br><br>
 
-Google Forms was originally used for submitting jobs, but this was dropped in favour of Airtable. Students were submitting requests from their personal Gmail accounts and not their school addresses. This meant that many students were awaiting confirmation regarding their prints in their school inboxes, without having realised that they made the request through a personal account.
-
-<br><br>
-
 <figure>
 <img src="/media/twa-guides-01.webp" alt="A screenshot of the Te Wāhi Learn hub, hosted on Gitbook."/>
 <figcaption>The first Te Wāhi Learn hub, hosted via Gitbook and with guides to all the tools and machines used in the space</figcaption>
@@ -185,9 +153,7 @@ Google Forms was originally used for submitting jobs, but this was dropped in fa
 
 <br><br>
 
-The hub on Gitbook functioned well but had a few key issues. Namely, students who did not know what specific thing they were looking for but wished to make something via 3D printing, laser cutting or engraving did not have a clear starting point on the site. There was a list of tools but it isn't immediately clear which ones are relevant to what job or purpose.
-
-Another issue with using Gitbook was that, being a third-party service, we were subject to their terms and tracking cookies. A cookie consent banner would popup for new users, causing confusion with some students who would then try to Refuse Cookies and be redirected to an external Gitbook page. To protect the privacy of students and staff we decided that creating our own hub from scratch, one that we controlled without the dependency of a third-party, was the best way forward.
+While the Gitbook hub was functional, it had some key issues. It wasn't clear to students which tools were relevant for their projects, and a cookie consent banner caused confusion. To address these issues and improve privacy, we decided to create our own hub from scratch.
 
 <br><br>
 
@@ -209,7 +175,7 @@ Another issue with using Gitbook was that, being a third-party service, we were 
 
 <br><br>
 
-Our second hub, now running a custom fork of [Nextra](https://github.com/shuding/nextra) and deployed via [Vercel](https://vercel.com), includes clear sections for students wanting to 3D print, laser cut or engrave something. The homepage was also updated to have a clearer link to the hub, as well as more information displayed on each section of the site. [Next.js](https://nextjs.org/) and [Tailwind](https://tailwindcss.com/) were used to develop this third iteration of the homepage to improve responsiveness, speed and reduce developement time. A CDN was also established under "tewahi.me" to help with the safe and secure delivery of large software binaries for students, as well as host versions of tools that no longer officially exist elsewhere on the internet (such as the macOS version of Meshmixer).
+Our second hub, now running a custom fork of [Nextra](https://github.com/shuding/nextra) and deployed via [Vercel](https://vercel.com), includes clear sections for students wanting to 3D print, laser cut or engrave something. The homepage was also updated to have a clearer link to the hub, as well as more information displayed on each section of the site. [Next.js](https://nextjs.org/) and [Tailwind](https://tailwindcss.com/) were used to develop this third iteration of the homepage to improve responsiveness, speed and reduce development time. A CDN was also established under "tewahi.me" to help with the safe and secure delivery of large software binaries for students, as well as host versions of tools that no longer officially exist elsewhere on the internet (such as the macOS version of Meshmixer).
 
 <br><br>
 
@@ -230,7 +196,7 @@ Our second hub, now running a custom fork of [Nextra](https://github.com/shuding
 
 <h3>Learnings, reflections and next steps</h3>
 
-Upon the third iteration of the Te Wāhi homepage, a small follow-up Tally survey was conducted recording the responses of 25 students and their experience with the hub. The key findings were:
+Upon the third iteration of the Te Wāhi homepage, a small follow-up survey was conducted recording the responses of 25 students and their experience with the hub. The key findings were:
 
 - All students recorded appreciated having a centralised knowledge hub online
 - Most students felt the hub was easy to use. Two students noted that occasionally videos would fail to load on the hub, which will need further investigation
