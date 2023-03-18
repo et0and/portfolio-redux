@@ -30,6 +30,7 @@ From gathering resources to giving feedback and collaborating on projects, Hapor
 
 <br><br>
 ---
+<br><br>
 
 <h3>Objective</h3>
 

@@ -30,6 +30,8 @@ Our project aimed to create a centralized knowledge hub that trains teachers and
 
 ---
 
+<br><br>
+
 <h3>Background + The Problem </h3>
 
 Takapuna Grammar School launched their Innovation Space in 2020, offering a wide range of tools and machinery for students and staff to use. However, without proper training, this space can be inaccessible for anyone new to it, including students ranging from years 9-13 and teachers. This poses a significant learning curve and limits accessibility to the space.
@@ -44,6 +46,8 @@ Takapuna Grammar School launched their Innovation Space in 2020, offering a wide
 <br><br>
 
 ---
+
+<br><br>
 
 <h3>The Solution </h3>
 

@@ -37,6 +37,8 @@ Although we created an early mockup, further testing and design iterations would
 <br><br>
 ---
 
+<br><br>
+
 <h3>Project overview</h3>
 
 Many young professionals struggle to balance work and life, leading to an increasing concern for their mental and emotional well-being. To address this, we developed Sophia, a centralized hub for accessing verified health resources, practicing mindfulness, and tracking mood through daily journal entries. Through user interviews and testing, we identified users' needs and designed a responsive health portal that grows and changes with them. Sophia allows users to journal, learn, and meditate all in one convenient location.
