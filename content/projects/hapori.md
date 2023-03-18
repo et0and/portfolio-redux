@@ -19,9 +19,8 @@ Timeline of Two Months</small>
 ---
 <br><br>
 
-<h3>Summary</h3>
-
 <div class="overview">
+<h3>Summary</h3>
 
 The Covid-19 pandemic has changed the way people work and study, leading to students using existing tools to collaborate with peers. But switching between apps and working around tool limitations can make managing study difficult. That's where Hapori comes in: a centralised web app to simplify remote studying. 
 
@@ -30,6 +29,7 @@ From gathering resources to giving feedback and collaborating on projects, Hapor
 </div>
 
 <br><br>
+---
 
 <h3>Objective</h3>
 

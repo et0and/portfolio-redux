@@ -19,9 +19,8 @@ Timeline of One Year</small>
 ---
 <br><br>
 
-<h3>Summary</h3>
-
 <div class="overview">
+<h3>Summary</h3>
 
 Sophia is a well-being portal designed for busy working professionals. It provides easy access to verified health resources, mindfulness practices, and mood tracking through daily journal entries. Our goal was to encourage a more holistic approach to health, and we achieved this through competitive analysis, user interviews, prototyping, and early visual design.
 
@@ -36,6 +35,7 @@ Although we created an early mockup, further testing and design iterations would
 <div style="width:100%;height:0px;position:relative;padding-bottom:64.904%;"><iframe src="https://streamable.com/e/tfwes5" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 <br><br>
+---
 
 <h3>Project overview</h3>
 
