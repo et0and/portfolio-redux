@@ -351,7 +351,7 @@ These paper wireframes then led to the creation of mid-fidelity prototypes in Fi
 
 Using and adapting existing design systems, such as the [Polaris Design System by Shopify](https://polaris.shopify.com), is a great way to bring consistency to a project and make development faster. By building on an established foundation, the design team can focus on customising and tailoring the system to meet the specific needs of the project, rather than starting from scratch. This approach also saves time and effort by avoiding the need to reinvent the wheel for every new project. 
 
-In the case of Sophia, the decision was made to use Polaris as a foundation and adapt it to create a simple and cohesive design for the portal. As a result, the ability to switch views was abandoned in order to keep the design in line with Polaris.
+In the case of Sophia, Tien-Ling recommended to adopt Polaris as a foundation and adapt it to create a simple and cohesive design for the portal. As a result, the ability to switch views was abandoned in order to keep the design in line with Polaris.
 
 </div>
 
@@ -527,7 +527,11 @@ The result is Sophia's most recent design, which reflects the insights and findi
 
 <h3>Reflections</h3>
 
-Sophia's UI and structure have undergone significant changes in the past few months, making it essential to conduct another round of user testing and feedback. User research and testing have been critical to the iterative development process. To ensure Sophia's commercial viability, more attention should be given to its monetization strategy. Testing on the same target demographic would help identify gaps and ensure the product is fulfilling its mission statement. A tentative timeline for testing would be competitor analysis and research on monetization options (1-2 days), designing all screens (2-3 days), usability testing and A/B tests (1-2 weeks), implementing feedback (3-4 days), follow-up testing (1 week), and wrapping up remaining issues (2-3 days).
+Sophia's UI and structure have undergone significant changes in the past few months, making it essential to conduct another round of user testing and feedback. User research and testing have been critical to the iterative development process. 
+
+Jordan noted that in order to ensure Sophia's commercial viability, more attention should be given to its monetisation strategy. This may involve thinking beyond subscription models and paywalls for material on Sophia. 
+
+Testing on the same target demographic would help identify gaps and ensure the product is fulfilling its mission statement. A tentative timeline for testing would be competitor analysis and research on monetization options (1-2 days), designing all screens (2-3 days), usability testing and A/B tests (1-2 weeks), implementing feedback (3-4 days), follow-up testing (1 week), and wrapping up remaining issues (2-3 days).
 
 <br><br>
 

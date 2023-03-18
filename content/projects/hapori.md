@@ -13,7 +13,7 @@ media:
 <small>Roles: User Research, UX/UI Design
 Tools: Balsamiq, Figma
 Client: CareerFoundry UI Project
-Team: Solo (designer, researcher)
+Team: Myself (designer, researcher), Thania Soetandar (mentor)
 Timeline of Two Months</small>
 
 ---
@@ -23,11 +23,9 @@ Timeline of Two Months</small>
 
 <div class="overview">
 
-As the way people work has changed over the Covid-19 pandemic, so has the way students study together. Students can work with peers to study and work on assignments in realtime as well as asynchronously, using tools that they already use but repurposed. Switching between existing apps and working around the constraints of tools not built for purpose, students may struggle with keeping track of and managing their study as a result.
+The Covid-19 pandemic has changed the way people work and study, leading to students using existing tools to collaborate with peers. But switching between apps and working around tool limitations can make managing study difficult. That's where Hapori comes in: a centralised web app to simplify remote studying. 
 
-Hapori aims to centralise and simplify the entire remote study process. From gathering resources, giving feedback on drafts and communicating with peers on shared projects, this web app will provide students with a single unified tool to study with peers in any environment.
-
-This project allowed for the creation of an early mockup, but in a real life setting it would require more rounds of usability testing with students of different backgrounds and needs. Doing so would ensure the continued success of the product as remote learning continues to change over time.
+From gathering resources to giving feedback and collaborating on projects, Hapori provides a unified tool for students to study together in any environment. While an early mockup has been created, further rounds of usability testing with students of different backgrounds and needs are necessary to ensure continued success in the ever-evolving world of remote learning.
 
 </div>
 
@@ -188,7 +186,7 @@ View the guide <a href="https://tom.so/media/Hapori-Design-Language-System.pdf" 
 
 ![Hapori runnning on an iPhone and iPad](/media/haporidevices.webp)
 
-After finishing the mobile design, I started designing Hapori's content for other breakpoints so that it can respond effectively based on different screen sizes and devices. Subtle hover animations were also added to further enhance user interactions for buttons and other input methods across the platform.
+After finishing the mobile design, we started designing Hapori's content for other breakpoints so that it can respond effectively based on different screen sizes and devices. Subtle hover animations were also added to further enhance user interactions for buttons and other input methods across the platform.
 
 ![Button animation](/media/animations.gif)
 
@@ -230,18 +228,13 @@ The hi-fidelity prototype was then put into different contexts through a series 
 
 <h3>Reflections + Next Steps</h3>
 
-What I've learned:
-- Creating a visual design system helped to ensure consistentency across screens, particularly as we began designing for different breakpoints.
-
-- Utilizing universal and common design patterns ensured that both usability is as clear as it can be for the end user, as well as helping to speed up design + development.
-
-- Creating moodboards can be helpful in contextualising the overall look and feel of an app before the hi-fidelity design is finalised.
+Key takeaways:
+- Creating a visual design system ensured consistency across screens and breakpoints.
+- Utilising common design patterns improved usability and sped up design and development.
+- Moodboards helped contextualize the app's look and feel.
 
 Challenge:
-The greatest challenge for this project was following a design process with little user testing and usability research. While universal design patterns and guidelines were adopted through the development process, it would have been hugely beneficial to follow this alongside user tests and usability studies to ensure the project was meeting the needs of our target audience.
+The biggest challenge was the lack of user testing and usability research. While we followed universal design patterns and guidelines, user testing could have helped us meet our target audience's needs better.
 
 Next steps:
-Conducting the first round of usability testing to validate current set of designs, as well as identify any potential pain points that need addressing. Further screens also need to be designed in order to clarify and expand functionality in Hapori.
-
-
-
+We need to conduct usability testing to validate our designs and identify any pain points. We also need to design more screens to expand Hapori's functionality.
