@@ -13,7 +13,7 @@ media:
 <small>Roles: User Research, UX/UI Design, Development
 Tools: Figma, Optimal Workshop, Usability Hub, Miro
 Client: CareerFoundry UX Project
-Team: Solo (designer, researcher)
+Team: Myself (designer, researcher), Jordan Skedgwell and Tien-Ling Yeh (mentor)
 Timeline of One Year</small>
 
 ---
@@ -23,15 +23,9 @@ Timeline of One Year</small>
 
 <div class="overview">
 
-The goal of this project was to create a well being portal for busy working professionals. A centralised hub for accessing verified health resources, practising mindfulness, and tracking mood through daily journal entries, the purpose of Sophia is to encourage a more holistic approach to health. 
+Sophia is a well-being portal designed for busy working professionals. It provides easy access to verified health resources, mindfulness practices, and mood tracking through daily journal entries. Our goal was to encourage a more holistic approach to health, and we achieved this through competitive analysis, user interviews, prototyping, and early visual design.
 
-The portal was developed through a series of:
-- competitive analysis of existing products in this space
-- user interviews which helped to define personas, user journeys, flows and information architecture
-- a round of prototyping and usability testing
-- development of an early visual design system and mockup
-
-This project allowed for the creation of an early mockup, but in a real life setting it would require more rounds of usability testing and iteration of the design to ensure all business requirements were met and that the product meets all user needs.
+Although we created an early mockup, further testing and design iterations would be needed in a real-life setting to ensure that all business requirements are met and the product meets user needs. With Sophia, we aim to help busy professionals prioritize their well-being and achieve a healthier, more balanced life.
 
 </div>
 
@@ -45,9 +39,7 @@ This project allowed for the creation of an early mockup, but in a real life set
 
 <h3>Project overview</h3>
 
-To keep on top of our forever changing and ever-busy lives, many young professionals now look to various health apps to track their well being. As well as looking at their physical health, mental and emotional wellness is becoming an increasing point of concern for many individuals who struggle to balance work with life.
-
-Through this CareerFoundry project, we set out to discover problems that these users were facing, what their needs were, and understand goals they had in improving their overall well being through the development of an accessible and responsive health portal. Sophia was designed as a tool and platform that would grow and change with the user, allowing users to journal, learn and meditate all in one convenient location.
+Many young professionals struggle to balance work and life, leading to an increasing concern for their mental and emotional well-being. To address this, we developed Sophia, a centralized hub for accessing verified health resources, practicing mindfulness, and tracking mood through daily journal entries. Through user interviews and testing, we identified users' needs and designed a responsive health portal that grows and changes with them. Sophia allows users to journal, learn, and meditate all in one convenient location.
 
 <br><br>
 
@@ -63,23 +55,23 @@ Before anything, we needed to better understand users’ potential problems and 
 
 - Users feel unmotivated and uninspired to track well being and mood
 - Access to quality educational resources is hard to find and verify
-- Health, particularly mental health, can be very personal so putting it into writing on a platform can bring anxiety and worry around privacy + security
-- Journalling takes time, and could be seen as a chore to complete rather than something reflective and meditative
-- A lack of free time in the day to work on yourself through an app/portal
+- Privacy and security concerns when putting personal health information in writing on a platform
+- Journaling may be seen as a chore or time-consuming
+- Lack of free time in the day to use an app/portal for self-care
 
 <h4>Possible Solutions </h4>
 
-- A way of incentivising tracking well being and mood, either through gamification methods within the app or a financial angle (such as receiving a discount for health insurance should the user reach a certain stage)
-- Integrating a catalog of vetted education resources backed by industry bodies, as well as guest appearances/authoring from members of the medical community
-- Design app and portal to be secure from the start, with all user data encrypted (AES-256, Curve25519 or similar) and nothing shared without their explicit permission, and an option to export data off of the app freely
-- Integrate journal function to be something that can be embedded or used like a widget, so that a small popup prompt is all it takes for a user to write something down. Could also allow users to record journals using voice-to-text to help with uptake.
-- Have different timeframes so that users can journal for as little as 5 minutes a day, and can choose to write more if they wish. To help them get started, journals could begin with some kind of prompt
+- Incentivize tracking well-being and mood through gamification or financial rewards
+- Include a catalog of vetted educational resources with guest appearances/authoring from members of the medical community
+- Ensure app and portal security from the start, encrypt all user data and offer an option to export data
+- Embed a journal function or use voice-to-text to make journaling more accessible and less time-consuming
+- Offer different timeframes for journaling and provide prompts to help users get started
 
 <br>
 
 <div class="insight">
 
-"<b>Young working professionals</b> need a way to balance life/work commitments because of their <b>increasingly busy lifestyles</b>.
+"<b>Busy young professionals</b> need a tool to balance work and life, manage stress and improve well-being
 
 We will know this to be true when we see at least <b>a 15% reduction in the number of work-related burnout and sick leave</b>, and <b>a 20% increase in net productivity</b> for those using Sophia within a workplace setting. 
 
@@ -302,15 +294,13 @@ After discovering the main features of Sophia, user flows were created to unders
 
 <h3>Information Architecture</h3>
 
-The structure of Sophia was defined and improved through a closed card sort, facilitated through Optimal Workshop. 
+The information architecture of Sophia was determined through a closed card sort, conducted on Optimal Workshop. 19 cards were presented to 5 participants from the target audience based in New Zealand, who were asked to group the cards into 7 categories.
 
-The sort consisted of 19 cards in total for participants to group into 7 categories. A total of 5 people completed the exercise, with all participants based in New Zealand from my target audience.
+The Library cards were grouped together with high agreement, except for a few outliers who grouped "Listen later" differently.
 
-Participants strongly agreed on the placement of Library cards, with only a few outliers for “Listen later.”
+SOS options were the most clearly defined category with universal agreement among participants.
 
-SOS options were the most clear of all categories and universally agreed upon.
-
-Daily Journal, Time Sheet and Modules categories had the most disagreement and spread, with little consesus on what cards belong here.
+However, there was a lack of consensus on the placement of cards within the Daily Journal, Time Sheet and Modules categories, leading to greater disagreement and spread among participants.
 
 <figure>
 <img src="/media/cardsort.webp" class="big-img" alt="Findings of a closed card sort to define IA."/>
@@ -359,9 +349,9 @@ These paper wireframes then led to the creation of mid-fidelity prototypes in Fi
 
 <div class="insight">
 
-At this stage, the decision was made to utilise a design system across the whole of Sophia in order to bring <b>greater consistency</b> across the portal. After some consideration, the [Polaris Design System by Shopify](https://polaris.shopify.com/) was chosen as a foundation and adapted for Sophia.
+Using and adapting existing design systems, such as the [Polaris Design System by Shopify](https://polaris.shopify.com), is a great way to bring consistency to a project and make development faster. By building on an established foundation, the design team can focus on customising and tailoring the system to meet the specific needs of the project, rather than starting from scratch. This approach also saves time and effort by avoiding the need to reinvent the wheel for every new project. 
 
-From the original information architecture, the ability to switch views (Calendar View, Kanban View, and Roadmap View) was abandoned in order to keep the design simple and matching with Polaris. <b>Using and adapting existing systems makes development faster</b>, and saves having to reinvent the wheel for every new project.
+In the case of Sophia, the decision was made to use Polaris as a foundation and adapt it to create a simple and cohesive design for the portal. As a result, the ability to switch views was abandoned in order to keep the design in line with Polaris.
 
 </div>
 
@@ -537,19 +527,7 @@ The result is Sophia's most recent design, which reflects the insights and findi
 
 <h3>Reflections</h3>
 
-Over the past three to four months, the UI and structure of Sophia has changed dramatically. The look and feel of the app is vastly different from how it was when usabillity testing was last conducted, so it would be wise to organise another round of feedback and review. 
-
-Data from user research and usability testing has been, and will continue to be, critical to the continued improvement and success of this project. Breaking the development process down into smaller, iterative cycles has been hugely helpful in ensuring that this is the case. 
-
-As far as specific areas of improvement are concerned, a greater consideration of the business/monetisation around Sophia would be of great benefit. The current premium membership model feels tacked on and could be refined further. It is important to ensure that Sophia is commercially viable before it is released to the public.
-
-For user testing, it would be useful to test on the same target demographic to see if Sophia is fulfilling its mission statement, and identify any gaps that need addressing. An approximate timeline for this would be:
-- conduct further competitor analysis, research monetisation options (1 - 2 days)
-- finish designing all screens (2 - 3 days)
-- conduct usability testing and A/B tests (1 - 2 weeks)
-- implement user feedback and raised issues (3 - 4 days)
-- follow up usability testing (1 week)
-- buffer time for wrapping up any further issues or concerns (2 - 3 days)
+Sophia's UI and structure have undergone significant changes in the past few months, making it essential to conduct another round of user testing and feedback. User research and testing have been critical to the iterative development process. To ensure Sophia's commercial viability, more attention should be given to its monetization strategy. Testing on the same target demographic would help identify gaps and ensure the product is fulfilling its mission statement. A tentative timeline for testing would be competitor analysis and research on monetization options (1-2 days), designing all screens (2-3 days), usability testing and A/B tests (1-2 weeks), implementing feedback (3-4 days), follow-up testing (1 week), and wrapping up remaining issues (2-3 days).
 
 <br><br>
 
@@ -559,15 +537,13 @@ For user testing, it would be useful to test on the same target demographic to s
 
 <h3>Next steps</h3>
 
-In a real life setting many things could potentially go wrong with a project such as this. Here are some examples of what might happen and how I would approach those situations:
+While this was a bootcamp task, real-world projects come with real-world challenges. Here are three examples of potential obstacles that could arise during a project like Sophia, and how I would tackle them:
 
 <div class="insight">
 
 1. Inappropriate content included 
 
-In an effort to meet short timeframes, inappropriate and/or low quality content could be included as part of the app's library. This would lead to a degraded end user experience, where the result would be no different from searching online for resources and potentially receiving unverified, subpar material. 
-
-I would avoid this by ensuring that the inclusion of content onto the platform is always vetted by reputable industry experts, prioritising quality over quantity.
+To avoid including subpar material in the app's library, I would prioritize quality over quantity by having all content vetted by reputable industry experts.
 
 </div>
 
@@ -577,9 +553,7 @@ I would avoid this by ensuring that the inclusion of content onto the platform i
 
 2. A lack of stakeholder engagement
 
-During the requirements gathering phase, if there is not a clear comms and engagement strategy to have all stakeholders on the same page, there is a danger of a stakeholder manifesting mid-project and bringing up something new that throws off all prior work.
-
-I would avoid this by ensuring that all stakeholders are present during the initial planning phase, but also kept in constant contact so that they are up to date with how the project is progressing and checking all deliverables are on point.
+To avoid the risk of designing a product without understanding user needs, I would make user research and testing central to the design process and use it to justify and measure the product's effectiveness.
 
 </div>
 
