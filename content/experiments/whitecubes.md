@@ -10,4 +10,6 @@ media:
     caption: Screenshot of Whitecubes
 ---
 
-[Whitecubes](https://whiecubes.vercel.app) was an online map of all art spaces (private and public) in Aotearoa New Zealand. No longer maintained.
+[Whitecubes](https://whiecubes.tom.so) is a map of all public art galleries in Tāmaki Makaurau, Aotearoa. Built using Leaflet JS and OpenStreetMap.
+
+MIT licensed. Source code [available here](https://github.com/et0and/whitecubes).
