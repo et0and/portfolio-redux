@@ -704,6 +704,7 @@ Pagination
 /* Hide the navigation menu and show the hamburger icon on mobile devices */
 @media (max-width: 767px) {
   .site-nav ul {
+    padding-left: 1rem;
     display: none;
   }
 
