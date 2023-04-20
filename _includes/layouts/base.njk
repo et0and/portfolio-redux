@@ -19,11 +19,11 @@
         <a href="{{ '/' | url }}">{{ global.title }}</a>
       </h1>
       <nav class="site-nav" >
-        {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+        <!--{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}-->
         <!-- Add a hidden checkbox and a label for the hamburger icon -->
         <input type="checkbox" class="hamburger-checkbox" id="hamburger-checkbox" />
         <label class="hamburger" for="hamburger-checkbox" aria-label="Toggle menu">
-           &#9776;
+           Menu
         </label>
         <ul>
          <li><a href="/">Portfolio</a></li>
