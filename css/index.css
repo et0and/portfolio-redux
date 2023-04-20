@@ -702,6 +702,7 @@ Pagination
   cursor: pointer;
   padding-right: 1rem;
   line-height: 1;
+  align-items: right;
 }
 
 .hamburger .close-icon {
@@ -720,7 +721,7 @@ Pagination
     background-color: #fff;
     align-items: left; /* Align items along the Y-axis */
     border-radius: 1rem;
-    align-items: right;
+    filter: drop-shadow(0 0 0.75rem black);
   }
 
   .hamburger {
