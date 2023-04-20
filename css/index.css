@@ -714,7 +714,7 @@ Pagination
 @media (max-width: 767px) {
   .site-nav ul {
     margin-top: 2rem;
-    margin-right: 1rem;
+    margin-right: 2rem;
     display: none;
     padding-top: 1rem;
     padding-left: 1rem;
