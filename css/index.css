@@ -227,7 +227,7 @@ Layout / global includes
   margin-right: auto;
   max-width: 100%;
   width: var(--width-container);
-  height: 5rem;
+  height: 4rem;
   position: fixed;
   top: 0;
   left: 0;
