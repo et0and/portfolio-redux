@@ -234,6 +234,7 @@ Layout / global includes
   left: 0;
   right: 0;
   z-index: 2000;
+  transition: background 0.3s ease, backdrop-filter 0.3s ease;
 }
 
 .site-header::before {
@@ -701,7 +702,7 @@ Pagination
   border: none;
   cursor: pointer;
   padding-right: 1rem;
-  line-height: 1
+  line-height: 1;
 }
 
 .hamburger .close-icon {
@@ -711,6 +712,7 @@ Pagination
 /* Hide the navigation menu and show the hamburger icon on mobile devices */
 @media (max-width: 767px) {
   .site-nav ul {
+    margin-top: 2rem;
     display: none;
     padding-left: 1rem;
     padding-bottom: 1rem;
@@ -739,6 +741,11 @@ Pagination
 
   .hamburger-checkbox:checked ~ .hamburger .close-icon {
     display: inline;
+  }
+
+  .hamburger-checkbox:checked ~ .site-header {
+    background: rgba(255, 255, 255, 1); /* Solid white background */
+    backdrop-filter: blur(0); /* Remove the blur */
   }
 }
 
