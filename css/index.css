@@ -700,6 +700,7 @@ Pagination
   background: none;
   border: none;
   cursor: pointer;
+  padding-right: 1rem;
 }
 
 .hamburger .close-icon {
@@ -712,6 +713,7 @@ Pagination
     display: none;
     padding-left: 1rem;
     padding-bottom: 1rem;
+    background-color: #fff;
   }
 
   .hamburger {
