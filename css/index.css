@@ -694,11 +694,11 @@ Pagination
 
 .hamburger {
   display: none;
-  font-size: 24px;
   background: none;
   border: none;
   cursor: pointer;
   font-size: large;
+  padding-right: 1rem;
 }
 
 /* Hide the navigation menu and show the hamburger icon on mobile devices */
