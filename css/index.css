@@ -702,14 +702,11 @@ Pagination
   cursor: pointer;
   padding-right: 1rem;
   line-height: 1;
-  position: relative; /* Add position: relative to allow absolute positioning of .close-icon */
 }
 
 .hamburger .close-icon {
   display: none;
-  position: absolute; /* Use absolute positioning to align the close icon */
-  right: 0; /* Align the close icon to the right */
-  top: 0; /* Align the close icon to the top */
+  align-items: right;
 }
 
 /* Hide the navigation menu and show the hamburger icon on mobile devices */
@@ -723,7 +720,7 @@ Pagination
     background-color: #fff;
     align-items: left; /* Align items along the Y-axis */
     border-radius: 1rem;
-    filter: drop-shadow(0 0 0.75rem black);
+    align-items: right;
   }
 
   .hamburger {
