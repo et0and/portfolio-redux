@@ -715,6 +715,6 @@ Pagination
   .hamburger-checkbox:checked ~ ul {
     display: flex;
     flex-direction: column;
-    backdrop-filter: blur(5px);
+    background-color: #fff;
   }
 }
