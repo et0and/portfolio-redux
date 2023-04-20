@@ -688,65 +688,62 @@ Pagination
   font-size: 20px;
 }
 
+/* ... existing styles ... */
+
 .hamburger-checkbox {
   display: none;
 }
 
 .hamburger {
   display: none;
+  font-size: large;
   background: none;
   border: none;
   cursor: pointer;
-  font-size: large;
-  padding-right: 1rem;
+}
+
+.hamburger .close-icon {
+  display: none;
 }
 
 /* Hide the navigation menu and show the hamburger icon on mobile devices */
 @media (max-width: 767px) {
   .site-nav ul {
-    padding-left: 1rem;
     display: none;
+    padding-left: 1rem;
   }
 
   .hamburger {
     display: block;
   }
 
+  .hamburger .close-icon {
+    display: none;
+  }
+
   /* Show the menu when the checkbox is checked */
   .hamburger-checkbox:checked ~ ul {
     display: flex;
     flex-direction: column;
-    background-color: #fff;
+  }
+
+  /* Hide the hamburger icon and show the close icon when the checkbox is checked */
+  .hamburger-checkbox:checked ~ .hamburger .hamburger-icon {
+    display: none;
+  }
+
+  .hamburger-checkbox:checked ~ .hamburger .close-icon {
+    display: inline;
   }
 }
 
-.hamburger-checkbox:checked ~ .hamburger {
-  display: none;
-}
+/* Show the navigation menu and hide the hamburger icon on larger devices */
+@media (min-width: 768px) {
+  .site-nav ul {
+    display: flex;
+  }
 
-.hamburger-checkbox:checked ~ .hamburger {
-  /* Hide the original hamburger icon content */
-  color: transparent;
-  /* Add a "close" icon using pseudo-elements */
-  position: relative;
-}
-
-.hamburger-checkbox:checked ~ .hamburger::before,
-.hamburger-checkbox:checked ~ .hamburger::after {
-  content: "";
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 100%;
-  height: 2px;
-  background: currentColor;
-  transform-origin: center;
-}
-
-.hamburger-checkbox:checked ~ .hamburger::before {
-  transform: translateX(-50%) rotate(45deg);
-}
-
-.hamburger-checkbox:checked ~ .hamburger::after {
-  transform: translateX(-50%) rotate(-45deg);
+  .hamburger {
+    display: none;
+  }
 }
