@@ -711,6 +711,7 @@ Pagination
   .site-nav ul {
     display: none;
     padding-left: 1rem;
+    padding-bottom: 1rem;
   }
 
   .hamburger {
