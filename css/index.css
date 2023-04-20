@@ -698,6 +698,7 @@ Pagination
   background: none;
   border: none;
   cursor: pointer;
+  font-size: large;
 }
 
 /* Hide the navigation menu and show the hamburger icon on mobile devices */
@@ -714,5 +715,6 @@ Pagination
   .hamburger-checkbox:checked ~ ul {
     display: flex;
     flex-direction: column;
+    backdrop-filter: blur(5px);
   }
 }
