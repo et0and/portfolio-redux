@@ -232,10 +232,8 @@ Layout / global includes
   top: 0;
   left: 0;
   right: 0;
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.4));
-  backdrop-filter: blur(25px);
-  background-color: #f8f8f8; /* Add a background color to ensure content doesn't show through */
-  z-index: 1000;
+  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+  backdrop-filter: blur(5px); /* Apply a blur effect */
 }
 
 .site-name {
