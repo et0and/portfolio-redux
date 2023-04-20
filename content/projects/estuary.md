@@ -1,7 +1,8 @@
 ---
 title: Estuary - bridging generations through local histories (WIP)
 layout: project
-dateStart: 2022-06-02
+dateStart: 2023-02-10
+dateEnd: 2023-11-04
 media:
   - type: image
     filename: estuary.webp

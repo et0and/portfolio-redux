@@ -228,6 +228,14 @@ Layout / global includes
   margin-right: auto;
   max-width: 100%;
   width: var(--width-container);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.4));
+  backdrop-filter: blur(25px);
+  background-color: #fff; /* Add a background color to ensure content doesn't show through */
+  z-index: 1000;
 }
 
 .site-name {
