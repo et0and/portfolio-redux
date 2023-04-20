@@ -715,7 +715,7 @@ Pagination
     padding-left: 1rem;
     padding-bottom: 1rem;
     background-color: #fff;
-    align-items: center; /* Align items along the Y-axis */
+    align-items: left; /* Align items along the Y-axis */
   }
 
   .hamburger {
