@@ -5,6 +5,7 @@ eleventyNavigation:
   key: Portfolio
   order: 1
 entries:
+  - estuary
   - te-wahi
   - sophia
   - hapori
