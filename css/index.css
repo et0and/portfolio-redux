@@ -187,6 +187,7 @@ img.big-img {
   margin-right: -50vw;
   max-width: 100vw;
   width: 100vw;
+  z-index: 1;
 }
 
 video {
@@ -232,6 +233,7 @@ Layout / global includes
   top: 0;
   left: 0;
   right: 0;
+  z-index: 2000;
 }
 
 .site-header::before {
