@@ -232,8 +232,24 @@ Layout / global includes
   top: 0;
   left: 0;
   right: 0;
+}
+
+.site-header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  
+  /* Gradient background */
   background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
-  backdrop-filter: blur(5px); /* Apply a blur effect (optional) */
+  
+  /* Apply a fixed blur effect */
+  backdrop-filter: blur(5px);
+  
+  /* Ensure the pseudo-element stays below the header content */
+  z-index: -1;
 }
 
 .site-name {
