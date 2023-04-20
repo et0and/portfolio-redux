@@ -726,6 +726,7 @@ Pagination
 
   .hamburger .close-icon {
     display: none;
+    align-items: right;
   }
 
   /* Show the menu when the checkbox is checked */
