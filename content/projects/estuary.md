@@ -18,9 +18,10 @@ Ongoing project</small>
 
 ---
 
-This case study page is still being developed. Check back again later.
 
-<div class="overview">
+This case study page is still being developed. Please check back again later.
+
+<!--div class="overview">
 <h3>Summary</h3>
 
 Estuary is an new web app that empowers students to preserve and share their family's local histories. By uploading audio recordings of elder family members, students can create a decentralized, accessible archive of oral narratives. With QR codes linking to these priceless stories, Estuary fosters intergenerational connections and enriches the school histories curriculum, while celebrating the unique heritage of local communities.
@@ -90,7 +91,7 @@ The Estuary web app is currently in the testing phase, with students using the p
 
 <h3>Conclusion</h3>
 
-The Estuary project aims to empower students to preserve and share their local histories through a simple and user-friendly web app. By engaging with the community and iterating based on user feedback, the project team seeks to create a valuable resource that will not only enrich the school histories curriculum but also strengthen the bond between generations and communities.
+The Estuary project aims to empower students to preserve and share their local histories through a simple and user-friendly web app. By engaging with the community and iterating based on user feedback, the project team seeks to create a valuable resource that will not only enrich the school histories curriculum but also strengthen the bond between generations and communities. -->
 
 
 
