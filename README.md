@@ -1,8 +1,8 @@
 # Portfolio Redux
 
-![Screenshot of website](screen.png)
+![Screenshot of website](tomso.webp)
 
-Built using [Eleventy](https://www.11ty.dev/), and forked from Sam Baldwin and Piper Haywood's [Portfolio Starter](https://portfolio-starter.sb-ph.com/) theme. All thanks and credits to them - all I have done is hack the theme to my liking.
+Built using [Eleventy](https://www.11ty.dev/), and forked from Sam Baldwin and Piper Haywood's [Portfolio Starter](https://portfolio-starter.sb-ph.com/) theme. All thanks and credits to them - all I have done is hack the project to my liking.
 
 This is a great template to use for showcasing work. It is lightweight, simple to read and only really requires knowledge of Markdown to post.
 
@@ -16,8 +16,6 @@ Build command: `npx @11ty/eleventy`
 Output directory: `_site`
 
 From the Vercel dashboard you can set things like redirects, custom domains, and so on.
-
-The source of my site is hosted both on GitHub and Sourcehut. Any future projects that I embark on will do the same, with the hope that eventually I can migrate all of my development onto Sourcehut.
 
 Deploy using Vercel below
 
