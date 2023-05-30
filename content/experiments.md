@@ -80,6 +80,9 @@ Small creative experiments that I have worked on outside of my design work
 [Some Quiet Tips](/projects/some-quiet-tips)
 ↳ A mental health resource
 
+[TXTRNZ](/projects/txtrnz)
+↳ A text-only version of the RNZ news site
+
 [WWW](/projects/www)
 ↳ A collection of site on the World Wide Web
 
