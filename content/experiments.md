@@ -70,7 +70,7 @@ Small creative experiments that I have worked on outside of my design work
 [Poetics of Space](/projects/poetics-of-space)
 ↳ A research archive on spaces
 
-[Tea]
+[Tea](/projects/tea)
 ↳ A research page dedicated to different types of tea (work in progress)
 
 ---
