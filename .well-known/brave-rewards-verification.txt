@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: tom.so
-Token: 3ed2890864cda9c8e06e46aaf961c5a9787443fff634c20a4eb1c09e22098712
