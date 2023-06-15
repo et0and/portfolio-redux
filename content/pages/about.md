@@ -27,21 +27,15 @@ I am a product designer with a background in the arts and education. I have expe
 
 My experience in making learning more accessible and equitable across a range of students from different backgrounds and abilities built the foundation of my human-centered design practice. Anything I make or work on is [guided by these set of values](/values "a list of values I work by").
 
-Previously I studied at the [Elam School of Fine Arts](https://elamartists.ac.nz/), where I also briefly taught the first and second year studio programme. 
+Previously I studied at the [Elam School of Fine Arts](https://elamartists.ac.nz/ "Elam School of Fine Arts"), where I also briefly taught the first and second year studio programme. 
 
 Find me on [are.na](https://are.na/tom-y "Are.na"), [LinkedIn](https://linkedin.com/in/tom-hackshaw "LinkedIn"), [Twitter](https://twitter.com/tomhackshaw "Twitter"), [Merveilles](https://merveilles.town/@tomupom "Merveilles, a Mastodon instance")
-
-<br><br>
-
-[View Resume](https://tom.so/media/cv.pdf)
 
 <br><br>
 
 ---
 
 I would like to acknowledge Māori as tangata whenua and Treaty of Waitangi partners in Aotearoa New Zealand. I pay my respects to the mana whenua who are the original and continued rightful stewards of the land that I love and on which I work and reside.
-
-Tom Hackshaw
 
 ---
 
