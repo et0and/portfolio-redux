@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Portfolio
+title: Home
 eleventyNavigation:
   key: Portfolio
   order: 1
