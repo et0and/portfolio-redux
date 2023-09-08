@@ -348,8 +348,6 @@ Homepage
 .home-block img:not([width]),
 .home-block video:not([width]) {
   width: 100%;
-  display: flex;
-  justify-content: center;
 }
 
 .home-block-title {
