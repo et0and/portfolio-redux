@@ -305,7 +305,6 @@ Homepage
   margin-bottom: 5rem;
   margin-left: auto;
   margin-right: auto;
-  align-items: center;
   max-width: var(--width-textcol);
 }
 
@@ -347,6 +346,7 @@ Homepage
 .home-block img:not([width]),
 .home-block video:not([width]) {
   width: 100%;
+  align-items: center;
 }
 
 .home-block-title {
