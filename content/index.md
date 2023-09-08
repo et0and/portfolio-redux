@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-![Black and white scribble drawing](/media/a-drawing.jpg)
+![Black and white scribble drawing](/media/image.jpg)
 
 b. 1995
 
