@@ -305,6 +305,7 @@ Homepage
   margin-bottom: 5rem;
   margin-left: auto;
   margin-right: auto;
+  align-items: center;
   max-width: var(--width-textcol);
 }
 
