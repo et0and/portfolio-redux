@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: work
 title: Work
 eleventyNavigation:
   key: Work
