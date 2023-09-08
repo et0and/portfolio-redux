@@ -3,7 +3,6 @@ layout: home
 title: Home
 ---
 
-![Image of a chess board locked in a French Defense](/media/frenchdefense.png)
 
 b. 1995
 
