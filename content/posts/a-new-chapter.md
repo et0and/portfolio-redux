@@ -4,7 +4,7 @@ title: A new chapter
 date: 2023-09-08 00:04:00
 ---
 
-* Surnames have been left out to maintain the privacy of the individuals mentioned below
+**Note:** Surnames have been left out to maintain the privacy of the individuals mentioned below
 
 Several months ago now, I taught my last class and resigned from teaching after having done it for the past three years.
 
