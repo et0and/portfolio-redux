@@ -51,7 +51,8 @@ BFA (Hons), The University of Auckland, 2014-2017
 
 <div class="insightgreen">
 
-<small>🌳 This website has been designed to minimise the energy consumption and CO2 emissions that result from navigating the Internet. Current emissions are available to view on [Website Carbon Calculator](https://www.websitecarbon.com/website/tom-so/ "Website Carbon Calculator for tom.so"). [Technical information about this site](/siteinfo "some information on how this site has been built").</small>
+<small>🌳 This website has been designed to minimise the energy consumption and CO2 emissions that result from navigating the Internet. Current emissions are available to view on [Website Carbon Calculator](https://www.websitecarbon.com/website/tom-so/ "Website Carbon Calculator for tom.so"). <br/>
+[Technical information about this site](/siteinfo "some information on how this site has been built").</small>
 
 </div>
 
