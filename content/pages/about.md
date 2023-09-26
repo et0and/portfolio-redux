@@ -23,7 +23,7 @@ the people will prosper"
 <br><br>
 
 Hi, I'm Tom,
-I am a product designer with a background in the arts and education. I have experience in visual arts and design teaching where I developed my leadership and communication skills.
+I am a designer with a background in the arts and education. Presently I am working as a web producer in Pōneke, Te Whanganui-a-Tara. Prior to this, I taught design, art and digital technology at [Takapuna Grammar School](https://takapuna.school.nz), where I also worked on the development of [Te Wāhi Auaha](https://tewahi.com) (a school maker space and innovation space).
 
 My experience in making learning more accessible and equitable across a range of students from different backgrounds and abilities built the foundation of my human-centered design practice. Anything I make or work on is [guided by these set of values](/values "a list of values I work by").
 
@@ -47,15 +47,11 @@ Foundations of UX Design, Google + Coursera, 2021
 Grad Dip Teaching (Secondary), The University of Auckland, 2019
 BFA (Hons), The University of Auckland, 2014-2017 
 
-**Awards** 
-Elam First in Course Award 2014-2017
-First Class Honours, The University of Auckland 2017
-
 <br><br>
 
 <div class="insightgreen">
 
-<small>🌳 This website has been designed to minimise the energy consumption and CO2 emissions that result from navigating the Internet. [To learn more about this click here](https://www.websitecarbon.com/website/tom-so/ "Website Carbon Calculator for tom.so"). Technical information about this site can be found [on this dedicated page](/siteinfo "some information on how this site has been built").</small>
+<small>🌳 This website has been designed to minimise the energy consumption and CO2 emissions that result from navigating the Internet. Current emissions are available to view on [Website Carbon Calculator](https://www.websitecarbon.com/website/tom-so/ "Website Carbon Calculator for tom.so"). [Technical information about this site](/siteinfo "some information on how this site has been built").</small>
 
 </div>
 
