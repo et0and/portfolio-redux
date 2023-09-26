@@ -19,7 +19,7 @@ Using tools such as WAVE, NVDA, axe DevTools and Lighthouse I am working towards
         <li>colour contrast is not AA level or higher in some areas</li>
         <li>improper ordering of headers on some pages</li>
         <li>email address obfuscation affects some screen readers</li>
-        use of technical language on some pages that could use <a href="https://www.digital.govt.nz/standards-and-guidance/design-and-ux/content-design-guidance/writing-style/plain-language/" title="Guidance on using plain language on documents">plain language</li>
+        use of technical language on some pages that could use <a href="https://www.digital.govt.nz/standards-and-guidance/design-and-ux/content-design-guidance/writing-style/plain-language/" title="Guidance on using plain language on documents">plain language</a></li>
     </ul>
 
 In the meantime, how has your experience been so far? Type below to let me know, and include your email if you'd like a reply 
