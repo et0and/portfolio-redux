@@ -22,17 +22,6 @@ Using tools such as WAVE, NVDA, axe DevTools and Lighthouse I am working towards
         use of technical language on some pages that could use <a href="https://www.digital.govt.nz/standards-and-guidance/design-and-ux/content-design-guidance/writing-style/plain-language/" title="Guidance on using plain language on documents">plain language</a></li>
     </ul>
 
-In the meantime, how has your experience been so far? Type below to let me know, and include your email if you'd like a reply 
-
 <br><br>
-
-<form class="contactform" action="https://formsubmit.io/send/7078d347-1e36-4e2f-9e0d-ab9e17eed096" method="POST">
-    <input name="_redirect" type="hidden" value="https://tom.so/message/">
-    <textarea name="comment" id="comment" class="input-clean" placeholder="Write your message here"></textarea>
-    <input name="_formsubmit_id" type="text" style="display:none">
-        <div class="contactsend">
-        <input type="submit" value="Send" class="send button">
-        </div>
-</form>
 
 
