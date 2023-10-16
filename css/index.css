@@ -140,7 +140,13 @@ a {
   text-decoration: underline;
 }
 
-a:focus,
+a:focus {
+  outline-style: double;
+  outline-color: #000;
+  outline-width: 2px;
+  text-decoration: underline;
+}
+
 a:hover {
   text-decoration: underline;
   color: inherit;
