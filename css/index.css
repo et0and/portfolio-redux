@@ -145,6 +145,7 @@ a:focus {
   outline-color: #000;
   outline-width: 2px;
   text-decoration: underline;
+  background-color: #fc0;
 }
 
 a:hover {
