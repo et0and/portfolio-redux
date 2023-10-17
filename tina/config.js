@@ -10,7 +10,7 @@ export default defineConfig({
 
   build: {
     outputFolder: "admin",
-    publicFolder: "content/media",
+    publicFolder: "content",
   },
   media: {
     tina: {
