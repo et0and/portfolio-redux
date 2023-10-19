@@ -11,9 +11,6 @@ jobs:
         with:
           paths: ./content/pages/*
                  ./content/posts/*
-                 ./content/projects/*
                  ./content/experiments/*
-                 ./content/media/*
           concurrency: 1
           markdown: true
-          linksToSkip: https://tom.so/siteinfo
