@@ -1,7 +1,7 @@
 name: Linkinator
 on: [push]
 jobs:
-  Explore-GitHub-Actions:
+  Broken-Links-Check:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
@@ -9,11 +9,11 @@ jobs:
       - name: Linkinator
         uses: JustinBeckwith/linkinator-action@v1.10.4
         with:
-          paths: content/pages/*
-                 content/posts/*
-                 content/projects/*
-                 content/experiments/*
+          paths: ./content/pages/*
+                 ./content/posts/*
+                 ./content/projects/*
+                 ./content/experiments/*
+                 ./content/media/*
           concurrency: 1
           markdown: true
           recurse: true
-          linksToSkip: https://tom.so/media/*
