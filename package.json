@@ -58,6 +58,7 @@
     "markdown-it-anchor": "^5.2.5"
   },
   "dependencies": {
-    "@tinacms/cli": "^1.5.30"
+    "@tinacms/cli": "^1.5.30",
+    "tinacms": "^1.5.21"
   }
 }
