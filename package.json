@@ -50,7 +50,7 @@
   },
   "homepage": "https://github.com/sb-ph/portfolio-starter#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0",
+    "@11ty/eleventy": "^0.11",
     "@11ty/eleventy-navigation": "^0.1.5",
     "@11ty/eleventy-plugin-rss": "^1.0.7",
     "luxon": "^1.22.2",
