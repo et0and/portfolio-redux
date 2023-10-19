@@ -1,0 +1,10 @@
+name: Linkinator
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Linkinator
+        uses: JustinBeckwith/linkinator-action@v1.10.4
