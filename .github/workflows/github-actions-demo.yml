@@ -9,11 +9,11 @@ jobs:
       - name: Linkinator
         uses: JustinBeckwith/linkinator-action@v1.10.4
         with:
-          paths: content/pages/*.md
-                 content/posts/*.md
-                 content/projects/*.md
-                 content/experiments/*.md
-
+          paths: pages/*.md
+                 posts/*.md
+                 projects/*.md
+                 experiments/*.md
           concurrency: 1
           markdown: true
           recurse: true
+          linksToSkip: media/*
