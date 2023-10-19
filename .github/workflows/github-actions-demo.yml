@@ -16,4 +16,4 @@ jobs:
                  ./content/media/*
           concurrency: 1
           markdown: true
-          recurse: true
+          linksToSkip: https://tom.so/siteinfo
