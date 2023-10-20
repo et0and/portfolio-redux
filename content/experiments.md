@@ -24,7 +24,7 @@ Small creative experiments that I have worked on outside of my design work
 
 <h3>Art</h3>
 
-[An Idea for a Performance](/projects/an-idea-for-a-performance "An idea generator")
+[An Idea for a Performance](/experiments/an-idea-for-a-performance "An idea generator")
 ↳ A tool for generating ideas
 
 [Hyperjam](/projects/hyperjam "Hyperjam art festival")
