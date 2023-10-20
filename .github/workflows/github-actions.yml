@@ -1,0 +1,16 @@
+name: Linkinator
+on: [push]
+jobs:
+  Broken-Links-Check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Linkinator
+        uses: JustinBeckwith/linkinator-action@v1.10.4
+        with:
+          paths: ./content/pages/*
+                 ./content/posts/*
+                 ./content/experiments/*
+          concurrency: 1
+          markdown: true
