@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: "/experiments/{{ page.fileSlug }}/index.html"
+permalink: "/experiment/{{ page.fileSlug }}/index.html"
 ---
 
 <article class="experiment">
@@ -25,8 +25,8 @@ permalink: "/experiments/{{ page.fileSlug }}/index.html"
   {% endif %}
 </article>
 
-{% set next = collections.experiments | nextInCollection(page.fileSlug) %}
-{% set previous = collections.experiments | prevInCollection(page.fileSlug) %}
+{% set next = collections.experiment | nextInCollection(page.fileSlug) %}
+{% set previous = collections.experiment | prevInCollection(page.fileSlug) %}
 
 {% if next or previous%}
   <div class="pagination">
