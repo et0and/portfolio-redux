@@ -11,6 +11,6 @@ jobs:
         with:
           paths: ./content/pages/*
                  ./content/posts/*
-                 ./content/experiments/*
+                 ./content/experiment/*
           concurrency: 1
           markdown: true
