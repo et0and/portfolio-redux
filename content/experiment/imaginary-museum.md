@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experiment
 title: Imaginary Museum
 dateEnd: 2020-04-20
 ---

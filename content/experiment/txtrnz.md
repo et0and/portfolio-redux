@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experiment
 title: TXTRNZ
 dateEnd: 2022-05-30
 ---

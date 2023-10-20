@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experiment
 title: Maia
 dateEnd: 2020-06-09
 media:

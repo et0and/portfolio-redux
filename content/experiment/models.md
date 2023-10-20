@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experiment
 title: Models
 dateEnd: 2020-11-18
 media:

@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experiment
 title: The Museum Without Walls
 dateEnd: 2020-04-03
 media:

@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experiment
 title: Philemon
 dateEnd: 2019-01-07
 media:

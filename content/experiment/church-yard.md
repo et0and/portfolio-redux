@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experiment
 title: Church Yard
 dateEnd: 2020-04-20
 media:

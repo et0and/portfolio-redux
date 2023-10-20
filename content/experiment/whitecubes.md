@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experiment
 title: Whitecubes
 dateEnd: 2019-04-21
 media:
@@ -10,6 +10,6 @@ media:
     caption: Screenshot of Whitecubes
 ---
 
-[Whitecubes](https://whiecubes.tom.so) is a map of all public art galleries in Tāmaki Makaurau, Aotearoa. Built using Leaflet JS and OpenStreetMap.
+[Whitecubes](https://whitecubes.tom.so) is a map of all public art galleries in Tāmaki Makaurau, Aotearoa. Built using Leaflet JS and OpenStreetMap.
 
 MIT licensed. Source code [available here](https://github.com/et0and/whitecubes).

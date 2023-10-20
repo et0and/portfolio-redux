@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experiment
 title: Future Asian Community
 dateEnd: 2020-03-20
 ---

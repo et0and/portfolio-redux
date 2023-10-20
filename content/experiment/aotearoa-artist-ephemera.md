@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experiment
 title: Aotearoa Artist Ephemera
 dateEnd: 2019-04-05
 media:
