@@ -29,7 +29,7 @@ My experience in making learning more accessible and equitable across a range of
 
 Previously I studied at the [Elam School of Fine Arts](https://elamartists.ac.nz/ "Elam School of Fine Arts"), where I also briefly taught the first and second year studio programme. 
 
-Find me on [are.na](https://are.na/tom-y "Are.na"), [LinkedIn](https://linkedin.com/in/tom-hackshaw "LinkedIn"), [Twitter](https://twitter.com/tomhackshaw "Twitter"), [Merveilles](https://merveilles.town/@tomupom "Merveilles, a Mastodon instance")
+Find me on [are.na](https://are.na/tom "Are.na"), [LinkedIn](https://linkedin.com/in/tom-hackshaw "LinkedIn"), [Twitter](https://twitter.com/tomhackshaw "Twitter"), [Merveilles](https://merveilles.town/@tomupom "Merveilles, a Mastodon instance")
 
 <br><br>
 

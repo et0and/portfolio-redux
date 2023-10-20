@@ -70,7 +70,7 @@ Based on the research findings, a minimum viable product (MVP) of the Estuary we
 - Store the uploaded content on IPFS, ensuring a decentralized and secure storage system
 - Generate QR codes for each uploaded history, enabling easy sharing and discovery
 
-[Infura](https://infura.io) was chosen to provide the IPFS storage and delivery infrastructure due to its low cost and stability, while [Vercel] was chosen for deploying the app itself and handling environment variables.  
+Infurahttps://infura.io was chosen to provide the IPFS storage and delivery infrastructure due to its low cost and stability, while [Vercel](https://vercel.com) was chosen for deploying the app itself and handling environment variables.  
 
 <br><br>
 ---

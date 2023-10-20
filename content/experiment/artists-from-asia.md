@@ -10,4 +10,4 @@ media:
     caption: "[Atsuko Tanaka 田中 敦子, Electric Dress (1956)](https://www.are.na/block/5408388)"
 ---
 
-[Artists from Asia](https://artistsfrom.asia) is a growing list of past and present artists from Asia, built using Javascript and the are.na API. Still under active construction.
+[Artists from Asia](https://www.are.na/tom/artists-from-asia) is a growing list of past and present artists from Asia. Still under construction.

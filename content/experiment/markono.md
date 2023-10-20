@@ -10,7 +10,7 @@ media:
     caption: "[The King Wen sequence of hexagrams, taken from the Book of Changes 易經 &nearr;](https://en.wikipedia.org/wiki/I_Ching)"
 ---
 
-[Markono](https://changes.tom.org.nz) ("Markov-Ono", previously titled RandP) is a program for generating chance performances and instructions. The program uses a Markov Chain that has been trained with Yoko Ono's Grapefruit and Acorn books.
+[Markono](https://dada.tom.so) ("Markov-Ono", previously titled RandP) is a program for generating chance performances and instructions. The program uses a Markov Chain that has been trained with Yoko Ono's Grapefruit and Acorn books.
 
 Data is read as JSON and output to plain text, while the program itself is written in vanilla JavaScript.
 
