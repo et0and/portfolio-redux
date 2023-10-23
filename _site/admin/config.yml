@@ -3,7 +3,7 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: "content/media" 
 site_url: https://tom.so
-
+logo_url: https://tom.so/media/favicon.ico
 
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
