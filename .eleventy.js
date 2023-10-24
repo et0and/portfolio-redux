@@ -183,7 +183,7 @@ module.exports = function (config) {
     dir: {
       data: "content/_data",
     },
-    templateFormats: ["njk", "md", "html", "liquid"],
+    templateFormats: ["njk", "md", "html"],
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
     passthroughFileCopy: true,
