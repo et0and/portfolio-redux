@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Future content improvements
-date: 2023-10-23T23:11:17.468Z
+date: 2023-10-23
 ---
 ## Some background
 
