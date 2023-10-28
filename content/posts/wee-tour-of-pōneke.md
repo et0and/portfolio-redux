@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wee tour of Pōneke
-date: 2023-10-28T09:07:51.129Z
+date: 2023-10-28 09:07:51
 ---
 ![Library and study room inside Space Place, Wellington](/content/media/img_1130.jpg "Library and study room inside Space Place, Wellington")
 
