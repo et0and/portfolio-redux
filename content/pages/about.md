@@ -29,7 +29,7 @@ My experience in making learning more accessible and equitable across a range of
 
 Previously I studied at the [Elam School of Fine Arts](https://elamartists.ac.nz/ "Elam School of Fine Arts"), where I also briefly taught the first and second year studio programme. 
 
-Find me on [are.na](https://are.na/tom "Are.na"), [LinkedIn](https://linkedin.com/in/tom-hackshaw "LinkedIn"), [Merveilles](https://merveilles.town/@tomupom "Merveilles, a Mastodon instance")
+Find me on [are.na](https://are.na/tom "Are.na"), [Read.cv](https://read.cv/hackshaw "Read.cv"), [Merveilles](https://merveilles.town/@tomupom "Merveilles, a Mastodon instance"). I have accounts on other popular social media sites, but rarely use them.
 
 <br><br>
 
@@ -52,7 +52,7 @@ BFA (Hons), The University of Auckland, 2014-2017
 <div class="insightgreen">
 
 <small>🌳 This website has been designed to minimise the energy consumption and CO2 emissions that result from navigating the Internet. Current emissions are available to view on [Website Carbon Calculator](https://www.websitecarbon.com/website/tom-so/ "Website Carbon Calculator for tom.so"). <br/>
-[Technical information about this site](/siteinfo "some information on how this site has been built").</small>
+[Technical information about this site](/siteinfo "Some information on how this site has been built").</small>
 
 </div>
 
