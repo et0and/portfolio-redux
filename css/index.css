@@ -82,7 +82,7 @@ body {
   font-weight: var(--font-weight-normal);
   line-height: var(--line-height);
   margin: 0;
-  min-height: 100vh;
+/*  min-height: 100vh; */
   display: flex;
   flex-direction: column;
   overflow-x: hidden;
@@ -775,7 +775,6 @@ Pagination
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* This will make the container take up the full viewport height */
 }
 
 
