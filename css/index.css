@@ -750,7 +750,7 @@ Pagination
   }
 
   .hamburger-checkbox:checked ~ .hamburger .close-icon {
-    display: inline;
+    display: none;
   }
 
   .hamburger-checkbox:checked ~ .site-header {
