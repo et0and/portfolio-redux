@@ -770,3 +770,13 @@ Pagination
     display: none;
   }
 }
+
+.game-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+#gameCanvas {
+  display: block;
+}
