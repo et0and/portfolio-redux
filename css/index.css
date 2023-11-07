@@ -82,7 +82,7 @@ body {
   font-weight: var(--font-weight-normal);
   line-height: var(--line-height);
   margin: 0;
-/*  min-height: 100vh; */
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   overflow-x: hidden;
@@ -291,7 +291,7 @@ Layout / global includes
 .site-footer {
   font-size: var(--font-size-medium);
   margin-top: auto;
-  margin-bottom: 0;
+  margin-bottom: 1rem;
   margin-left: auto;
   margin-right: auto;
   max-width: 100%;
