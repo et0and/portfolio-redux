@@ -109,8 +109,13 @@ function getNextState(grid, x, y) {
 
 // Render the grid on a canvas
 let canvas = document.getElementById('gameCanvas');
+let container = document.querySelector('.game-container');
 let context = canvas.getContext('2d');
 let cellSize = 10;
+
+// Set the size of the canvas to the size of the container
+canvas.width = container.clientWidth;
+canvas.height = container.clientHeight;
 
 for (let i = 0; i < grid.length; i++) {
   for (let j = 0; j < grid[i].length; j++) {
@@ -119,6 +124,12 @@ for (let i = 0; i < grid.length; i++) {
       }
   }
 }
+
+// Update the size of the canvas whenever the window is resized
+window.addEventListener('resize', () => {
+  canvas.width = container.clientWidth;
+  canvas.height = container.clientHeight;
+});
 
 // Update the grid and re-render
 setInterval(() => {
