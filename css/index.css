@@ -772,10 +772,12 @@ Pagination
 }
 
 .game-container {
-  width: 100%;
   display: flex;
   justify-content: center;
+  align-items: center;
+  height: 100vh; /* This will make the container take up the full viewport height */
 }
+
 
 #gameCanvas {
   display: block;
