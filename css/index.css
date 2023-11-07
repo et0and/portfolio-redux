@@ -728,7 +728,6 @@ Pagination
     background-color: #000;
     color: #fff;
     align-items: left; /* Align items along the Y-axis */
-    border-radius: 1rem;
   }
 
   .hamburger {
