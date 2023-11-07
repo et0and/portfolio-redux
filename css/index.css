@@ -551,6 +551,12 @@ Contact form
   margin-bottom: 1.5rem;
 }
 
+.input-clean:focus {
+  outline-style: double;
+  outline-width: 4px;
+  outline-color: #fc0;
+}
+
 .contactsend {
   width: 100%;
   text-align: center;
