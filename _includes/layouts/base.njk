@@ -64,5 +64,82 @@
     });
   }
 </script>
+
+<script>
+// Create a grid
+let grid = new Array(75);
+for (let i = 0; i < grid.length; i++) {
+  grid[i] = new Array(40);
+}
+
+// Initialize the grid
+for (let i = 0; i < grid.length; i++) {
+  for (let j = 0; j < grid[i].length; j++) {
+      grid[i][j] = Math.random() < 0.5;
+  }
+}
+
+// Function to count alive neighbors
+function countAliveNeighbors(grid, x, y) {
+  let count = 0;
+  for (let i = -1; i <= 1; i++) {
+      for (let j = -1; j <= 1; j++) {
+          if (i === 0 && j === 0) continue;
+          let newX = x + i;
+          let newY = y + j;
+          if (newX >= 0 && newX < grid.length && newY >= 0 && newY < grid[newX].length && grid[newX][newY]) {
+              count++;
+          }
+      }
+  }
+  return count;
+}
+
+// Function to get the next state of a cell
+function getNextState(grid, x, y) {
+  let aliveNeighbors = countAliveNeighbors(grid, x, y);
+  if (grid[x][y] && (aliveNeighbors === 2 || aliveNeighbors === 3)) {
+      return true;
+  } else if (!grid[x][y] && aliveNeighbors === 3) {
+      return true;
+  } else {
+      return false;
+  }
+}
+
+// Render the grid on a canvas
+let canvas = document.getElementById('gameCanvas');
+let context = canvas.getContext('2d');
+let cellSize = 10;
+
+for (let i = 0; i < grid.length; i++) {
+  for (let j = 0; j < grid[i].length; j++) {
+      if (grid[i][j]) {
+          context.fillRect(i * cellSize, j * cellSize, cellSize, cellSize);
+      }
+  }
+}
+
+// Update the grid and re-render
+setInterval(() => {
+  let nextGrid = new Array(75);
+  for (let i = 0; i < nextGrid.length; i++) {
+      nextGrid[i] = new Array(40);
+      for (let j = 0; j < nextGrid[i].length; j++) {
+          nextGrid[i][j] = getNextState(grid, i, j);
+      }
+  }
+  grid = nextGrid;
+  context.clearRect(0, 0, canvas.width, canvas.height);
+  for (let i = 0; i < grid.length; i++) {
+      for (let j = 0; j < grid[i].length; j++) {
+          if (grid[i][j]) {
+              context.fillRect(i * cellSize, j * cellSize, cellSize, cellSize);
+          }
+      }
+  }
+}, 100);
+</script>
+
   </body>
 </html>
