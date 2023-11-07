@@ -714,7 +714,6 @@ Pagination
 
 .hamburger .close-icon {
   display: none;
-  align-items: right;
 }
 
 /* Hide the navigation menu and show the hamburger icon on mobile devices */
@@ -726,7 +725,8 @@ Pagination
     padding-top: 1rem;
     padding-left: 1rem;
     padding-bottom: 1rem;
-    background-color: #fff;
+    background-color: #000;
+    color: #fff;
     align-items: left; /* Align items along the Y-axis */
     border-radius: 1rem;
   }
