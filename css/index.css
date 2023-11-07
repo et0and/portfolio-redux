@@ -137,7 +137,7 @@ p {
 
 a {
   color: inherit;
-  text-decoration: underline;
+  text-decoration: wavy;
 }
 
 a:focus {
