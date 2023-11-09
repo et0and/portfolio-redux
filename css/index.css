@@ -744,6 +744,11 @@ Pagination
     align-items: left; /* Align items along the Y-axis */
   }
 
+  .site-footer {
+  	margin-left: 0;
+  	margin-right: 0;
+  }
+
   .site-footer > p {
   	padding-left: 1rem;
   }
