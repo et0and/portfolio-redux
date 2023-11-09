@@ -301,7 +301,6 @@ Layout / global includes
 
 .site-footer > p {
   margin-bottom: 0;
-  padding-left: 1rem;
 }
 
 /*
@@ -742,13 +741,6 @@ Pagination
     background-color: #000;
     color: #fff;
     align-items: left; /* Align items along the Y-axis */
-  }
-
-  .site-footer {
-  }
-
-  .site-footer > p {
-  	padding-left: 1rem;
   }
 
   .hamburger {
