@@ -748,6 +748,7 @@ Pagination
   }
 
   .site-footer > p {
+  	padding-left: 1rem;
   }
 
   .hamburger {
