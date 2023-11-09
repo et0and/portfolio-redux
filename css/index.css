@@ -86,7 +86,8 @@ body {
   display: flex;
   flex-direction: column;
   overflow-x: hidden;
-  padding: 0 var(--padding-container);
+  padding-top: 4rem;
+  box-sizing: border-box;
   color: #000000;
   background: #ffffff;
 }
