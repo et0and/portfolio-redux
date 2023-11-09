@@ -744,12 +744,8 @@ Pagination
     align-items: left; /* Align items along the Y-axis */
   }
 
-  .site-footer {
-  	padding-left: var(--padding-container);
-  }
-
   .site-footer > p {
-  	padding-left: var(--padding-container);
+  	padding-left: 1rem;
   }
 
   .hamburger {
