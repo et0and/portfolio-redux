@@ -297,7 +297,6 @@ Layout / global includes
   margin-right: auto;
   max-width: 100%;
   width: var(--width-container);
-  padding-left: var(--padding-container);
 }
 
 .site-footer > p {
