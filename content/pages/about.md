@@ -29,7 +29,7 @@ My experience in making learning more accessible and equitable across a range of
 
 Previously I studied at the [Elam School of Fine Arts](https://elamartists.ac.nz/ "Elam School of Fine Arts"), where I also briefly taught the first and second year studio programme. 
 
-Find me on [are.na](https://are.na/tom "Are.na"), [Read.cv](https://read.cv/hackshaw "Read.cv"), [Merveilles](https://merveilles.town/@tomupom "Merveilles, a Mastodon instance"). Sometimes, I am on IRC as @tomupom on [Libera Chat](https://libera.chat/) and [Rizon](https://rizon.net/) networks. You can also find me on [Urbit](https://urbit.org) as `~worbur-dorneb`, and Nostr as `npub1lm7htjfqkf9lmxl8k6c0n4ntpxpuzck6xjtmhaqv07mpelnrajcsj2kvjl`
+Find me on [are.na](https://are.na/tom "Are.na"), [Read.cv](https://read.cv/hackshaw "Read.cv"), [Merveilles](https://merveilles.town/@tomupom "Merveilles, a Mastodon instance"). Sometimes, I am on IRC as @tomupom on [Libera Chat](https://libera.chat/) and [Rizon](https://rizon.net/) networks. You can also find me on [Urbit](https://urbit.org) as `~worbur-dorneb`.
 
 I have accounts on other popular social media sites, but rarely use them.
 
