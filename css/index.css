@@ -301,7 +301,7 @@ Layout / global includes
 
 .site-footer > p {
   margin-bottom: 0;
-  padding-left: var(--padding-container);
+  padding-left: 1rem;
 }
 
 /*
