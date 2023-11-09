@@ -748,6 +748,10 @@ Pagination
   	padding-left: var(--padding-container);
   }
 
+  .site-footer > p {
+  	padding-left: var(--padding-container);
+  }
+
   .hamburger {
     display: block;
   }
