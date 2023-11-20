@@ -4,7 +4,7 @@ title: Whitecubes
 dateEnd: 2019-04-21
 media:
   - type: image
-    filename: whitecubes.png
+    filename: whitecubes.webp
     size: sm
     alt: Screenshot of an online map with coloured red and blue pins for where art galleries are located
     caption: Screenshot of Whitecubes
