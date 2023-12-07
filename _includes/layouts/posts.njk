@@ -16,7 +16,7 @@ permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
 </div>
 
    <script>
-      fetch('https://tom.so/media/posts.json')
+      fetch('posts.json')
       .then(response => response.json())
       .then(data => {
        const fuse = new Fuse(blogPosts, {
