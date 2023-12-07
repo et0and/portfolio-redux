@@ -796,3 +796,202 @@ Pagination
 #gameCanvas {
   display: block;
 }
+
+.form-group{
+  margin-bottom:20px
+}
+.form-group:after{
+  content:"";
+  display:block;
+  clear:both
+}
+@media(min-width: 40.0625em){
+  .form-group{
+      margin-bottom:30px
+  }
+}
+.form-group .form-group:last-of-type{
+  margin-bottom:0
+}
+.form-group--error{
+  padding-left:15px;
+  border-left:5px solid #d4351c
+}
+.form-group--error .form-group{
+  padding:0;
+  border:0
+}
+
+.form-input{
+  box-sizing:border-box;
+  width:100%;
+  height:40px;
+  height:2.5rem;
+  margin-top:0;
+  padding:5px;
+  border:2px solid #0b0c0c;
+  border-radius:0;
+  -webkit-appearance:none;
+  appearance:none
+}
+@media print{
+  .form-input{
+      font-family:sans-serif
+  }
+}
+@media(min-width: 40.0625em){
+  .form-input{
+      font-size:19px;
+      font-size:1.1875rem;
+      line-height:1.3157894737
+  }
+}
+@media print{
+  .form-input{
+      font-size:14pt;
+      line-height:1.15
+  }
+}
+.form-input:focus{
+  outline:3px solid #fd0;
+  outline-offset:0;
+  box-shadow:inset 0 0 0 2px
+}
+.form-input:disabled{
+  opacity:.5;
+  color:inherit;
+  background-color:rgba(0,0,0,0);
+  cursor:not-allowed
+}
+.form-input::-webkit-outer-spin-button,.form-input::-webkit-inner-spin-button{
+  margin:0;
+  -webkit-appearance:none
+}
+.form-input[type=number]{
+  -moz-appearance:textfield
+}
+.form-input--error{
+  border-color:#d4351c
+}
+.form-input--error:focus{
+  border-color:#0b0c0c
+}
+.form-input--extra-letter-spacing{
+  
+  letter-spacing:.05em
+}
+@media print{
+  .form-input--extra-letter-spacing{
+      font-family:sans-serif
+  }
+}
+@supports(font-variant-numeric: tabular-nums){
+  .form-input--extra-letter-spacing{
+      -webkit-font-feature-settings:normal;
+      font-feature-settings:normal;
+      font-variant-numeric:tabular-nums
+  }
+}
+.form-input--width-30{
+  max-width:29.5em
+}
+.form-input--width-20{
+  max-width:20.5em
+}
+.form-input--width-10{
+  max-width:11.5em
+}
+.form-input--width-5{
+  max-width:5.5em
+}
+.form-input--width-4{
+  max-width:4.5em
+}
+.form-input--width-3{
+  max-width:3.75em
+}
+.form-input--width-2{
+  max-width:2.75em
+}
+.form-input__wrapper{
+  display:flex
+}
+.form-input__wrapper .form-input{
+  flex:0 1 auto
+}
+.form-input__wrapper .form-input:focus{
+  z-index:1
+}
+@media(max-width: 19.99em){
+  .form-input__wrapper{
+      display:block
+  }
+  .form-input__wrapper .form-input{
+      max-width:100%
+  }
+}
+.form-input__prefix,.form-input__suffix{
+  box-sizing:border-box;
+  display:inline-block;
+  min-width:40px;
+  min-width:2.5rem;
+  height:40px;
+  height:2.5rem;
+  padding:5px;
+  border:2px solid #0b0c0c;
+  background-color:#f3f2f1;
+  text-align:center;
+  white-space:nowrap;
+  cursor:default;
+  flex:0 0 auto
+}
+@media print{
+  .form-input__prefix,.form-input__suffix{
+      font-family:sans-serif
+  }
+}
+@media(min-width: 40.0625em){
+  .form-input__prefix,.form-input__suffix{
+      font-size:19px;
+      font-size:1.1875rem;
+      line-height:1.3157894737
+  }
+}
+@media print{
+  .form-input__prefix,.form-input__suffix{
+      font-size:14pt;
+      line-height:1.15
+  }
+}
+@media(max-width: 40.0525em){
+  .form-input__prefix,.form-input__suffix{
+      line-height:1.6
+  }
+}
+@media(max-width: 19.99em){
+  .form-input__prefix,.form-input__suffix{
+      display:block;
+      height:100%;
+      white-space:normal
+  }
+}
+@media(max-width: 19.99em){
+  .form-input__prefix{
+      border-bottom:0
+  }
+}
+@media(min-width: 20em){
+  .form-input__prefix{
+      border-right:0
+  }
+}
+@media(max-width: 19.99em){
+  .form-input__suffix{
+      border-top:0
+  }
+}
+@media(min-width: 20em){
+  .form-input__suffix{
+      border-left:0
+  }
+}
