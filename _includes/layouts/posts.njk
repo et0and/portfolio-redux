@@ -17,16 +17,40 @@ permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
 
    <script>
       const blogPosts = [
-        fetch('https://corsproxy.io/?https%3A%2F%2Ftom.so%2Fmedia%2Fposts.json')
-        .then(response => response.json())
-        .then(blogPosts => {
-          const fuse = new Fuse(blogPosts, {
-            keys: ['title', 'description', 'url'],
-            threshold: 0.3,
-            location: 0,
-            distance: 100,
-            caseSensitive: false
-          });
+           {
+        title: "Elmet Brae - The Land",
+        description: "Some of us from Merveilles, a loose collective that I’ve been part of for a while now, recently released a compilation of noise/drone/ambient music inspired by the idea of “the land”.",
+        url: "https://tom.so/posts/elmet-brae/"
+            },
+            {
+        title: "Something for November",
+        description: "The past few months have been great. Things have been moving at a slower pace, allowing me to be more reflective about my actions. ",
+        url: "https://tom.so/posts/something-for-november/"
+            },
+            {
+        title: "Wee tour of Pōneke",
+        description: "Myself and a few others who are new to our company were given a tour of some significant sites around Wellington/Pōneke recently.",
+        url: "https://tom.so/posts/wee-tour-of-p%C5%8Dneke/"
+            },
+            {
+        title: "Future content improvements",
+        description: "Since I first created this website, I have tried to be more aware of the issues around web accessibility (a11y).",
+        url: "https://tom.so/posts/future-content-improvements/"
+            },
+            {
+        title: "A new chapter",
+        description: "Several months ago now, I taught my last class and resigned from teaching after having done it for the past three years.",
+        url: "https://tom.so/posts/a-new-chapter/"
+            },
+       ];
+
+       const fuse = new Fuse(blogPosts, {
+           keys: ['title', 'description', 'url'],
+           threshold: 0.3,
+           location: 0,
+           distance: 100,
+           caseSensitive: false
+       });
 
        document.getElementById('searchForm').addEventListener('submit', function(event) {
            event.preventDefault();
