@@ -13,7 +13,7 @@ I am currently taking a variety of steps and devoting resources to further enhan
 
 Using tools such as WAVE, NVDA, axe DevTools and Lighthouse I am working towards greater accessibility of this website, and hope to work with an independent accessibility consultant sometime in the future to conduct a deeper audit.
 
-<h3>Known issues</h3>
+<h2>Known issues</h2>
     <ul>
         <li>colour contrast is not AA level or higher in some areas</li>
         <li>improper ordering of headers on some pages</li>
