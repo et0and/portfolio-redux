@@ -17,7 +17,7 @@ permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
 
    <script>
       const blogPosts = [
-        fetch('https://corsproxy.io/?https://tom.so/media/posts.json')
+        fetch('https://corsproxy.io/?https%3A%2F%2Ftom.so%2Fmedia%2Fposts.json')
         .then(response => response.json())
         .then(blogPosts => {
           const fuse = new Fuse(blogPosts, {
