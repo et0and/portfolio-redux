@@ -1,12 +1,15 @@
 ---
 layout: post
 title: Obsidian - an external rhizomatic brain
+description: Earlier this week I started using Obsidian, an offline tool similar to Roam that links and networks ideas
 date: 2020-06-23 16:00:00
 ---
 
 Earlier this week I started using [Obsidian](https://obsidian.md), an offline tool similar to [Roam](https://roamresearch.com) that links and networks ideas.
 
 ![Obsidian on a glossary of design terms page](/media/obsidian1.png)
+
+<!--more-->
 
 I have used a variety of tools in the past for note-taking. I've used Standard Notes, Left, and plain notebooks to keep a record of knowledge and things that I need to remember. Without recording information in some form, I find that I am constantly forgetting things that I've learnt and that recall is very difficult.
 

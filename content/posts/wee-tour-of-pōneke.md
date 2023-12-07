@@ -1,11 +1,14 @@
 ---
 layout: post
 title: Wee tour of Pōneke
+description: Myself and a few others who are new to our company were given a tour of some significant sites around Wellington/Pōneke recently
 date: 2023-10-28 09:07:51
 ---
 ![Library and study room inside Space Place, Wellington](/media/img_1130.jpg)
 
 Myself and a few others who are new to our company were given a tour of some significant sites around Wellington/Pōneke recently.
+
+<!--more-->
 
 I had just arrived back from catching up with family, friends and students in Auckland, so was feeling quite run down prior to the trip. I knew that we would be out walking most of the day, so was a bit apprehensive about going.
 

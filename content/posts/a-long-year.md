@@ -1,12 +1,15 @@
 ---
 layout: post
 title: A long year + some ideas for the future
+description: While it has not been an easy one, there have been some fantastic things in 2021 that I am grateful for.
 date: 2021-12-30 00:04:00
 ---
 
 It’s been a long year. 
 
 While it has not been an easy one, there have been some fantastic things in 2021 that I am grateful for. I have met some wonderful new friends, colleagues, and students, and have enjoyed many laughs with them all. 
+
+<!--more-->
 
 I am especially thankful for my students. They showed great patience with me and expressed great energy and determination even in the short time we were in the classroom. These students are truly kids of the Covid-era, having now been through successive lockdowns and their associated uncertainties for the last two years. And while it has been a great challenge for them, they have also achieved some tremendous things. 
 

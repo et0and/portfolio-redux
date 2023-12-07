@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Another lockdown
+description: Yesterday evening the government announced a new lockdown for those living in Auckland
 date: 2021-02-28 20:33:00
 ---
 
 Yesterday evening the government announced a new lockdown for those living in Auckland. We will be in Level 3 for at least the next seven days, during which time I will be teaching remotely yet again.
+
+<!--more-->
 
 Slowly as we have more and more situations such as this I am getting used to virtual learning. It is still greatly challenging - especially in the case of teaching kids who have inconsistent internet connections and/or unreliable technology. My own connection at home is flaky, with Google Meets often dropping mid-call or uploads being interrupted.
 

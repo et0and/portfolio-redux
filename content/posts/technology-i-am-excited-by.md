@@ -1,12 +1,15 @@
 ---
 layout: post
 title: Technology I am excited about
+description: here are some new emerging technologies that I have come across the past few weeks which excite me both as a teacher and researcher
 date: 2021-01-07 15:32:00
 ---
 
 Happy new year!
 
 It has been a lovely summer so far here in Auckland.  There are some new emerging technologies that I have come across the past few weeks which excite me both as a teacher and researcher.
+
+<!--more-->
 
 - Comma.ai
 [Comma.ai](https://comma.ai) is a fully FOSS Level 2 autonomous driving startup based in San Diego, founded by George Hotz (also known as geohot, a hacker and computer scientist whose work I have admired since he first jailbroke the iPhone in 2007). They are now selling a device, the Comma Two, which can be installed on most mainstream Toyotas, Hondas, Hyundais etc to enable full Level 2 autonomous driving. If Tesla and their Autopilot software is iOS, then Comma and their implementation (called "Openpilot") is Android. The next car I purchase will be one that I know is compatible with Comma, and I look forward to seeing how this software develops this year.
@@ -19,5 +22,3 @@ This is a recent neural network developed by [OpenAI](https://openai.com) that c
 
 [Seen,](https://www.are.na/block/10065820)
 T.
-
-=> This post is also available [on gemini](gemini://gemlog.blue/users/tom/1610084113.gmi)

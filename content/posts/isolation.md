@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Isolation
+description: Spending this week in isolation due to being classified as a household contact
 date: 2022-03-16 00:04:00
 ---
 
 Spending this week in isolation due to being classified as a household contact.
+
+<!--more-->
 
 It has been a strange time. On the one hand it has been peaceful being able to work from home and avoid the mad rush of teaching physically. On the other hand, things that would normally take a single step (or no steps at all) are now three, and you find youself having to constantly work around issues rather than being able to really solve them.
 

@@ -1,10 +1,13 @@
 ---
 layout: post
-title: On Accessibility
+title: On accessibility
+description: As it turns out, accessibility on the web means much more than simply adding alt text to things
 date: 2020-04-25 15:00:00
 ---
 
-As it turns out, accessibility on the web means much more than simply adding alt text to things
+As it turns out, accessibility on the web means much more than simply adding alt text to things.
+
+<!--more-->
 
 Today I completed the "Applied Accessibility" section on FreeCodeCamp. I had very little prior understanding of accessibility despite having an entire section on this website dedicated to it. While I personally think it is fairly legible and easy to navigate, there are many aspects of this site that are too abstracted for users of screen readers.
 

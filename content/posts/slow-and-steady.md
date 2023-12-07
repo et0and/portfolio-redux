@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The snail goes back to making
+description: I am always looking for new and different ways of improving my life, both the quality of it and how to better myself in terms of character and skill for the future
 date: 2020-06-03 14:10:00
 ---
 
@@ -9,6 +10,8 @@ date: 2020-06-03 14:10:00
 Life has been busy.
 
 I am always looking for new and different ways of improving my life, both the quality of it and how to better myself in terms of character and skill for the future. I've been so dead-set in getting myself stronger so that I can have a better job, have more money, own more things and so on. One of my greatest fears is to become complacent and set in my ways.
+
+<!--more-->
 
 However, the danger of being so strung up about constant improvement and renewal is forgetting what you already have. In my case, this has been the skills that I have already picked up and worked hard on while at university. I have neglected my creative practice for the longest time, in part because of how things ended up when I finished (will cover this in more detail some other time) and a general disillusionment with academia at large. After I had graduated I didn't want anthing to do with that world anymore, and as a result took to doing different things and just trying to enjoy my life as I left all the heavy shit behind.
 

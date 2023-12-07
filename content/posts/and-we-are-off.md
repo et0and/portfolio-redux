@@ -1,12 +1,15 @@
 ---
 layout: post
 title: And we are off!
+description: I had no idea the true power and depth of CSS until today - the possibilities seem endless!
 date: 2020-04-23 15:00:00
 ---
 
 I had no idea the true power and depth of CSS until today - the possibilities seem endless!
 
-text: While my prior understanding of CSS had been centred on navigating stylesheets and things related to HTML formatting, I had no idea about how it can actively draw, manipulate and animate elements on a webpage. 
+While my prior understanding of CSS had been centred on navigating stylesheets and things related to HTML formatting, I had no idea about how it can actively draw, manipulate and animate elements on a webpage. 
+
+<!--more-->
 
 When I think of things that move or do anything fancy on a webpage I immediately think of Javascript or jQuery. However, given just how powerful CSS is it's made me realise that a lot of that is not actually necessary. In fact, there are probably a few web projects that I have made in the past which don't need the JS that I've included. It'll be one less thing to worry about, and will likely run a lot faster too!
 

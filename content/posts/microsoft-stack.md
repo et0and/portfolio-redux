@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Using a fully Office 365 stack - my thoughts
+description: Having avoided Microsoft products for the past few years, going back to using them for work has been an interesting experience
 date: 2020-08-09 11:55:00
 ---
 
 I work at a highschool in Aotearoa that is considered a "Microsoft school." Depending on the type of infrastructure that the respective school decides to use it will be dubbed as "Microsoft school", "Google school", "Schoology school" and so on. Having avoided Microsoft products for the past few years, going back to using them for work has been an interesting experience.
+
+<!--more-->
 
 I think that Microsoft has come a long way over the past few years since Satya Nadella became CEO. It's clear that their new focus is on the cloud and cloud product offerings, and Office 365 is no exception. I really appreciate some of the accessibility features built in by default with tools like OneNote having a dictation mode, or being able to navigate something like Teams entirely via the keyboard. For teaching students who are all unique and different, these types of design choices make it much easier for someone like me to implement UDL into my teaching practice.
 

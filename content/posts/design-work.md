@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Touching up on design
+description: Recently I have been working more on my own design work. While I have always had a basic understanding of using design tools such as Inkscape, Figma etc, I have never really had the time to push myself to learn more until now.
 date: 2021-04-20 10:00:00
 ---
 
 Recently I have been working more on my own design work. While I have always had a basic understanding of using design tools such as Inkscape, Figma etc, I have never really had the time to push myself to learn more until now.
+
+<!--more-->
 
 Using the Nothing Market moniker, which has been the name that I have traded as for the past year, I have been generating different designs to improve my skills. I am hoping that by doing this it will mean that I am able to teach more to my students, beyond the core requirements of what is expected from them.
 

@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Back at it
+description: I went back to work this week, and it has been absolutely hectic so far. 
 date: 2020-05-14 20:00:00
 ---
 
 I went back to work this week, and it has been absolutely hectic so far. 
+
+<!--more-->
 
 Before Level 2 went into effect I guessed that people would react one of two ways: 
 

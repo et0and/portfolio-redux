@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Status update
+description: Yesterday I had the opportunity to speak with Piper Haywood, a designer and front-end developer based in the UK
 date: 2020-04-21 15:00:00
 ---
 
 Yesterday I had the opportunity to speak with [Piper Haywood](https://piperhaywood.com), a designer and front-end developer based in the UK who makes up one half of the design studio [SB-PH](https://sb-ph.com). Piper has been running digital coffee sessions for the past month as people across the globe are isolated and affected by Covid-19. Having come across her work with [Sam Baldwin](https://sambaldwin.info) before and wanted to get some advice on how a creative might start learning to program, I signed up for a session!
+
+<!--more-->
 
 My conversation with Piper was awesome. Talking to someone who also came from a visual arts background was especially helpful insofar as the conversation was not solely centred on the technical aspects of programming. I have spoken to CS graduates before for advice on how someone like myself can get started, what resources I should look into and books to read etc. While this was helpful in its own way, much of what I was trying to do in taking this approach felt a bit pedestrian and prescribed. At the same time I have been  trying to run before I knew how to crawl - I don't know the proper terminology surrounding many things like HTML, CSS and JS, nor do I understand how certain things function or perform. I have been trying to build fully polished things having had little foundational knowledge.
 

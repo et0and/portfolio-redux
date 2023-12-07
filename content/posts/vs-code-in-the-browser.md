@@ -1,12 +1,15 @@
 ---
 layout: post
 title: Use VS Code anywhere
+description: Last night I stumbled upon code-server, a program that allows one to run Visual Studio code on any device via a browser
 date: 2020-07-27 07:00:00
 ---
 
 I am a big fan of [VS Code](https://code.visualstudio.com). When I am working on a project I normally work between Micro and VSC, but have found VSC to be fantastic for anything web related. Despite it being built on top of Electron (which has a stereotype of being bloated and slow), Microsoft has clearly done a lot of work in optimising the speed and performance of this editor. In my opinion it has completely superceeded its predecessors like [Atom](https://atom.io) and [Brackets](https://brackets.io), both of which are also built using Electron.
 
-Last night a stumbled upon [code-server](https://github.com/cdr/code-server), a program that allows one to run VSC on essentially any device with a web browser. VSC is rendered and run on your own server, allowing it to do all of the heavy lifting (test, compiling of code etc) and giving you access to a full IDE from any device (even a phone!). This would have many benefits for developers, including saving battery power on their portable machines if they are on-the-go, using public computers to access work remotely and unifying all dev work into a centralised environment.
+<!--more-->
+
+Last night I stumbled upon [code-server](https://github.com/cdr/code-server), a program that allows one to run VSC on essentially any device with a web browser. VSC is rendered and run on your own server, allowing it to do all of the heavy lifting (test, compiling of code etc) and giving you access to a full IDE from any device (even a phone!). This would have many benefits for developers, including saving battery power on their portable machines if they are on-the-go, using public computers to access work remotely and unifying all dev work into a centralised environment.
 
 Development on a phone using this method would still be a bit cumbersome, as typing on a touchscreen would be much harder compared to a physical keyboard for longer dev sessions. However, on a device like an iPad which has more screen realestate and supports Bluetooth keyboards it would make for a nifty portable dev environment!
 

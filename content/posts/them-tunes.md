@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Them tunes
+description: The lockdown has meant that I've been able to dig deeper into the discography of a few artists lately
 date: 2020-04-24 15:00:00
 ---
 
 The lockdown has meant that I've been able to dig deeper into the discography of a few artists lately.
+
+<!--more-->
 
 One artist in particular that I've been listening to a lot is JPEGMAFIA. I've been a big listener of his for the past few years and his last album *All My Heroes Are Cornballs* was my AOTY last year. His level of production is truly off the wall, like a scratched Playstation One disc that's been uploaded via Tor and spat out the other side. His use of a Ridge Racer 4 sample in BALD! is one such example, and results in songs that are like nothing else ever done before in my opinion.
 

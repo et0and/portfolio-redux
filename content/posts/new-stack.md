@@ -1,12 +1,15 @@
 ---
 layout: post
 title: New stack
+description: Over the past few days I've completely rewritten my website and have switched to Eleventy
 date: 2020-04-29 10:14:00
 ---
 
 Over the past few days I've completely rewritten my website and have switched to a new static site generator ([Eleventy](https://11ty.dev)).
 
-My previous site was a fork of [Hunor Karamán's website](https://hex22.org), built with [Choo](https://choo.io) and [Enoki](https://enoki.site). I really liked the flat-file structure of the site, but began feeling like things were too abstracted and limited. For example, posts on the site didn't always play well with screen readers which created an accessibility issue. The site also didn't scale well to desktop screens, with a massive amount of unused whitespace squishing all content to the lefthand side.
+<!--more-->
+
+My previous site was a fork of [Hunor Karamán's website](https://hex22.org), built with [Choo](https://choo.io) and [Enoki](https://github.com/enokidotsite/enoki). I really liked the flat-file structure of the site, but began feeling like things were too abstracted and limited. For example, posts on the site didn't always play well with screen readers which created an accessibility issue. The site also didn't scale well to desktop screens, with a massive amount of unused whitespace squishing all content to the lefthand side.
 
 <figure>
     <img src="/media/old-site.jpg" alt="Screenshot of my old site, with massive whitespace on the righthand side" />

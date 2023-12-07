@@ -1,12 +1,15 @@
 ---
 layout: post
 title: Status report
+description: Sophie and I have moved into our new place
 date: 2020-05-21 22:08:00
 ---
 
 Many big developments as of late.
 
 Sophie and I have moved into our new place. This is the first time I've ever felt that there's been a space that has been truly ours and a result of what we've worked for.
+
+<!--more-->
 
 ![Interior view of our place](/media/home.jpg)
 

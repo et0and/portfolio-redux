@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Notion, supercharged
+description: I spent the day today creating a database of designers from around the world on Notion
 date: 2020-07-14 16:04:00
 ---
 
 I spent the day today creating a database of designers from around the world on [Notion](https://notion.so), a personal wiki/info management software.
+
+<!--more-->
 
 I've used Notion before for managing notes and files, but found it was a bit cumbersome when trying to share content or pages. While it was possible, there was no way to map custom memorable domains to pages (instead it would be default Notion links with a large generated string as the URL). If I wanted to share something with someone I would have to send them the link, which would then need to be pinned or bookmarked if used as a reference.
 

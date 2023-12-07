@@ -1,9 +1,12 @@
 ---
 layout: post
-title: On AI and art
+title: On generative art
+description: As an art teacher, I have seen firsthand the incredible impact that artificial intelligence (AI) has had on the world of art making
 date: 2022-12-21 00:04:00
 ---
 As an art teacher, I have seen firsthand the incredible impact that artificial intelligence (AI) has had on the world of art making. From the way that we create and share our work, to the very techniques and materials we use, AI has transformed the art world in ways that were once unimaginable.
+
+<!--more-->
 
 One of the most significant ways that AI has impacted art making is through the development of new tools and technologies such as [OpenAI's DALL E 2](https://openai.com/dall-e-2/) (which I wrote about briefly a few months back when their first research paper was published) and [Stable Diffusion by Stability AI](https://stability.ai/blog/stable-diffusion-public-release). With the help of AI, artists can now create digital works of art that would have been impossible to create just a few years ago. For example, AI-powered software can generate complex, detailed images and animations, or [even create entire music tracks from scratch](https://huggingface.co/spaces/OneAfterlife/MubertTTM).
 

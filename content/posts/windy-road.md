@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Bits and pieces
+description: Quite a bit had happened in the last few weeks but I haven't had the time to properly reflect on it all
 date: 2020-08-07 15:10:00
 ---
 
 Quite a bit had happened in the last few weeks but I haven't had the time to properly reflect on it all. Hopefully I can do this soon, but in the meantime there are a few things on the horizon:
+
+<!--more-->
 
 - Merveilles is currently thinking about creating another jam where everyone puts together a drawing/graphic for a zine using PostScript
 

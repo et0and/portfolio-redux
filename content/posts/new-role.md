@@ -1,12 +1,15 @@
 ---
 layout: post
 title: A new role
+description: I am due to begin a new role as a highschool teacher in a few weeks time
 date: 2020-07-08 00:10:00
 ---
 
 ![Mars the Rabbit in her house](/media/mars2.jpg)
 
 I am due to begin a new role as a highschool teacher in a few weeks time.
+
+<!--more-->
 
 This will be my first ever time formally teaching in a secondary school. Prior to this all experience I had was just training as part of my Teaching Qualification programme, first at Lynfield College and then at Auckland Grammar School.
 

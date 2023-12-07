@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Elmet Brae - The Land
+description: Some of us from Merveilles recently released a compilation of noise/drone/ambient music inspired by the idea of "the land"
 date: 2023-12-07 15:10:00
 ---
 

@@ -1,12 +1,15 @@
 ---
 layout: post
 title: Update
+description: A lot has happened since my last post but I will keep it brief.
 date: 2021-02-16 18:35:00
 ---
 
 A lot has happened since my last post but I will keep it brief.
 
 I started a new role at a new school here in Auckland. It has been just over two weeks since I began and we unfortunately just went into another Covid lockdown from yesterday, but otherwise things have been going well. My classes are a range of junior and senior, teaching predominantely art with one DVC technology class as well.
+
+<!--more-->
 
 Getting back into teaching has been that everything to do with school has taken priority over everything else. I haven't really had a chance to settle down and work on my own material for a few weeks now. Hopefully I can change this over the coming weeks.
 

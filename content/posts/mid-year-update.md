@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Mid-year update
+description: Been many months since I had time and space in my mind to be able to write anything
 date: 2021-07-14 20:20:00
 ---
 
 Been many months since I had time and space in my mind to be able to write anything.
+
+<!--more-->
 
 Since my last post Sophie and I did a big move out of our old place and into a smaller apartment in central Auckland. It was a very stressful experience and, despite our limited posessions, made me realise just how much stuff one accumulates over the course of even a year (the total length we were at our last place).
 

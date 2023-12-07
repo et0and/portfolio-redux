@@ -1,10 +1,13 @@
 ---
 layout: post
 title: See ya later Westlake
+description: Thank you Westlake - I will see you again soon
 date: 2020-12-13 15:03:00
 ---
 
 Since July this year I have been working at [Westlake Boys High School](https://westlake.school.nz) as a DVC teacher. I picked up a selection of Junior and Senior classes part way through their projects and tried to find my place in the school as smoothly as possible. Despite entering a new school and all the disruptions that had been caused by multiple Covid-19 lockdowns, I wanted to give everything I could to my students so that they had the best shot for success.
+
+<!--more-->
 
 The classes I had were made up of many different boys, each with their own unique backgrounds and skillsets. In some of my Junior classes there was a great disparity between the most technically adept students and the lowest, but I wanted to create lesson plans and projects that would allow all these students multiple ways of approaching their work. The lockdown proved to be the greatest challenge in this regard, as not all students had access to reliable Internet or computer equipment that allowed for working from home. 
 
