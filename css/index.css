@@ -853,7 +853,7 @@ Pagination
   }
 }
 .form-input:focus{
-  outline:3px solid #fd0;
+  outline:3px solid #0000FC;
   outline-offset:0;
   box-shadow:inset 0 0 0 2px
 }
