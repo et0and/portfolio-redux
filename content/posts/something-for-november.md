@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Something for November
+description: The past few months have been great. Things have been moving at a slower pace, allowing me to be more reflective about my actions. 
 date: 2023-11-09 15:10:00
 ---
 
