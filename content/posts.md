@@ -6,5 +6,3 @@ eleventyNavigation:
   order: 3
 ---
 
-
-<br><br><br><br>

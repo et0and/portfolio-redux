@@ -7,6 +7,52 @@ pagination:
 permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}"
 ---
 
+<form id="searchForm">
+       <input type="text" id="searchInput" placeholder="Search posts">
+       <button type="submit">Search</button>
+   </form>
+   <ul id="resultsList"></ul>
+
+   <script>
+       const blogPosts = [
+           {
+               title: "Elmet Brae - The Land",
+               description: "Some of us from Merveilles, a loose collective that I’ve been part of for a while now, recently released a compilation of noise/drone/ambient music inspired by the idea of “the land”.",
+               url: "https://tom.so/posts/elmet-brae/"
+           },
+           {
+               title: "Something for November",
+               description: "This is the second blog post.",
+               url: "https://tom.so/posts/something-for-november/"
+           },
+           // More blog posts...
+       ];
+
+       const fuse = new Fuse(blogPosts, {
+           keys: ['title', 'description', 'url'],
+           threshold: 0.3,
+           location: 0,
+           distance: 100,
+           caseSensitive: false
+       });
+
+       document.getElementById('searchForm').addEventListener('submit', function(event) {
+           event.preventDefault();
+           const query = document.getElementById('searchInput').value;
+           const results = fuse.search(query);
+           const resultsList = document.getElementById('resultsList');
+           resultsList.innerHTML = '';
+           for (const result of results) {
+              const listItem = document.createElement('li');
+              const link = document.createElement('a');
+              link.href = result.item.url;
+              link.textContent = result.item.title + ': ' + result.item.description;
+              listItem.appendChild(link);
+              resultsList.appendChild(listItem);
+              }
+       });
+   </script>
+
 <div class="posts">
   {% for post in postslist %}
     <article class="post">
