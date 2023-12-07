@@ -48,7 +48,7 @@ permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
               const listItem = document.createElement('li');
               const link = document.createElement('a');
               link.href = result.item.url;
-              link.textContent = result.item.title + '<br> ' + result.item.description;
+              link.textContent = result.item.title + <br> + result.item.description;
               listItem.appendChild(link);
               resultsList.appendChild(listItem);
               }
