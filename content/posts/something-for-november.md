@@ -6,6 +6,8 @@ date: 2023-11-09 15:10:00
 
 The past few months have been great. Things have been moving at a slower pace, allowing me to be more reflective about my actions. Stressors that once existed in Auckland no longer apply - I can take my time, avoid rushing, and still have energy left at the end of the day. Now, I have the opportunity to think about the kind of person I want to be.
 
+<!--more-->
+
 When I left university, I felt desperate to do something meaningful with my life. I had spent four years at art school developing a practice, only to realise it wasn't what I wanted. I needed something to identify with. My idea of a meaningful life was outward-facing, where I sought something to help those around me. Teaching seemed like a logical choice, especially after gaining some experience while in university under my mentor's guidance.
 
 Teaching went well for a while. I felt that my life had real purpose and a defined practice. I had these young people to help, and we worked together to achieve their goals. It was incredibly rewarding because we celebrated every success, no matter how big or small.

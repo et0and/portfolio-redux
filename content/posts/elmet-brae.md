@@ -8,6 +8,8 @@ date: 2023-12-07 15:10:00
 
 Some of us from [Merveilles](https://merveilles.town), a loose collective that I've been part of for a while now, recently released a compilation of noise/drone/ambient music inspired by the idea of "the land", released for free via [Elmet Brae records](https://orllewin.github.io/elmet_brae/) and [Beldam](https://beldamrecords.bandcamp.com/).
 
+<!--more-->
+
 While I've worked with Merveilles on other projects before, this is the first one I've done involving sound/music. My contribution is pretty small, but it was a great thing to get involved with and a way of me connecting to [where I now call home](https://tom.so/posts/wee-tour-of-p%C5%8Dneke/).
 
 More details about each track and artist can be found on [the dedicated microsite](https://orllewin.github.io/elmet_brae/EB01/) set up by [Gogledd Orllewin](https://orllewin.github.io/). Album art was created by the talented [Rostiger](https://nchrs.xyz/). 
