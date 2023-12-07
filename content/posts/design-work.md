@@ -11,7 +11,7 @@ Recently I have been working more on my own design work. While I have always had
 
 Using the Nothing Market moniker, which has been the name that I have traded as for the past year, I have been generating different designs to improve my skills. I am hoping that by doing this it will mean that I am able to teach more to my students, beyond the core requirements of what is expected from them.
 
-![An example of a poster I designed recently using Figma](/media/nm-figma-test.gif loading="lazy")
+![An example of a poster I designed recently using Figma](/media/nm-figma-test.gif)
 
 This is what I have done over this past week, producing at least one outcome every single day. Some are more successful than others, but it doesn't really bother me too much. For me, the most valuable thing from all this has been getting faster and better at the process of using these tools.
 
