@@ -671,9 +671,10 @@ Pagination
 }
 
 .searchlieu {
-  width: 100%;
-  position: relative;
-  display: flex;
+  margin-bottom: 8rem;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: var(--width-textcol);
 }
 
 .searchTerm {
