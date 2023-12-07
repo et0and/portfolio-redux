@@ -739,8 +739,8 @@ Pagination
     padding-top: 1rem;
     padding-left: 1rem;
     padding-bottom: 1rem;
-    background-color: #000;
-    color: #fff;
+    background-color: #bebebe;
+    color: #000;
     align-items: left; /* Align items along the Y-axis */
   }
 
