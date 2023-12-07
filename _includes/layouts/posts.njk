@@ -7,11 +7,13 @@ pagination:
 permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}"
 ---
 
+<div class="searchlieu">
 <form id="searchForm">
        <input type="text" id="searchInput" placeholder="Search posts">
        <button type="submit">Search</button>
    </form>
    <ul id="resultsList"></ul>
+</div>
 
    <script>
        const blogPosts = [
@@ -22,7 +24,7 @@ permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
            },
            {
                title: "Something for November",
-               description: "This is the second blog post.",
+               description: "The past few months have been great. Things have been moving at a slower pace, allowing me to be more reflective about my actions. ",
                url: "https://tom.so/posts/something-for-november/"
            },
            // More blog posts...
