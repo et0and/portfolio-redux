@@ -3,12 +3,11 @@
   <head>
     <script defer data-domain="tom.so" src="https://plausible.io/js/script.js"></script>
     <script defer src="/_vercel/insights/script.js"></script>
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ title ~ ' – ' ~ global.title if title else global.title }}</title>
     <meta property="og:image" content="https://tom.so/media/og.png">
-    <meta name="description" content="Tom Hackshaw is a school teacher and designer from Hokkaido, Japan. Currently based in Tāmaki Makaurau, Aotearoa.">
+    <meta name="description" content="{{ description ~ ' – ' ~ global.description if description else global.description }}">
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
     <link rel="icon" href="/media/favicon.ico" type="image/x-icon"/>
 <link rel="shortcut icon" href="/media/favicon.ico" type="image/x-icon"/>
@@ -51,18 +50,6 @@
         <a rel="me" aria-hidden="true" href="https://merveilles.town/@tomupom" alt="Referral link to Merveilles, a Mastodon instance I am a member of"></a>
       </footer>
     {% endif %}
-    
-    <script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
 
 <script>
 // Create a grid
