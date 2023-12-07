@@ -4,7 +4,6 @@ title: Future content improvements
 description: I used to think that alt text on images basically covered all that you needed to worry about for web a11y, but it wasn't until I began actively testing with a variety of different tools that I found there is much more to it than this.
 date: 2023-10-23
 ---
-## Some background
 
 Since I first created this website, I have tried to be more aware of the issues around web accessibility (a11y). When I tried using NVDA on my old website, I was horrified and embarrassed by the experience. I used to think that alt text on images basically covered all that you needed to worry about for web a11y, but it wasn't until I began actively testing with a variety of different tools that I found there is much more to it than this.
 
