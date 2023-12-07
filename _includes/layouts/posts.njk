@@ -9,9 +9,9 @@ permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
 
 <div class="searchlieu">
 <form id="searchForm">
-  <input type="text" id="searchInput" placeholder="Search posts">
-  <button id="searchButton" type="submit">Search</button>
-</form>
+       <input type="text" id="searchInput" placeholder="Search posts">
+       <button type="submit">Search</button>
+   </form>
    <ul id="resultsList"></ul>
 </div>
 
@@ -37,25 +37,6 @@ permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
            distance: 100,
            caseSensitive: false
        });
-
-        const searchInput = document.getElementById('searchInput');
-        const searchButton = document.getElementById('searchButton');
-
-        searchInput.addEventListener('input', function() {
-        if (this.value) {
-          searchButton.textContent = 'Clear';
-        } else {
-          searchButton.textContent = 'Search';
-        }
-        });
-
-        searchButton.addEventListener('click', function(event) {
-        event.preventDefault();
-        if (searchInput.value) {
-          searchInput.value = '';
-          searchButton.textContent = 'Search';
-        }
-        });
 
        document.getElementById('searchForm').addEventListener('submit', function(event) {
            event.preventDefault();
