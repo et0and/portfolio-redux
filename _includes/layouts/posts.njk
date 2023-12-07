@@ -45,13 +45,13 @@ permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
            const resultsList = document.getElementById('resultsList');
            resultsList.innerHTML = '';
            for (const result of results) {
-              const listItem = document.createElement('li');
-              const link = document.createElement('a');
-              link.href = result.item.url;
-              link.textContent = result.item.title + <br> + result.item.description;
-              listItem.appendChild(link);
-              resultsList.appendChild(listItem);
-              }
+            const listItem = document.createElement('li');
+            const link = document.createElement('a');
+            link.href = result.item.url;
+            link.innerHTML = `<strong>${result.item.title}</strong><br>${result.item.description}`;
+            listItem.appendChild(link);
+            resultsList.appendChild(listItem);
+            }
        });
    </script>
 
