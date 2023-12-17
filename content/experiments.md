@@ -6,6 +6,8 @@ eleventyNavigation:
   order: 2
 ---
 
+Small creative experiments that I have worked on outside of my design work
+
 <div class="searchlieu">
   <div class="form-group">
       <form id="searchForm">
@@ -129,8 +131,6 @@ eleventyNavigation:
             }
        });
    </script>
-
-Small creative experiments that I have worked on outside of my design work
 
 ---
 
