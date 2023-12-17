@@ -6,17 +6,129 @@ eleventyNavigation:
   order: 2
 ---
 
-<!--div class="searchlieu">
+<div class="searchlieu">
+  <div class="form-group">
+      <form id="searchForm">
+        <input class="form-input" id="searchInput" name="experimentPosts" placeholder="Search for experiments" type="text">
+      </form>
+    <ul id="resultsList"></ul>
+  </div>
+</div>
 
-<form method="GET" action="https://lieu.cblgh.org/">
-    <input type="hidden" value="tom.so" name="site">
-    <input class="searchTerm" name="q" placeholder="Powered by Lieu">
-    <button class="searchButton" type="submit">🔍</button>
-</form>
+   <script>
+      const experimentPosts = [
+           {
+        title: "An Idea for a Performance",
+        description: "A tool for generating ideas.",
+        url: "https://tom.so/experiment/an-idea-for-a-performance"
+           },
+           {
+            title: "Hyperjam",
+            description: "An interactive art festival hosted by Merveilles."
+            url: "https://tom.so/experiment/hyperjam"
+           },
+           {
+            title: "Markono",
+            description: "A program for generating performance instructions."
+            url: "https://tom.so/experiment/markono"
+           },
+           {
+            title: "Performa",
+            description: "A performance art archive."
+            url: "https://tom.so/experiment/performa"
+           },
+           {
+            title: "The Museum Without Walls",
+            description: "A Macintosh Hypercard project",
+            url: "https://tom.so/experiment/museum-without-walls"
+           },
+           {
+            title: "The Language of Art",
+            description: "An art history resource.",
+            url: "https://tom.so/experiment/the-language-of-art"
+           },
+           {
+            title: "Whitecubes",
+            description: "An interactive art map",
+            url: "https://tom.so/experiment/whitecubes"
+           },
+           {
+            title: "Chess",
+            description: "Some notes on the game of chess (ongoing)",
+            url: "https://tom.so/experiment/chess"
+           },
+           {
+            title: "Church Yard",
+            description: "A research archive on Søren Kierkegaard.",
+            url: "https://tom.so/experiment/church-yard"
+           },
+           {
+            title: "Derridata",
+            description: "A research archive dedicated to the work of Jacques Derrida.",
+            url: "https://tom.so/experiment/church-yard"
+           },
+           {
+            title: "Imaginary Museum",
+            description: "A growing archive of reference material.",
+            url: "https://tom.so/experiment/imaginary-museum"
+           },
+           {
+            title: "Philemon",
+            description: "A Jungian research archive.",
+            url: "https://tom.so/experiment/philemon"
+           },
+           {
+            title: "Poetics of Space",
+            description: "A research archive on spaces.",
+            url: "https://tom.so/experiment/poetics-of-space"
+           },
+           {
+            title: "Tea",
+            description: "A research page dedicated to different types of tea (work in progress)",
+            url: "https://tom.so/experiment/tea"
+           },
+           {
+            title: "Some Quiet Tips",
+            description: "A mental health resource.",
+            url: "https://tom.so/experiment/some-quiet-tips"
+           },
+           {
+            title: "TXTRNZ",
+            description: "A text-only version of the RNZ new site.",
+            url: "https://tom.so/experiment/txtrnz"
+           },
+           {
+            title: "WWW",
+            description: "A collection of sites on the World Wide Web.",
+            url: "https://tom.so/experiment/www"
+           }
 
-</div-->
+       ];
 
-<br>
+       const fuse = new Fuse(experimentPosts, {
+           keys: ['title', 'description', 'url'],
+           threshold: 0.3,
+           location: 0,
+           distance: 100,
+           caseSensitive: false
+       });
+
+       document.getElementById('searchForm').addEventListener('submit', function(event) {
+           event.preventDefault();
+           const query = document.getElementById('searchInput').value;
+           const results = fuse.search(query);
+           const resultsList = document.getElementById('resultsList');
+           resultsList.innerHTML = '';
+           for (const result of results) {
+            const listItem = document.createElement('li');
+            const link = document.createElement('a');
+            link.href = result.item.url;
+            link.innerHTML = `<strong>${result.item.title}</strong><br>${result.item.description}<br><br>`;
+            listItem.appendChild(link);
+            resultsList.appendChild(listItem);
+            }
+       });
+   </script>
 
 Small creative experiments that I have worked on outside of my design work
 
@@ -81,7 +193,7 @@ Small creative experiments that I have worked on outside of my design work
 ↳ A text-only version of the RNZ news site
 
 [WWW](/experiment/www "Are.na channel of weird, inspiring websites")
-↳ A collection of site on the World Wide Web
+↳ A collection of sites on the World Wide Web
 
 
 
