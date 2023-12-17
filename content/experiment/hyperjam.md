@@ -1,6 +1,7 @@
 ---
 layout: experiment
 title: Hyperjam
+description: A Merveilles online game festival.
 dateEnd: 2020-04-07
 media:
   - type: image

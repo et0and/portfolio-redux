@@ -1,6 +1,7 @@
 ---
 layout: experiment
 title: An Idea For A Performance
+description: A tool for generating performance ideas
 dateEnd: 2020-04-05
 media:
   - type: image

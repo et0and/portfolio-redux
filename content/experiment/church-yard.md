@@ -1,6 +1,7 @@
 ---
 layout: experiment
 title: Church Yard
+description: Private research archive on Søren Kierkegaard.
 dateEnd: 2020-04-20
 media:
   - type: image

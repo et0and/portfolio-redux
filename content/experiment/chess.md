@@ -1,6 +1,7 @@
 ---
 layout: experiment
 title: Notes on chess
+description: Some notes and thoughts on chess.
 ---
 
 _Chess has no social purpose. That, above all, is important_ - Marcel Duchamp

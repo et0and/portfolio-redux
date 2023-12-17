@@ -1,6 +1,7 @@
 ---
 layout: experiment
 title: Derridata
+description: Research archive on Jacques Derrida.
 dateEnd: 2020-04-20
 media:
   - type: image
