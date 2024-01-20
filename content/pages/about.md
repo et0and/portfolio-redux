@@ -39,7 +39,7 @@ I have accounts on other popular social media sites, but rarely use them.
 
 ---
 
-I would like to acknowledge Māori as tangata whenua and Treaty of Waitangi partners in Aotearoa New Zealand. I pay my respects to the mana whenua who are the original and continued rightful stewards of the land that I love and on which I work and reside.
+I would like to acknowledge Māori as tangata whenua and Te Tiriti o Waitangi partners in Aotearoa New Zealand. I pay my respects to the mana whenua who are the original and continued rightful stewards of the land that I love and on which I work and reside.
 
 ---
 
