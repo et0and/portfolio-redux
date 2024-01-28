@@ -837,7 +837,7 @@ Pagination
 }
 @media print{
   .form-input{
-      font-family:sans-serif
+      font-family: 'Inter', sans-serif
   }
 }
 @media(min-width: 40.0625em){
