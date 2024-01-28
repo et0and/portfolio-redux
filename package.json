@@ -56,5 +56,8 @@
     "luxon": "^1.22.2",
     "markdown-it": "^10.0.0",
     "markdown-it-anchor": "^5.2.5"
+  },
+  "dependencies": {
+    "fuse.js": "^7.0.0"
   }
 }

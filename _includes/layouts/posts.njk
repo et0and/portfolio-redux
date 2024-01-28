@@ -16,7 +16,31 @@ permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
   </div>
 </div>
 
-   <script>
+<script>
+  const myIndex = Fuse.createIndex(['title', 'description', 'url'], posts)
+  fs.writeFile('fuse-index.json', JSON.stringify(myIndex.toJSON()))
+  
+  const fuseIndex = await require('fuse-index.json')
+  const myIndex = Fuse.parseIndex(fuseIndex)
+  const fuse = new Fuse(posts, options, myIndex)
+
+       document.getElementById('searchForm').addEventListener('submit', function(event) {
+           event.preventDefault();
+           const query = document.getElementById('searchInput').value;
+           const results = fuse.search(query);
+           const resultsList = document.getElementById('resultsList');
+           resultsList.innerHTML = '';
+           for (const result of results) {
+            const listItem = document.createElement('li');
+            const link = document.createElement('a');
+            link.href = result.item.url;
+            link.innerHTML = `<strong>${result.item.title}</strong><br>${result.item.description}<br><br>`;
+            listItem.appendChild(link);
+            resultsList.appendChild(listItem);
+            }
+       });
+  </script>     
+   <!--script>
       const blogPosts = [
            {
         title: "2023 highlights",
@@ -113,7 +137,7 @@ permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
             resultsList.appendChild(listItem);
             }
        });
-   </script>
+   </script-->
 
 <div class="posts">
   {% for post in postslist %}
