@@ -254,10 +254,10 @@ Layout / global includes
   bottom: 0;
   
   /* Gradient background */
-  background: linear-gradient(to bottom, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.2) 100%);
+  background: #ffffff /*linear-gradient(to bottom, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0.2) 100%)*/;
   
   /* Apply a fixed blur effect */
-  backdrop-filter: blur(5px);
+  /*backdrop-filter: blur(5px);*/
   
   /* Ensure the pseudo-element stays below the header content */
   z-index: -1;
