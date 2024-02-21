@@ -4,7 +4,15 @@
 
 Built using [Eleventy](https://www.11ty.dev/), and forked from Sam Baldwin and Piper Haywood's [Portfolio Starter](https://portfolio-starter.sb-ph.com/) theme. All thanks and credits to them - all I have done is hack the project to my liking.
 
-This is a great template to use for showcasing work. It is lightweight, simple to read and only really requires knowledge of Markdown to post.
+Key changes in this fork include:
+  - some package updates for security and stability
+  - styling changes for better mobile navigation
+  - ability to search blog posts using [pagefind](https://github.com/cloudcannon/pagefind)
+  - automated monthtly broken link checker, powered by GitHub Actions and [lychee](https://github.com/lycheeverse/lychee)
+
+This is a great template to use for showcasing work. It is lightweight, simple to read and only requires knowledge of Markdown to post.
+
+As it is built with Eleventy, it is possible to connect a CMS such as [Tina](https://tina.io) or [Decap](https://decapcms.org/) to allow for WYSIWYG content publishing. I plan on adding this and documenting the steps here in a future update. 
 
 ### Building and deploying
 
@@ -15,9 +23,9 @@ To deploy and host this site, I recommend [Vercel](https://vercel.com) (formerly
 Build command: `npx @11ty/eleventy`
 Output directory: `_site`
 
-From the Vercel dashboard you can set things like redirects, custom domains, and so on.
+If you want to use pagefind on your site, modify the build command to be `npx @11ty/eleventy && nox -y pagefind --site _site`
 
-Deploy using Vercel below
+From the Vercel dashboard you can set things like analytics, custom domains, and so on.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/sb-ph/portfolio-starter)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/et0and/portfolio-redux)
 
