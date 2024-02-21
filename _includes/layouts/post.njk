@@ -2,15 +2,16 @@
 layout: base
 permalink: "/posts/{{ page.fileSlug }}/index.html"
 ---
-<main data-pagefind-body>
+
 <article class="post">
+<main data-pagefind-body>
   <header class="post-header">
     <h1 data-pagefind-meta="title" class="post-title">{{ title | safe }}</h1>
     <time class="post-date" datetime="{{ date | dateToFormat('yyyy-LL-dd') }}">{{ date | dateToFormat('d LLL y') }}</time>
   </header>
   {{ content | safe }}
-</article>
 </main>
+</article>
 
 {% set next = collections.posts | nextInCollection(page.fileSlug) %}
 {% set previous = collections.posts | prevInCollection(page.fileSlug) %}
