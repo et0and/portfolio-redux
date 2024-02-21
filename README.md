@@ -23,7 +23,7 @@ To deploy and host this site, I recommend [Vercel](https://vercel.com) (formerly
 Build command: `npx @11ty/eleventy`
 Output directory: `_site`
 
-If you want to use pagefind on your site, modify the build command to be `npx @11ty/eleventy && nox -y pagefind --site _site`
+If you want to use pagefind on your site, modify the build command to be `npx @11ty/eleventy && npx -y pagefind --site _site`
 
 From the Vercel dashboard you can set things like analytics, custom domains, and so on.
 
