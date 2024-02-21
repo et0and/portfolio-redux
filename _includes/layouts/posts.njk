@@ -1,4 +1,4 @@
-  ---
+---
 layout: base
 pagination:
   data: collections.posts
@@ -24,7 +24,7 @@ permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
 </div>
      
    <script>
-    const blogPosts = [
+      const blogPosts = [
            {
         title: "2023 highlights",
         description: "Before I forget, I wanted to reflect on a few key moments from 2023.",
@@ -126,7 +126,7 @@ permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
   {% for post in postslist %}
     <article class="post">
       <header class="post-header">
-      <h2 class="post-title">
+        <h2 class="post-title">
           <a href="{{ post.url }}">{{ post.data.title | safe }}</a>
         </h2>
         <time class="post-date" datetime="{{ post.date | dateToFormat('yyyy-LL-dd') }}">{{ post.date | dateToFormat('d LLL y') }}</time>
