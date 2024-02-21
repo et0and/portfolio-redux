@@ -24,7 +24,7 @@ permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
 </div>
      
    <script>
-      const blogPosts = [
+    const blogPosts = [
            {
         title: "2023 highlights",
         description: "Before I forget, I wanted to reflect on a few key moments from 2023.",
@@ -124,6 +124,7 @@ permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
 
 <div class="posts">
   {% for post in postslist %}
+  <main data-pagefind-body>
     <article class="post">
       <header class="post-header">
         <h2 class="post-title">
@@ -138,6 +139,7 @@ permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
         {{ post.templateContent | safe }}
       {% endif %}
     </article>
+  </main>
   {% endfor %}
 </div>
 
