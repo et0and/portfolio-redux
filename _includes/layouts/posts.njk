@@ -1,4 +1,4 @@
----
+  ---
 layout: base
 pagination:
   data: collections.posts
@@ -124,11 +124,11 @@ permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
 
 <div class="posts">
   {% for post in postslist %}
-  <main data-pagefind-body>
+  
     <article class="post">
       <header class="post-header">
-      <h2 data-pagefind-meta="title" class="post-title">
-          <a data-pagefind-meta="url[href]" rel="canonical" href="{{ post.url }}">{{ post.data.title | safe }}</a>
+      <h2 class="post-title">
+          <a href="{{ post.url }}">{{ post.data.title | safe }}</a>
         </h2>
         <time class="post-date" datetime="{{ post.date | dateToFormat('yyyy-LL-dd') }}">{{ post.date | dateToFormat('d LLL y') }}</time>
       </header>
@@ -139,7 +139,7 @@ permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
         {{ post.templateContent | safe }}
       {% endif %}
     </article>
-  </main>
+  
   {% endfor %}
 </div>
 
