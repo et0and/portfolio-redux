@@ -7,7 +7,13 @@ pagination:
 permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}"
 ---
 
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+
+
+<div class="searchlieu">
+<h2>Writing</h2>
+<p>Also available as <a href="https://tom.so/feed-rss.xml">an RSS feed</a>.</p>
+  <div class="form-group">
+      <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
 <div id="search"></div>
 <script>
@@ -15,16 +21,6 @@ permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1
         new PagefindUI({ element: "#search", showSubResults: true });
     });
 </script>
-
-<div class="searchlieu">
-<h2>Writing</h2>
-<p>Also available as <a href="https://tom.so/feed-rss.xml">an RSS feed</a>.</p>
-  <div class="form-group">
-      <form id="searchForm">
-        <input class="form-input" id="searchInput" name="blogPosts" placeholder="Search for posts" type="text">
-      </form>
-    <ul id="resultsList"></ul>
-  </div>
 </div>
      
    <script>
