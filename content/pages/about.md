@@ -53,8 +53,8 @@ BFA (Hons), The University of Auckland, 2014-2017
 
 <br><br>
 
-<div id="wcb" class="carbonbadge"></div>
-<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
+<!--div id="wcb" class="carbonbadge"></div>
+<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script-->
 
 <!--div class="insightgreen">
 
