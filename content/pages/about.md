@@ -56,7 +56,7 @@ BFA (Hons), The University of Auckland, 2014-2017
 <div id="wcb" class="carbonbadge"></div>
 <script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
 
-<--div class="insightgreen">
+<!--div class="insightgreen">
 
 <small>🌳 This website has been designed to minimise the energy consumption and CO2 emissions that result from navigating the Internet. Current emissions are available to view on [Website Carbon Calculator](https://www.websitecarbon.com/website/tom-so/ "Website Carbon Calculator for tom.so"). <br/>
 [Technical information about this site](/siteinfo "Some information on how this site has been built").</small>
