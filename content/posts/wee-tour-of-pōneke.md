@@ -4,7 +4,7 @@ title: Wee tour of Pōneke
 description: Myself and a few others who are new to our company were given a tour of some significant sites around Wellington/Pōneke recently
 date: 2023-10-28 09:07:51
 ---
-![Library and study room inside Space Place, Wellington](/media/img_1130.jpg)
+![Library and study room inside Space Place, Wellington](/media/space-place.png)
 
 Myself and a few others who are new to our company were given a tour of some significant sites around Wellington/Pōneke recently.
 
@@ -14,10 +14,10 @@ I had just arrived back from catching up with family, friends and students in Au
 
 Before we left, we were given a brief lecture on the history of Wellington and how it came into being. From the early arrival of Māori to the history of The New Zealand Land Company, it gave us much greater context around the establishment of the city we work in. Many of the streets I work near are named after the original directors of The New Zealand Land Company (such as Willis Street, Lambton Quay, and so on).
 
-![Plant nursery with native species at Ōtari-Wilton's Bush](/media/img_1144.jpg)
+![Plant nursery with native species at Ōtari-Wilton's Bush](/media/otari-wilson.png)
 
 After the lecture we went on a bus tour around a few different sites. We visited the [Cable Car Museum](https://www.museumswellington.org.nz/cable-car-museum/), [Space Place](https://www.museumswellington.org.nz/space-place/), [Karori Cemetery](https://wellington.govt.nz/cemeteries/wellington-cemeteries/karori-cemetery/about-karori-cemetery), and finally [Ōtari-Wilton's Bush](https://en.wikipedia.org/wiki/Otari-Wilton%27s_Bush). The latter was probably my favourite place, where we were given a tour of their plant nursery which housed rare species of native orchids and [celmisia](https://en.wikipedia.org/wiki/Celmisia). It was incredible see that such a beautiful sanctuary for native flora and fauna exists so close to the city.
 
-![Some rare New Zealand celmisia being cared for inside a small nursery](/media/img_1148.jpg)
+![Some rare New Zealand celmisia being cared for inside a small nursery](/media/nursery.png)
 
 All in all I was really thankful for the opportunity, and was glad to have gone on the trip.
