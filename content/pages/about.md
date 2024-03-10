@@ -20,8 +20,6 @@ the people will prosper"
 
 </div>
 
-<br><br>
-
 Hi, I'm Tom,
 I am a designer with a background in the arts and education. Presently I am working as a web producer in Pōneke, Te Whanganui-a-Tara. Prior to this, I taught design, art and digital technology at [Takapuna Grammar School](https://takapuna.school.nz), where I also worked on the development of [Te Wāhi Auaha](https://tewahi.com) (a school maker space and innovation space).
 
@@ -34,24 +32,18 @@ Find me on [are.na](https://are.na/tom "Are.na"), [Read.cv](https://read.cv/hack
 I have accounts on other popular social media sites, but rarely use them.
 
 
-
-<br><br>
-
 ---
 
 I would like to acknowledge Māori as tangata whenua and Te Tiriti o Waitangi partners in Aotearoa New Zealand. I pay my respects to the mana whenua who are the original and continued rightful stewards of the land that I love and on which I work and reside.
 
 ---
 
-<br><br>
 
-**Education** 
+<h2>Education</h2>
 UX Design Program, CareerFoundry GmbH Berlin, 2021-2022
 Foundations of UX Design, Google + Coursera, 2021
 Grad Dip Teaching (Secondary), The University of Auckland, 2019
 BFA (Hons), The University of Auckland, 2014-2017 
-
-<br><br>
 
 <!--div id="wcb" class="carbonbadge"></div>
 <script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script-->
