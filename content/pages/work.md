@@ -9,6 +9,8 @@ This page, along with the pages for each project, is currently in the process of
 
 </div>
 
+<br><br>
+
 Some examples of past design work
 
 <h3>Te Wāhi Auaha</h3>
