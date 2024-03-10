@@ -585,8 +585,9 @@ Contact form
 .insight {
 	background: rgb(255, 237, 187);
 	color: rgb(0, 0, 0);
-	padding: 14px 14px 14px 14px;
+	padding: 2rem;
 	border-radius: 20px;
+  margin: 2rem;
 }
 
 .insightgreen {
