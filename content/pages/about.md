@@ -31,13 +31,11 @@ Find me on [are.na](https://are.na/tom "Are.na"), [Read.cv](https://read.cv/hack
 
 I have accounts on other popular social media sites, but rarely use them.
 
-
----
+<h2>Acknowledgements</h2>
 
 I would like to acknowledge Māori as tangata whenua and Te Tiriti o Waitangi partners in Aotearoa New Zealand. I pay my respects to the mana whenua who are the original and continued rightful stewards of the land that I love and on which I work and reside.
 
----
-
+I would also like to acknowledge the many free and open source that this website, along with many of my other projects, take advantage of. For a full look at the different libraries and packages used to power this website, [take a look at the GitHub repo](https://github.com/et0and/portfolio-redux).
 
 <h2>Education</h2>
 UX Design Program, CareerFoundry GmbH Berlin, 2021-2022
