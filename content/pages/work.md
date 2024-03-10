@@ -3,7 +3,13 @@ layout: page
 title: Work
 ---
 
-Some examples of past design work:
+<div class="insight">
+
+This page, along with the pages for each project, is currently in the process of being completely reworked to address content and accessibility concerns. 
+
+</div>
+
+Some examples of past design work
 
 <h3>Te Wāhi Auaha</h3>
 <h4>Redesigning a school maker space (2021-2022)</h4>
