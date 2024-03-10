@@ -20,6 +20,8 @@ the people will prosper"
 
 </div>
 
+<br><br>
+
 Hi, I'm Tom,
 I am a designer with a background in the arts and education. Presently I am working as a web producer in Pōneke, Te Whanganui-a-Tara. Prior to this, I taught design, art and digital technology at [Takapuna Grammar School](https://takapuna.school.nz), where I also worked on the development of [Te Wāhi Auaha](https://tewahi.com) (a school maker space and innovation space).
 
