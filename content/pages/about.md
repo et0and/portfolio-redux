@@ -6,24 +6,8 @@ eleventyNavigation:
   order: 4
 ---
 
-<div class="insight">
-
-"_Nahau te rourou_
-_Naku te rourou_
-_Ka ora ai te manuhiri_"
-
-"With your basket of knowledge
-and my basket of knowledge
-the people will prosper"
-
--- Māori proverb
-
-</div>
-
-<br><br>
-
 Hi, I'm Tom,
-I am a designer with a background in the arts and education. Presently I am working as a web producer in Pōneke, Te Whanganui-a-Tara. Prior to this, I taught design, art and digital technology at [Takapuna Grammar School](https://takapuna.school.nz), where I also worked on the development of [Te Wāhi Auaha](https://tewahi.com) (a school maker space and innovation space).
+I am a designer with a background in the arts and education. Presently I am working as a web producer and developer in Pōneke, Te Whanganui-a-Tara. Prior to this, I taught design, art and digital technology at [Takapuna Grammar School](https://takapuna.school.nz), where I also worked on the development of [Te Wāhi Auaha](https://tewahi.com) (a school maker space and innovation space).
 
 My experience in making learning more accessible and equitable across a range of students from different backgrounds and abilities built the foundation of my human-centered design practice. Anything I make or work on is [guided by these set of values](/values "a list of values I work by").
 
@@ -35,9 +19,9 @@ I have accounts on other popular social media sites, but rarely use them.
 
 <h2>Acknowledgements</h2>
 
-I would like to acknowledge Māori as tangata whenua and Te Tiriti o Waitangi partners in Aotearoa New Zealand. I pay my respects to the mana whenua who are the original and continued rightful stewards of the land that I love and on which I work and reside.
+I would like to acknowledge Māori as tangata whenua and Te Tiriti o Waitangi partners in Aotearoa New Zealand. I pay my respects to the mana whenua who are the original and continued rightful stewards of the land.
 
-I would also like to acknowledge the many free and open source that this website, along with many of my other projects, take advantage of. For a full look at the different libraries and packages used to power this website, [take a look at the GitHub repo](https://github.com/et0and/portfolio-redux).
+I would also like to acknowledge the many free and open source software that this website, along with many of my other projects, take advantage of. For a full look at the different libraries and packages used to power this website, [take a look at the GitHub repo](https://github.com/et0and/portfolio-redux).
 
 <h2>Education</h2>
 UX Design Program, CareerFoundry GmbH Berlin, 2021-2022
