@@ -62,7 +62,7 @@ Small creative experiments that I have worked on outside of my design work
 
 <h3>Web</h3>
 
-[Good Sign-Offs](/experiments/good-sign-offs "A simple app for displaying blocks from an are.na channel")
+[Good Sign-Offs](/experiment/good-sign-offs "A simple app for displaying blocks from an are.na channel")
 ↳ A collection of sign-offs, displaying using the are.na API
 
 [Some Quiet Tips](/experiment/some-quiet-tips "Mental health chat app")
