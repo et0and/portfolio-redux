@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> I no longer use and maintain this repo for my website. 11ty served me well for many years but in June 2024 I decided to make the switch to Next.js and App Router. 
+
 # Portfolio Redux
 
 ![Screenshot of website](tomso.webp)
